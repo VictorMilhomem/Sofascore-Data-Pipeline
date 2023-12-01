@@ -5,4 +5,6 @@ This repository is my Sofascore data pipeline
 # TODO
 
 - [x] Scrape Tournment Players Statistics
-- [ ] Scrape Player Information (Pos, Nationality, Age, Value, Heatmap, etc)
+- [x] Scrape Player Information (Pos, Nationality, Age, Value etc)
+- [x] Scrape Team Information
+- [ ] Engineer the data
