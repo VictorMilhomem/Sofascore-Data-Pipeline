@@ -1,0 +1,487 @@
+yellowCards,aerialDuelsWon,minutesPlayed,possessionLost,redCards,aerialDuelsWonPercentage,wasFouled,appearances,groundDuelsWon,totalDuelsWon,fouls,matchesStarted,groundDuelsWonPercentage,totalDuelsWonPercentage,dispossessed,rating,player.name,player.slug,player.userCount,player.id,team.name,team.slug,team.shortName,team.userCount,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text
+1,43,1194,154,0,43.88,17,15,30,73,25,14,39.47,41.95,17,7.46,Ronie Carrillo,ronie-carrillo,191,873891,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+2,2,1260,156,1,66.67,4,14,4,6,0,14,100.0,85.71,0,7.41,Brian Heras,brian-heras,17,877442,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+6,10,2349,443,0,37.04,30,29,88,98,29,28,51.46,49.49,24,7.34,Joaquín Vergés,joaquin-verges,36,789939,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+6,5,1545,215,0,50.0,50,21,94,99,20,19,63.09,62.26,14,7.33,Mauro Díaz,mauro-diaz,44,42573,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+7,8,1902,320,0,57.14,37,29,88,96,33,21,51.46,51.89,27,7.29,Alexander Alvarado,alexander-alvarado,366,826826,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+0,18,1395,158,0,58.06,32,22,44,62,24,15,41.51,45.26,20,7.24,Michael Hoyos,michael-hoyos,138,105717,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+2,3,2070,155,0,75.0,6,23,6,9,0,23,75.0,75.0,0,7.22,Rafael Romo,rafael-romo,318,108832,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+2,8,1399,245,0,53.33,84,25,142,150,14,14,66.67,65.79,26,7.2,Rómulo Otero,romulo-otero,745,845323,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+8,21,2225,362,1,61.76,35,27,99,120,40,26,53.8,55.05,24,7.19,Facundo Martinez,facundo-martinez,16,33308,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+7,3,1461,319,1,33.33,27,24,57,60,10,17,50.44,49.18,22,7.19,Damián Díaz,damian-diaz,222,42454,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+1,1,1935,219,0,50.0,1,22,2,3,0,21,66.67,60.0,0,7.19,Hernán Galíndez,hernan-galindez,232,588618,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+5,33,1481,141,0,41.77,13,20,27,60,18,18,39.13,40.54,14,7.18,Jean Carlos Blanco,jean-carlos-blanco,58,1199361,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+2,1,2250,132,0,100.0,1,25,2,3,0,25,100.0,100.0,0,7.18,Alexander Domínguez,alexander-dominguez,296,33567,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+0,18,1386,253,2,85.71,20,21,57,75,23,16,57.0,61.98,5,7.18,José Quintero,jose-quintero,40,805485,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+2,4,1955,337,0,17.39,50,25,76,80,16,23,53.52,48.48,15,7.18,Lucas Mancinelli,lucas-mancinelli,18,174935,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+2,1,588,51,1,50.0,0,7,0,1,0,7,0.0,50.0,0,7.14,Damián Frascarelli,damian-frascarelli,26,107249,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+5,2,1566,222,0,20.0,20,24,40,42,10,18,51.95,48.28,13,7.14,Junior Sornoza,junior-sornoza,320,155786,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+1,3,2610,203,0,100.0,3,29,3,6,1,29,75.0,85.71,0,7.13,Pedro Ortiz,pedro-ortiz,32,905632,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+4,26,1724,309,0,57.78,39,22,70,96,20,20,47.95,50.26,30,7.12,Hancel Batalla,hancel-batalla,15,873887,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+3,11,1057,135,0,50.0,9,14,23,34,10,13,58.97,55.74,1,7.11,Richard Schunke,richard-schunke,70,877436,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+2,1,2430,458,0,10.0,52,29,124,125,30,29,56.88,54.82,26,7.11,Braian Oyola,braian-oyola,16,906808,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+9,55,2264,170,0,68.75,9,26,43,98,19,25,58.9,64.05,2,7.1,Ricardo Adé,ricardo-ade,1073,839638,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+0,0,243,36,1,0.0,0,3,0,0,1,3,0.0,0.0,0,7.1,Benjamin Cardenas,cardenas-benjamin,2,1185856,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+3,11,986,203,2,40.74,16,14,31,42,11,12,48.44,46.15,7,7.09,Sergio López,sergio-lopez,12,221748,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+8,19,2037,144,0,39.58,43,25,57,76,30,25,47.9,45.51,14,7.08,Andrés Parrales,andres-parrales,66,340247,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+5,42,1260,116,0,75.0,5,14,21,63,14,14,56.76,67.74,1,7.08,Bruno Duarte,bruno-duarte,9,874645,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+3,20,2204,224,0,54.05,7,25,31,51,17,25,53.45,53.68,4,7.08,Agustín García Basso,agustin-garcia-basso,21,896806,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+9,11,1962,164,0,55.0,47,26,105,116,46,24,53.85,53.95,11,7.07,Nicolás Rinaldi,nicolas-rinaldi,16,859965,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+9,1,1095,129,0,20.0,23,15,34,35,20,12,41.46,40.23,20,7.06,Miller Bolaños,miller-bolanos,215,47658,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+4,50,1430,218,0,46.73,26,25,58,108,29,17,49.15,48.0,20,7.06,Byron Palacios,byron-palacios,15,961894,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+1,7,1428,158,0,53.85,15,19,60,67,14,15,46.51,47.18,22,7.06,Ismael Díaz,ismael-diaz,254,796328,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+3,21,982,123,0,37.5,10,13,20,41,16,11,28.17,32.28,21,7.05,Jaime Ayoví,jaime-ayovi,82,106458,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+3,10,987,84,0,41.67,14,14,20,30,13,12,42.55,42.25,7,7.04,Jeison Medina,jeison-medina,47,925147,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+2,5,1263,168,0,50.0,37,23,67,72,11,14,59.29,58.54,19,7.04,Renato Ibarra,renato-ibarra,204,158395,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+8,44,1793,214,1,46.32,23,26,45,89,45,21,36.89,41.01,23,7.03,Francisco Fydriszewski,francisco-fydriszewski,201,594430,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+4,5,1682,217,1,50.0,13,24,42,47,16,19,50.6,50.54,11,7.02,José Cevallos,jose-cevallos,69,33703,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+3,5,1260,230,0,55.56,4,14,28,33,7,14,52.83,53.23,10,7.02,Yerson Candelo,yerson-candelo,120,158593,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+1,1,990,177,0,50.0,3,11,5,6,0,11,100.0,85.71,0,7.02,Leodan Chalá,leodan-chala,5,822736,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+4,12,1659,240,1,54.55,17,21,44,56,30,19,47.31,48.7,12,7.02,Anthony Landázuri,anthony-landazuri,67,826831,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+0,0,65,0,0,0.0,0,1,1,1,0,1,100.0,100.0,0,7.0,Diogo Bagui,bagui-diogo,10,1470458,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+0,1,71,7,0,50.0,3,2,6,7,0,1,75.0,70.0,1,7.0,Richard Borja,borja-richard,13,1517144,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+6,26,1668,209,2,47.27,45,24,90,116,30,21,52.02,50.88,27,7.0,Alexander Bolaños,alexander-bolanos,15,965310,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+3,12,1411,156,1,57.14,23,22,45,57,16,16,53.57,54.29,13,7.0,Jordy Alcivar,jordy-alcivar,159,925740,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+2,11,747,58,0,47.83,4,11,8,19,11,9,26.67,35.85,8,6.99,Paolo Guerrero,paolo-guerrero,3936,338,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+6,24,961,132,1,41.38,27,11,41,65,27,11,47.13,44.83,6,6.99,Facundo Castelli,castelli-facundo,21,895229,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+0,1,504,87,0,25.0,26,8,39,40,9,8,59.09,57.14,12,6.99,Dario Pazmino,pazmino-dario,1,977091,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+4,11,2126,398,0,37.93,50,27,115,126,20,25,48.12,47.01,38,6.99,Arón Rodríguez,aron-rodriguez,33,1011412,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+1,27,1170,104,0,62.79,11,13,33,60,11,13,58.93,60.61,1,6.98,Fausto Grillo,fausto-grillo,29,553508,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+2,37,1959,184,0,42.53,29,27,42,79,20,23,46.15,44.38,19,6.98,Raúl Becerra,raul-becerra,51,340415,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+9,51,2130,178,2,68.0,14,24,38,89,30,24,46.91,57.05,4,6.98,Luis Fernando León,luis-fernando-leon,88,339967,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+3,12,1149,139,0,75.0,16,19,49,61,11,12,59.76,62.24,11,6.98,Mauricio Martínez,mauricio-martinez,68,789402,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+4,9,1430,194,0,39.13,10,17,53,62,31,16,48.18,46.62,7,6.98,Jefferson Valverde,valverde-jefferson,9,975528,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+0,4,584,80,0,50.0,19,8,33,37,8,7,60.0,58.73,6,6.98,Alexis Zapata,alexis-zapata,57,353296,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+10,35,2237,173,0,72.92,10,25,46,81,37,25,45.54,54.36,2,6.97,Luis Cangá,luis-canga,23,155776,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+3,10,1128,162,1,47.62,9,14,45,55,11,12,52.94,51.89,7,6.96,Daykol Romero,daykol-romero,7,1066555,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+9,11,1845,321,0,42.31,37,25,106,117,22,24,55.79,54.17,18,6.96,Diego García,diego-garcia,57,989331,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+4,4,1980,134,0,100.0,8,22,8,12,0,22,100.0,100.0,0,6.96,Javier Burrai,javier-burrai,103,174421,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+5,2,2430,287,1,100.0,4,27,4,6,0,27,80.0,85.71,0,6.96,Hamilton Piedra,hamilton-piedra,7,794921,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+6,46,2340,267,0,59.74,17,26,71,117,23,26,62.28,61.26,5,6.96,Teodoro Paredes,teodoro-paredes,15,312346,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+2,5,1328,248,1,16.67,25,16,77,82,12,16,51.68,45.81,29,6.96,Bagner Delgado,bagner-delgado,4,975813,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+7,0,1582,144,0,0.0,19,22,50,50,22,18,49.02,48.08,14,6.95,Lorenzo Faravelli,lorenzo-faravelli,164,250009,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+3,9,1539,255,0,23.68,38,26,73,82,22,17,47.1,42.49,25,6.95,Luis Estupiñan,luis-estupinan,11,975090,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+5,15,2340,184,1,53.57,15,26,43,58,23,26,51.19,51.79,8,6.95,Kevin Minda,kevin-minda,20,822718,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+11,14,2045,376,0,37.84,19,27,74,88,31,24,42.05,41.31,33,6.95,Maicon Solís,maicon-solis,9,922846,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+1,3,2430,198,1,75.0,4,27,4,7,1,27,80.0,77.78,0,6.95,Gonzalo Valle,gonzalo-valle,10,925484,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+5,7,1063,162,1,43.75,25,17,53,60,30,12,48.62,48.0,10,6.94,Samuel Sosa,samuel-sosa,347,836584,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+2,8,1410,105,0,40.0,15,22,48,56,24,16,49.48,47.86,7,6.94,Óscar Zambrano,oscar-zambrano,388,1145130,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+1,7,936,153,0,58.33,8,11,25,32,9,10,48.08,50.0,1,6.94,Anibal Chalá,anibal-chala,112,827140,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+3,7,1599,183,0,35.0,40,24,64,71,15,19,54.7,51.82,17,6.93,Luis Cano,luis-cano,9,975548,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+0,4,340,50,1,33.33,11,6,18,22,11,4,45.0,42.31,6,6.93,Tobías Donsanti,tobias-donsanti,13,1086968,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+8,30,2132,185,0,65.22,20,24,49,79,24,24,62.82,63.71,1,6.93,Facundo Rodríguez,facundo-rodriguez,49,980485,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+5,1,679,114,0,20.0,5,17,12,13,13,8,32.43,30.95,2,6.92,Willian Cevallos,cevallos-willian,3,975696,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+4,8,1833,198,0,44.44,14,25,56,64,31,21,48.28,47.76,7,6.92,Ezequiel Piovi,ezequiel-piovi,76,359098,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+4,1,1134,191,0,14.29,13,21,40,41,17,12,45.45,43.16,12,6.92,Kendry Páez,kendry-paez,4032,1464025,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+6,8,2270,308,0,88.89,9,26,10,18,1,25,90.91,90.0,0,6.92,Leonel Nazareno,leonel-nazareno,3,805464,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+10,9,2363,395,0,50.0,60,28,116,125,29,27,55.24,54.82,30,6.91,Juan Carlos Paredes,juan-carlos-paredes,41,47668,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+4,6,731,124,0,54.55,25,15,55,61,8,7,57.89,57.55,15,6.91,Michael Carcelén,michael-carcelen,35,1018554,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+2,5,1693,235,0,38.46,15,28,56,61,11,21,47.06,46.21,30,6.91,Lisandro Alzugaray,lisandro-alzugaray,42,897059,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+2,22,868,70,0,75.86,3,11,14,36,5,9,58.33,67.92,3,6.91,Carlos Rolón,carlos-rolon,19,805203,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+3,12,1936,254,0,42.86,17,29,83,95,16,23,60.14,57.23,19,6.9,Erick Plúas,erick-pluas,16,1134650,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+0,3,400,42,0,50.0,3,5,14,17,3,5,50.0,50.0,1,6.9,Kavier Ortiz,kavier-ortiz,3,1116667,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+8,36,2250,229,0,61.02,3,25,41,77,22,25,51.25,55.4,0,6.9,Aníbal Leguizamón,anibal-leguizamon,25,898990,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+1,2,60,5,0,66.67,2,1,3,5,2,1,50.0,55.56,1,6.9,Christian Alemán,christian-aleman,56,339563,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+0,0,360,20,0,0.0,0,4,0,0,0,4,0.0,0.0,0,6.9,Alexis Villa,alexis-villa,4,1067803,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+3,4,1032,125,0,57.14,6,19,25,29,15,12,41.67,43.28,12,6.89,Sebastián González,sebastian-gonzalez,110,1116579,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+1,9,1235,127,0,29.03,11,21,29,38,25,16,34.12,32.76,16,6.89,Jose Enrique Angulo,jose-enrique-angulo,99,590176,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+1,22,968,122,0,37.93,15,15,23,45,30,12,30.67,33.83,19,6.89,Alejandro Cabeza,alejandro-cabeza,51,868742,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+8,49,2507,188,0,59.76,16,28,43,92,32,28,53.75,56.79,1,6.89,Franklin Guerra,franklin-guerra,19,827135,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+1,3,507,57,0,30.0,11,7,27,30,8,6,55.1,50.85,10,6.89,Arnaldo Zambrano,zambrano-arnaldo,2,998401,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+14,32,2319,187,1,65.31,61,26,105,137,46,26,60.34,61.43,5,6.88,Jhonnier Chala,jhonnier-chala,15,1461225,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+13,29,2047,333,0,60.42,22,24,68,97,32,22,50.75,53.3,8,6.88,Jerry Parrales,parrales-jerry,7,1466377,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+2,9,2411,382,0,28.13,26,29,69,78,24,27,52.67,47.85,13,6.88,Elvis Patta,elvis-patta,2,588628,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+2,6,826,176,0,42.86,40,22,63,69,15,6,58.33,56.56,15,6.88,Nixon Molina,nixon-molina,12,1015290,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+4,44,2147,191,1,60.27,4,26,33,77,13,24,51.56,56.2,5,6.88,Carlos Rodríguez,carlos-rodriguez,55,849170,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+1,8,360,54,0,66.67,4,4,17,25,10,4,50.0,54.35,0,6.88,Nicolas Sottile,sottile-nicolas,1,1118571,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+5,13,989,134,0,54.17,15,12,45,58,24,11,52.94,53.21,4,6.88,Caín Fara,cain-fara,14,971200,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+4,7,1073,103,0,43.75,6,27,11,18,18,8,22.45,27.69,10,6.87,Jhon Cifuente,jhon-cifuente,96,846663,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+3,12,1510,111,0,26.09,28,25,36,48,27,16,42.35,36.64,9,6.87,Diego Ledesma,ledesma-diego,14,1479176,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+0,1,178,31,0,33.33,6,6,13,14,1,1,54.17,51.85,2,6.87,Alan Minda,minda-alan,285,1122552,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+3,18,1088,80,0,69.23,8,14,26,44,10,12,65.0,66.67,1,6.87,Tomás Oneto,tomas-oneto,12,871814,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+5,10,1444,126,1,45.45,37,20,83,93,27,18,59.71,57.76,8,6.86,Edison Caicedo,edison-caicedo,10,844615,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+7,17,1805,194,0,29.82,28,29,57,74,20,24,49.57,43.02,16,6.86,Alexis Rodríguez,alexis-rodriguez,41,882607,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+6,6,2334,334,0,35.29,41,28,98,104,20,28,52.41,50.98,24,6.86,Juan Ruiz Gómez,juan-ruiz-gomez,16,896857,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+0,1,248,30,0,11.11,5,11,10,11,5,0,45.45,35.48,7,6.86,Elian Carabali,carabali-elian,2,1474739,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+1,2,452,65,0,66.67,3,7,29,31,7,5,53.7,54.39,6,6.86,Bryan García,bryan-garcia,75,1065584,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+4,14,1368,189,1,48.28,57,20,100,114,14,17,58.14,56.72,28,6.86,Jordan Rezabala,jordan-rezabala,48,1049725,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+5,6,938,181,0,50.0,14,23,25,31,7,10,39.06,40.79,16,6.85,Gabriel Cortez,gabriel-cortez,68,1090134,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+2,11,1019,62,0,47.83,14,13,38,49,14,12,69.09,62.82,1,6.85,Thiago Serpa,thiago-serpa,5,1004135,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+9,52,2520,231,0,71.23,24,28,59,111,24,28,65.56,68.1,0,6.85,Gabriel Achilier,gabriel-achilier,42,37047,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+4,2,1890,111,0,100.0,5,21,7,9,1,21,77.78,81.82,0,6.85,Moisés Ramírez,moises-ramirez,346,923237,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+5,9,1626,233,0,47.37,25,25,74,83,52,18,38.34,39.15,35,6.85,Jhojan Julio,jhojan-julio,257,925741,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+3,21,1914,317,0,39.62,52,29,126,147,25,22,56.25,53.07,36,6.85,Cristhian Solano,solano-cristhian,5,1119725,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+3,21,1275,211,0,61.76,21,27,69,90,9,12,55.2,56.6,21,6.85,Byron Angulo,angulo-byron,7,1185457,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+0,1,1170,103,0,50.0,0,13,1,2,0,13,100.0,66.67,0,6.85,Dennis Corozo,dennis-corozo,1,33227,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+0,4,298,46,0,50.0,5,10,9,13,4,2,34.62,38.24,10,6.84,Agustín Rodríguez,agustin-rodriguez,61,1108468,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+2,19,685,71,0,39.58,5,16,12,31,12,5,35.29,37.8,6,6.84,Angel Quiñonez,angel-quinonez,16,886545,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+6,18,1927,174,1,50.0,39,23,104,122,51,22,53.06,52.59,20,6.84,Leonai Souza de Almeida,leonai-souza-de-almeida,56,1021850,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+6,32,2077,184,0,61.54,27,24,50,82,21,23,59.52,60.29,0,6.84,Dennis Quintero,dennis-quintero,3,789917,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+4,29,2173,267,0,45.31,34,29,80,109,28,25,45.45,45.42,29,6.84,Sergio Gonzalez,sergio-gonzalez,11,790806,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+4,9,2610,249,0,100.0,9,29,10,19,1,29,90.91,95.0,0,6.84,Rolando David Silva,silva-rolando-david,1,1020039,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+1,8,264,31,0,50.0,9,10,14,22,11,1,43.75,45.83,2,6.84,Eber Caicedo,eber-caicedo,2,226216,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+0,8,411,32,0,29.63,7,11,9,17,6,3,47.37,36.96,3,6.84,Juan Anangonó,juan-anangono,37,125076,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+6,15,914,74,0,51.72,8,11,20,35,14,10,48.78,50.0,0,6.84,Joao Quinones,quinones-joao,3,939465,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+11,41,2340,247,0,65.08,14,26,61,102,21,26,57.01,60.0,4,6.83,Jhon Ontaneda,ontaneda-jhon,4,989402,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+6,37,1597,171,1,46.25,22,24,45,82,19,21,46.88,46.59,20,6.83,Jorge Ordóñez,jorge-ordonez,15,869786,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+0,6,139,25,0,66.67,1,3,2,8,0,1,100.0,72.73,0,6.83,Ángel Gracia,angel-gracia,3,805126,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+0,0,58,16,0,0.0,2,8,9,9,3,0,64.29,64.29,1,6.83,Andrés Sánchez,andres-sanchez,1,1473020,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+4,6,2446,348,0,25.0,27,28,69,75,29,28,45.7,42.86,23,6.83,Robert Burbano,robert-burbano,13,339557,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+3,6,1067,117,0,60.0,2,14,28,34,11,12,52.83,53.97,6,6.83,Jesús Trindade,jesus-trindade,124,924855,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+3,1,1297,167,1,20.0,7,18,19,20,10,15,48.72,45.45,4,6.83,Matías Fernández,matias-fernandez,237,805170,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+3,7,1277,137,0,63.64,13,18,39,46,13,14,57.35,58.23,7,6.83,Joseph Espinoza,espinoza-joseph,12,1004132,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+6,20,1581,177,1,76.92,10,20,42,62,22,17,53.16,59.05,1,6.83,Facundo Rivero,facundo-rivero,4,1210374,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+2,8,371,74,0,66.67,7,11,24,32,10,3,51.06,54.24,3,6.83,Luis Castillo,castillo-luis,1,985109,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+1,2,382,57,0,40.0,2,10,12,14,7,4,50.0,48.28,0,6.82,Kelvin Osorio,kelvin-osorio,35,818997,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+4,34,2519,292,0,57.63,16,28,42,76,19,28,63.64,60.8,2,6.82,Luca Sosa,luca-sosa,25,789668,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+2,21,2529,318,0,40.38,28,29,81,102,17,28,60.0,54.55,11,6.82,Marcos Andrés López,marcos-andres-lopez,8,846671,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+1,0,208,35,0,0.0,8,6,12,12,2,2,66.67,63.16,2,6.82,Juan Nazareno,juan-nazareno,1,822719,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+1,2,814,43,1,66.67,1,10,1,3,1,9,50.0,60.0,0,6.82,Wilman Pabón,wilman-pabon,1,923195,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+10,43,2085,231,1,67.19,25,25,104,147,68,25,51.49,55.26,8,6.82,Cristian García,cristian-garcia,5,943177,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+3,13,639,79,0,61.9,7,18,35,48,18,5,48.61,51.61,6,6.81,David Noboa,david-noboa,2,588596,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+1,12,405,39,0,60.0,3,8,9,21,7,5,47.37,53.85,0,6.81,Jefferson Nazareno,nazareno-jefferson,0,1473025,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+4,20,1486,202,0,71.43,9,21,22,42,12,19,44.9,54.55,5,6.81,Leonel Quiñónez,leonel-quinonez,21,922853,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+5,20,1705,185,1,55.56,11,22,50,70,14,19,64.94,61.95,2,6.81,Arián Pucheta,arian-pucheta,12,859969,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+3,13,1165,122,0,46.43,30,25,56,69,28,15,54.9,53.08,9,6.81,Esteban Davila,esteban-davila,5,873889,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+1,1,365,47,0,11.11,5,11,17,18,6,3,65.38,51.43,1,6.81,Eddy Mejía,eddy-mejia,3,922092,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+3,11,1312,221,0,52.38,25,25,65,76,29,18,49.62,50.0,17,6.81,Christian Ortíz,christian-ortiz,111,293235,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+2,24,1935,269,1,53.33,39,26,82,106,29,25,46.33,47.75,28,6.81,Janner Corozo,janner-corozo,59,868275,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+9,14,2339,237,0,33.33,9,27,72,86,39,26,42.86,40.95,18,6.81,Renny Jaramillo,renny-jaramillo,9,588640,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+3,25,2060,272,0,39.06,70,29,110,135,24,28,55.56,51.53,37,6.81,Anderson Naula,anderson-naula,5,805166,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+4,6,1819,179,1,35.29,35,21,89,95,26,20,58.55,56.21,7,6.8,Jorge Gongora,gongora-jorge,6,1185460,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+3,12,659,98,0,57.14,24,16,43,55,14,6,44.79,47.01,19,6.8,Kevin Rodriguez,rodriguez-kevin,557,1431770,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+4,11,1374,189,0,61.11,20,21,57,68,19,16,61.29,61.26,6,6.8,Maikel Reyes,maikel-reyes,9,1105564,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+1,4,359,41,0,36.36,8,7,22,26,6,5,62.86,56.52,4,6.8,David Ribeiro Pereira,ribeiro-pereira-david,8,984979,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+0,0,25,2,0,0.0,1,1,3,3,1,0,60.0,60.0,0,6.8,Joel Quintero,joel-quintero,9,822717,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+1,1,199,36,0,50.0,6,4,16,17,7,3,57.14,56.67,2,6.8,Byron Mina,byron-mina,1,248045,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+0,7,415,30,0,70.0,3,6,8,15,4,4,57.14,62.5,1,6.8,Aubrey David,aubrey-david,35,249665,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+0,1,90,5,0,100.0,0,1,0,1,0,1,0.0,100.0,0,6.8,Johan Lara,johan-lara,1,985144,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+0,1,30,3,0,100.0,0,2,2,3,1,0,66.67,75.0,0,6.8,Rooney Troya,troya-rooney,15,1482436,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+0,1,217,37,0,50.0,4,5,6,7,3,1,46.15,46.67,1,6.8,Kevin Mercado,kevin-mercado,42,155796,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+0,0,219,22,0,0.0,0,6,8,8,0,3,66.67,53.33,1,6.8,Jair Castillo,castillo-jair,1,1473188,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+2,3,630,65,0,100.0,2,7,2,5,0,7,100.0,100.0,0,6.8,Juan Bolado,juan-bolado,4,848617,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+3,8,875,75,0,88.89,19,13,54,62,14,11,58.7,61.39,10,6.8,Jean Carlos Montaño,jean-carlos-montano,7,905565,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+3,16,1498,109,0,59.26,16,17,26,42,12,17,59.09,59.15,2,6.79,Darío Aimar,dario-aimar,16,805296,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+4,7,1763,150,0,38.89,32,24,56,63,16,19,61.54,57.8,11,6.79,Edison Vega,edison-vega,11,832468,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+0,3,483,65,0,37.5,4,11,10,13,3,8,45.45,43.33,3,6.79,Diego Armas,diego-armas,5,925605,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+1,8,872,131,0,53.33,9,12,21,29,2,10,63.64,60.42,3,6.79,Pedro Velasco,pedro-velasco,29,146300,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+3,4,393,42,0,36.36,11,11,16,20,6,5,53.33,48.78,2,6.79,Francisco Gatti,gatti-francisco,3,1096661,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+2,11,1260,185,0,55.0,12,23,37,48,19,12,43.02,45.28,19,6.79,Bryan Ramirez,ramirez-bryan,8,1459658,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+1,2,630,40,0,66.67,2,7,4,6,0,7,100.0,85.71,0,6.79,Victor Mendoza,mendoza-victor,20,991138,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+1,2,452,64,0,50.0,3,9,12,14,5,5,50.0,50.0,4,6.79,Carlos Uvilde Sanchez Esmeraldas,carlos-uvilde-sanchez-esmeraldas,5,1065585,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+9,14,1672,180,0,42.42,35,24,74,88,45,18,49.01,47.83,11,6.78,Steven Tapiero,tapiero-steven,16,1020186,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+3,34,997,102,0,52.31,10,17,18,52,19,11,43.9,49.06,5,6.78,Vinicio Angulo,vinicio-angulo,9,125075,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+0,5,617,96,0,62.5,8,11,20,25,8,8,47.62,50.0,7,6.78,José Alberti,jose-alberti,23,976102,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+5,16,901,120,1,61.54,17,11,47,63,19,10,57.32,58.33,7,6.78,Jimmy Mina,mina-jimmy,2,1468325,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+6,9,1260,179,0,50.0,14,21,55,64,23,15,50.46,50.39,14,6.78,Madison Julio,madison-julio,5,826819,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+1,15,842,79,1,62.5,12,10,19,34,12,9,51.35,55.74,0,6.78,Guillermo Fratta,guillermo-fratta,34,805244,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+3,15,769,79,0,53.57,9,13,21,36,14,9,42.86,46.75,8,6.78,Cristian Colmán,cristian-colman,97,805316,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+1,1,125,8,0,100.0,1,4,4,5,3,1,44.44,50.0,2,6.78,Patrickson Delgado,patrickson-delgado,179,1002530,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+1,0,264,33,0,0.0,8,5,14,14,5,3,50.0,48.28,4,6.78,Darlin Leiton,leiton-darlin,47,987648,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+2,8,284,31,0,100.0,1,4,7,15,5,3,46.67,65.22,0,6.78,Davor Montiel,davor-montiel,1,1108521,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+3,30,2334,221,1,57.69,17,27,37,67,16,27,56.06,56.78,3,6.77,Nicolás Goitea,goitea-nicolas,5,1092353,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+4,14,996,184,1,70.0,21,24,42,56,16,9,49.41,53.33,9,6.77,Richard Calderón,richard-calderon,8,827122,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+3,8,1252,159,0,25.81,17,23,35,43,9,13,41.18,37.07,22,6.77,Lautaro Díaz,lautaro-diaz,246,992093,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+8,16,1885,235,1,37.21,26,26,67,83,44,23,43.23,41.92,27,6.77,Daniel Porozo,daniel-porozo,7,588626,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+5,5,1777,292,1,26.32,15,25,43,48,35,20,43.43,40.68,8,6.77,Carlos Arboleda,carlos-arboleda,5,909664,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+3,10,1329,248,0,37.04,48,27,80,90,19,16,53.33,50.85,22,6.77,Francisco Mera,francisco-mera,3,915158,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+9,21,1539,130,0,67.74,18,21,40,61,17,17,62.5,64.21,2,6.77,Edison Carcelen,edison-carcelen,4,846828,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+2,10,1650,118,1,47.62,20,23,44,54,19,18,56.41,54.55,8,6.77,Joao Ortíz,joao-ortiz,47,588630,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+0,0,528,56,0,0.0,9,11,19,19,5,7,54.29,43.18,5,6.76,Bryan Rodriguez,rodriguez-bryan,1,1020038,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+2,0,273,59,0,0.0,8,18,18,18,7,0,42.86,38.3,9,6.76,Cristian Penilla,cristian-penilla,18,220439,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+2,0,481,46,0,0.0,7,8,14,14,9,6,48.28,43.75,3,6.76,Christian Oña,christian-ona,4,340197,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+2,6,735,45,0,35.29,3,18,7,13,10,7,25.0,28.89,5,6.76,Marcelo Moreno,marcelo-moreno,638,33120,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+0,5,726,97,0,31.25,9,15,29,34,11,8,46.77,43.59,12,6.76,Vilinton Branda,branda-vilinton,9,1190984,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+0,18,1370,195,0,64.29,9,20,32,50,20,16,40.0,46.3,13,6.76,Jhonny Quiñónez,jhonny-quinonez,20,881847,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+4,17,2083,311,1,36.17,18,25,63,80,30,23,46.67,43.96,13,6.76,Layan Loor,layan-loor,8,1184983,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+8,13,1490,127,0,46.43,26,20,59,72,17,18,67.82,62.61,2,6.76,Mateo Carabajal,mateo-carabajal,54,896623,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+4,8,1717,227,0,38.1,17,27,47,55,16,20,42.73,41.98,16,6.76,Fernando Gaibor,fernando-gaibor,97,106461,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+3,3,881,106,0,30.0,13,17,31,34,16,9,46.27,44.16,11,6.76,Manu Balda,manu-balda,25,787750,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+3,2,766,101,1,33.33,14,16,24,26,13,10,43.64,42.62,9,6.76,Yaimar Medina,yaimar-medina,82,1106546,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+1,14,511,36,1,58.33,4,9,13,27,3,5,81.25,67.5,0,6.76,Joshue Quinonez,quinonez-joshue,52,1002950,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+5,2,2160,291,0,100.0,4,24,6,8,1,24,60.0,66.67,0,6.75,Walter Hinostroza,walter-hinostroza,1,922858,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+2,22,2351,402,0,64.71,9,27,43,65,16,27,48.31,52.85,13,6.75,Jonnathan Mina,mina-jonnathan,3,1019932,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+6,11,1598,186,1,36.67,57,26,87,98,33,21,52.1,49.75,17,6.75,Jimmy Evans,evans-jimmy,8,1177802,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+1,1,33,4,0,100.0,2,2,2,3,2,0,40.0,50.0,1,6.75,Daniel Mejia,mejia-daniel,0,1604235,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+1,0,187,32,0,0.0,2,4,5,5,3,2,41.67,35.71,2,6.75,Bryan Oña,bryan-ona,2,882068,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+2,0,302,41,0,0.0,6,10,13,13,6,3,48.15,34.21,5,6.75,Sergio Sosa,sosa-sergio,3,789888,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+0,0,42,8,0,0.0,0,4,2,2,1,0,50.0,50.0,1,6.75,Manuel Corozo,manuel-corozo,0,1103523,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+1,3,92,17,0,100.0,0,4,2,5,1,0,40.0,62.5,1,6.75,Mayckel Uriarte,mayckel-uriarte,1,1117777,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+3,1,1782,185,1,50.0,2,21,4,5,1,20,66.67,62.5,0,6.75,Jorge Pinos,jorge-pinos,16,925598,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+2,4,604,89,0,30.77,18,14,36,40,9,7,56.25,51.95,11,6.75,Wilter Ayovi,wilter-ayovi,3,826832,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+5,35,1460,142,1,74.47,8,20,30,65,16,16,54.55,63.73,3,6.75,Ousmane N’Dong,ousmane-n-dong,25,1017449,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+2,8,1081,163,0,50.0,13,19,41,49,16,13,46.59,47.12,10,6.74,Daniel Clavijo,daniel-clavijo,1,903650,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+2,2,381,55,1,20.0,2,9,18,20,6,4,48.65,42.55,6,6.74,Ronald Perlaza,perlaza-ronald,6,1485501,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+0,2,1074,145,0,18.18,21,16,57,59,15,14,53.77,50.43,10,6.74,Ariel Almagro,ariel-almagro,0,1495599,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+6,15,2433,262,1,53.57,34,28,95,110,31,28,59.38,58.51,17,6.74,Roger Arias,roger-arias,3,1103526,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+2,11,902,146,1,23.4,27,23,42,53,13,12,53.16,42.06,8,6.74,José Andrade,jose-andrade,3,883301,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+8,33,2351,203,0,62.26,6,27,33,66,30,26,50.77,55.93,2,6.74,Luciano Recalde,luciano-recalde,19,896879,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+7,4,2430,294,0,57.14,2,27,4,8,1,27,66.67,61.54,0,6.74,Walter Chavez,walter-chavez,1,155764,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+2,3,805,103,0,42.86,10,15,24,27,16,9,45.28,45.0,5,6.74,Gustavo Cortez,gustavo-cortez,29,846662,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+3,25,2144,222,0,52.08,17,28,44,69,17,23,60.27,57.02,2,6.74,Kevin Becerra,kevin-becerra,1,931653,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+4,5,1620,211,0,71.43,4,18,11,16,4,18,61.11,64.0,0,6.74,David Cabezas,david-cabezas,5,886492,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+3,4,1109,118,0,33.33,18,22,39,43,13,15,48.75,46.74,11,6.74,Adolfo Muñoz,adolfo-munoz,29,869785,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+5,18,854,80,0,64.29,2,11,15,33,18,10,37.5,48.53,1,6.74,Richard Mina,mina-richard,31,937863,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+3,10,1425,217,0,40.0,20,22,47,57,27,17,43.93,43.18,16,6.74,Jean Carlos Estacio,jean-carlos-estacio,1,932247,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+4,51,2211,226,0,36.96,19,29,45,96,35,28,37.82,37.35,20,6.73,Agustin Maziero,agustin-maziero,13,913609,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+7,12,2115,257,0,32.43,55,29,98,110,32,25,54.75,50.93,23,6.73,Sebastián Assis,sebastian-assis,18,976167,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+10,0,896,84,0,0.0,6,18,24,24,10,11,51.06,48.0,3,6.73,Cristian Pellerano,cristian-pellerano,35,787563,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+2,7,1781,350,0,53.85,23,21,73,80,27,19,51.77,51.95,15,6.73,Jordan Chillambo,chillambo-jordan,1,1473214,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+0,5,263,28,0,41.67,2,3,4,9,3,3,33.33,37.5,3,6.73,Dixon Arroyo,dixon-arroyo,273,158407,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+5,6,1359,125,0,31.58,12,25,31,37,30,16,33.7,33.33,18,6.73,Cristian Martínez,cristian-martinez,129,312194,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+2,9,1367,168,0,60.0,17,23,69,78,24,13,51.11,52.0,13,6.73,Andrés Felipe Ávila,andres-felipe-avila,16,921961,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+7,13,1210,110,0,59.09,13,17,25,38,18,12,48.08,51.35,2,6.73,Darwin Estuardo Quilumba Diaz,darwin-estuardo-quilumba-diaz,2,922104,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+0,2,267,54,0,25.0,1,12,5,7,6,4,27.78,26.92,6,6.73,Steven Gomez,gomez-steven,4,1461227,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+0,13,412,29,0,52.0,11,10,12,25,11,5,52.17,52.08,0,6.73,Olmes García,olmes-garcia,12,314094,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+1,3,552,91,0,25.0,6,18,13,16,5,4,41.94,37.21,2,6.73,Jalmar Almeida,almeida-jalmar,3,1186831,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+0,0,125,32,0,0.0,4,7,9,9,2,0,50.0,50.0,1,6.73,Lucas Ontivero,lucas-ontivero,13,384486,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+7,24,2420,263,0,52.17,21,28,60,84,22,26,59.41,57.14,3,6.73,Luis Caicedo,luis-caicedo,5,1169072,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+4,11,1630,166,0,84.62,15,25,49,60,20,18,50.52,54.55,5,6.73,Jean Humanante,humanante-jean,9,938611,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+1,3,597,59,0,50.0,2,11,19,22,8,6,50.0,50.0,5,6.73,Nicolás Previtali,nicolas-previtali,16,906807,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+0,16,480,68,0,43.24,5,13,12,28,4,3,40.0,41.79,7,6.73,Yilmar Filigrana,yilmar-filigrana,14,874724,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+9,31,2197,165,0,58.49,14,26,39,70,31,24,46.99,51.47,0,6.72,Pablo Cifuentes,pablo-cifuentes,1,873737,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+3,3,382,58,0,42.86,18,16,25,28,9,3,67.57,63.64,3,6.72,Tommy Chamba,tommy-chamba,70,1404583,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+4,3,1384,197,0,20.0,20,26,51,54,21,17,51.52,47.37,13,6.72,Henry Patta,henry-patta,4,588620,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+0,6,188,38,0,85.71,3,6,9,15,2,1,50.0,60.0,4,6.72,Jose Caicedo,caicedo-jose,3,1474796,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+0,0,69,13,0,0.0,3,6,8,8,1,0,88.89,72.73,0,6.72,Kevin Velasco,kevin-velasco,1,1185054,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+6,26,1391,172,1,63.41,19,21,61,87,26,14,59.8,60.84,1,6.72,Marlon Medranda,medranda-marlon,1,1020037,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+8,7,1965,318,1,38.89,27,26,76,83,27,23,52.78,51.23,7,6.72,Marco Montaño,marco-montano,3,827138,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+2,17,847,77,0,39.53,6,25,13,30,18,7,36.11,37.97,2,6.72,Enzo López,enzo-lopez,4,1022783,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+2,7,1283,176,0,41.18,14,22,42,49,23,16,46.67,45.79,11,6.72,Onofre Mejia,onofre-mejia,1,338951,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+0,6,791,107,1,37.5,25,18,40,46,11,7,56.34,52.87,11,6.72,Jefferson Caicedo,caicedo-jefferson,3,927271,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+3,9,107,12,0,69.23,4,7,7,16,4,0,50.0,59.26,0,6.72,Jan Hurtado,jan-hurtado,573,868777,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+2,6,383,56,0,54.55,7,7,9,15,7,6,39.13,44.12,1,6.72,Jackson Rodríguez,jackson-rodriguez,10,1018168,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+5,30,1721,262,0,60.0,22,27,62,92,33,18,37.35,42.59,37,6.72,Renny Sinisterra,sinisterra-renny,25,1131289,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+2,19,1158,103,1,52.78,8,14,25,44,3,14,73.53,62.86,1,6.71,Darwin Torres,darwin-torres,19,220757,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+0,15,388,37,0,50.0,3,7,5,20,4,5,45.45,48.78,2,6.71,Michael Rangel,michael-rangel,139,1103938,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+2,10,1127,162,0,66.67,15,14,60,70,10,12,61.22,61.95,7,6.71,José Hernández,jose-hernandez,8,885589,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+1,4,190,31,0,28.57,2,8,6,10,10,0,25.0,26.32,5,6.71,Alejandro Gabriel Quintana,alejandro-gabriel-quintana,16,868706,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+8,12,1620,172,0,44.44,16,21,75,87,30,19,60.0,57.24,2,6.71,Alex Rangel,rangel-alex,8,1109883,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+5,20,892,156,2,71.43,32,21,66,86,27,6,53.23,56.58,10,6.71,Adonis Preciado,adonis-preciado,38,975536,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+4,7,1204,159,2,36.84,13,22,45,52,12,15,50.56,48.15,13,6.71,Erick Castillo,erick-castillo,74,338957,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+0,7,213,15,0,46.67,6,14,10,17,3,1,66.67,56.67,1,6.71,Diego Hurtado,diego-hurtado,3,922854,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+2,14,902,71,1,60.87,6,11,12,26,14,11,44.44,52.0,0,6.71,Wilker Ángel,wilker-angel,331,147358,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+4,3,723,77,0,42.86,7,13,19,22,20,8,37.25,37.93,6,6.71,Jhoanner Chávez,jhoanner-chavez,245,1002458,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+3,3,732,93,0,42.86,13,14,36,39,3,9,63.16,60.94,9,6.71,Marco Alexander Carrasco Bonilla,carrasco-bonilla-marco-alexander,5,966583,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+0,12,1159,112,0,54.55,11,16,27,39,16,13,52.94,53.42,3,6.71,Ronny Biojo,biojo-ronny,1,965873,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+2,9,1767,189,0,33.33,21,25,62,71,21,23,49.6,46.71,13,6.7,Rommel Tapia,rommel-tapia,1,1391980,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+0,4,175,43,0,80.0,4,9,10,14,4,0,38.46,45.16,5,6.7,Bryan Elian Vinan Rodriguez,bryan-elian-vinan-rodriguez,1,964923,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+0,1,14,6,0,100.0,1,1,2,3,0,0,66.67,75.0,1,6.7,Derlis Mereles,mereles-derlis,15,974113,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+1,0,10,5,0,0.0,1,1,2,2,1,0,66.67,66.67,0,6.7,Álvaro Preciado,alvaro-preciado,9,974099,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+0,0,20,4,0,0.0,0,1,2,2,0,0,100.0,66.67,0,6.7,Guillermo Rendón,guillermo-rendon,8,1177429,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+0,0,108,7,0,0.0,1,2,5,5,1,1,50.0,50.0,2,6.7,Marcos Olmedo,olmedo-marcos,2,975773,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+0,0,56,8,0,0.0,0,2,1,1,1,0,33.33,33.33,0,6.7,Jeremy Mina,mina-jeremy,1,1116363,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+0,0,11,3,0,0.0,1,3,1,1,0,0,100.0,100.0,0,6.7,Ronal de Jesus,de-jesus-ronal,1,989375,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+2,6,408,38,0,100.0,6,7,11,17,7,5,55.0,65.38,1,6.7,Ariel Aguas,aguas-ariel,0,1485140,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+1,3,309,55,0,50.0,6,9,14,17,11,3,41.18,42.5,3,6.7,Ivan Becker,becker-ivan,2,1001813,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+0,0,13,2,0,0.0,2,2,3,3,0,0,75.0,60.0,1,6.7,Wilson Chuchuca,chuchuca-wilson,2,1521968,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+9,14,1468,235,0,63.64,21,19,64,78,25,19,51.61,53.42,12,6.69,Mario Pineida,mario-pineida,113,158365,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+5,13,1014,106,0,65.0,18,18,54,67,25,11,49.09,51.54,8,6.69,Angelo Mina,mina-angelo,4,989217,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+4,8,916,118,0,40.0,18,17,43,51,18,10,50.0,48.11,10,6.69,Bryan Carabalí,bryan-carabali,34,877439,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+2,3,467,73,0,33.33,12,14,29,32,11,4,50.0,47.76,7,6.69,Jonathan Borja,jonathan-borja,40,869784,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+4,19,2022,308,0,54.29,28,25,63,82,32,22,51.22,51.9,12,6.69,Romario Caicedo,romario-caicedo,11,858239,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+0,1,424,80,0,33.33,7,14,14,15,6,4,58.33,55.56,1,6.69,Carlos Feraud,carlos-feraud,6,249519,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+4,20,1219,118,0,41.67,20,23,31,51,28,12,32.29,35.42,24,6.69,Rodrigo Rivas González,rodrigo-rivas-gonzalez,25,850930,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+1,11,721,93,0,68.75,2,11,12,23,6,7,46.15,54.76,2,6.69,Ariel Garcia,garcia-ariel,1,1185732,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+2,11,1565,134,1,64.71,23,21,56,67,35,19,45.16,47.52,14,6.69,Bruno Téliz,bruno-teliz,17,976170,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+1,9,764,74,0,45.0,0,10,12,21,7,9,46.15,45.65,1,6.69,Andres Campas,andres-campas,1,1185561,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+3,3,1440,167,1,75.0,4,16,4,7,2,16,66.67,70.0,0,6.69,José Luis Angulo,jose-luis-angulo,2,931633,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+2,10,453,51,0,71.43,1,7,16,26,8,5,55.17,60.47,3,6.69,John Medina,medina-john,1,1103933,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+7,6,1970,220,0,40.0,37,28,87,93,27,24,49.71,48.95,21,6.69,Mauricio Alonso,mauricio-alonso,16,896840,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+4,3,859,106,1,27.27,13,21,26,29,15,10,44.83,42.03,8,6.69,Jhon Sánchez,jhon-sanchez,99,975544,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+2,1,274,56,0,50.0,10,14,17,18,9,1,44.74,45.0,10,6.68,Enson Rodriguez,enson-rodriguez,34,589580,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+3,39,2031,326,2,75.0,22,24,52,91,31,24,55.91,62.76,5,6.68,Óscar Quiñónez,oscar-quinonez,8,1495929,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+2,2,303,46,0,50.0,7,6,22,24,5,3,68.75,66.67,0,6.68,Henry Mercado,mercado-henry,1,1486740,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+0,0,319,28,0,0.0,3,8,14,14,5,4,43.75,36.84,4,6.68,Janus Vivar,janus-vivar,1,822722,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+0,0,137,29,0,0.0,3,7,10,10,2,1,71.43,62.5,1,6.68,Enzo Ariel Fernandez,fernandez-enzo-ariel,25,1092343,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+3,1,1001,129,0,25.0,8,16,40,41,11,12,54.79,53.25,9,6.68,Robinson Requene,robinson-requene,1,338949,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+3,4,1033,153,0,30.77,24,21,50,54,22,11,53.19,50.47,14,6.68,Maikel Valencia,maikel-valencia,1,1495658,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+3,2,212,31,0,40.0,3,10,7,9,4,0,38.89,39.13,5,6.68,Fidel Martínez,fidel-martinez,196,45794,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+2,8,1224,185,1,66.67,16,18,37,45,29,14,41.11,44.12,4,6.68,Bryan Tana,bryan-tana,3,886502,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+0,3,206,19,0,75.0,1,9,2,5,4,1,20.0,35.71,1,6.68,Leonardo Villagra,villagra-leonardo,20,835655,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+1,6,280,27,0,37.5,4,14,5,11,9,1,23.81,29.73,6,6.68,Diego Ávila,diego-avila,7,877434,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+6,23,2207,289,2,52.27,14,26,72,95,39,26,46.15,47.5,18,6.68,Rodrigo Melo,rodrigo-melo,4,971199,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+4,4,1159,152,0,21.05,12,23,72,76,26,13,61.02,55.47,7,6.68,Jhon Narvaez,jhon-narvaez,22,107596,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+7,18,1844,259,1,58.06,16,25,40,58,36,19,36.04,40.85,20,6.68,Charles Vélez,charles-velez,8,925611,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+6,8,2003,225,1,27.59,20,26,45,53,30,22,45.92,41.73,15,6.67,Roberto Garcés,roberto-garces,7,869783,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+3,15,1340,256,0,48.39,7,18,36,51,21,13,48.65,48.57,1,6.67,Orlin Quinonez,orlin-quinonez,3,922739,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+10,20,2083,302,0,62.5,10,26,51,71,32,24,49.04,52.21,9,6.67,Bryan Rivera,bryan-rivera,2,889119,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+0,20,1547,192,0,68.97,36,25,56,76,14,17,50.91,54.68,14,6.67,Stalin Morocho,morocho-stalin,2,1185461,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+3,7,1579,236,2,38.89,28,20,64,71,15,17,54.24,52.21,15,6.67,Pedro Perlaza,pedro-perlaza,31,925480,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+3,1,301,45,1,11.11,12,10,22,23,5,3,59.46,50.0,1,6.67,Ronald Briones,ronald-briones,6,1108522,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+0,15,1348,130,0,28.85,19,24,29,44,23,15,38.16,34.38,9,6.67,Dany Coronel,coronel-dany,4,1475219,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+9,18,1829,226,0,52.94,24,23,58,76,45,20,43.61,45.51,8,6.67,Carlos Cuero,carlos-cuero,14,826830,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+2,7,192,24,0,50.0,1,6,1,8,4,1,10.0,33.33,4,6.67,Allen Obando,allen-obando,154,1394753,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+0,1,70,10,0,100.0,1,3,1,2,1,0,20.0,33.33,2,6.67,Jairon Charcopa,jairon-charcopa,7,1116608,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+4,20,2052,317,1,57.14,13,24,48,68,18,24,52.17,53.54,6,6.67,Glendys Mina,glendys-mina,1,964878,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+4,7,800,75,0,43.75,25,24,35,42,10,10,61.4,57.53,8,6.66,Jonathan Bauman,jonathan-bauman,86,894452,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+3,5,730,80,0,41.67,7,11,28,33,17,8,40.58,40.74,4,6.65,Ronny Borja,ronny-borja,2,1525502,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+5,9,1524,223,0,37.5,15,22,56,65,30,17,50.0,47.79,7,6.65,Daniel Patino,daniel-patino,1,922095,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+6,12,1369,181,1,54.55,11,19,46,58,24,17,49.46,50.43,4,6.65,Luis Gustavino,luis-gustavino,3,1495656,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+3,37,1686,185,0,57.81,17,21,27,64,21,19,47.37,52.89,3,6.65,Cristian Enciso,cristian-enciso,9,339929,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+1,6,270,24,0,85.71,1,4,6,12,4,3,46.15,60.0,0,6.65,Rommel Cabezas,rommel-cabezas,1,1105297,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+2,9,1159,103,0,52.94,2,14,21,30,10,14,53.85,53.57,1,6.65,Juan Alvacete,juan-alvacete,1,340551,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+2,26,1615,245,1,68.42,43,25,75,101,31,16,53.96,57.06,13,6.65,Segundo Portocarrero,segundo-portocarrero,19,846486,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+5,6,829,58,1,60.0,12,22,37,43,27,7,45.12,46.74,6,6.65,Patrik Mercado,patrik-mercado,49,1215084,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+3,6,651,55,0,46.15,7,14,22,28,10,6,53.66,51.85,2,6.65,Sergio Quintero,quintero-sergio,25,985111,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+4,3,1237,180,0,42.86,15,17,28,31,12,14,45.9,45.59,5,6.64,Milton Bolaños,milton-bolanos,1,1102459,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+3,16,684,98,0,31.37,19,19,28,44,12,8,41.79,37.29,9,6.64,Gustavo Asprilla,gustavo-asprilla,4,868743,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+4,6,826,102,0,66.67,6,13,31,37,15,11,51.67,53.62,7,6.64,Beder Caicedo,caicedo-beder,30,875822,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+10,15,1620,281,2,65.22,21,21,57,72,30,18,46.34,49.32,16,6.64,Gregori Anangonó,gregori-anangono,5,931382,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+10,47,1755,182,0,65.28,17,21,53,100,23,19,59.55,62.11,3,6.64,Yardely Rodriguez,rodriguez-yardely,1,1473215,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+3,12,490,44,0,66.67,10,8,16,28,6,6,64.0,65.12,1,6.64,Luis Romero,luis-romero,1,220437,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+3,11,1036,114,1,50.0,14,19,33,44,37,12,37.08,39.64,8,6.64,Carlos Villalba,carlos-villalba,39,975704,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+4,32,1687,141,1,64.0,10,19,23,55,22,19,43.4,53.4,0,6.64,Eddie Guevara,eddie-guevara,5,827127,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+4,12,499,71,0,70.59,5,18,11,23,15,5,39.29,51.11,2,6.64,Bruno Piñatares,bruno-pinatares,48,842348,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+2,22,1227,122,0,40.0,25,20,33,55,20,15,37.93,38.73,13,6.63,Jostin Alman,jostin-alman,6,925478,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+1,0,188,14,0,0.0,1,10,2,2,2,1,40.0,28.57,1,6.63,Federico Vietto,federico-vietto,15,822598,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+1,1,158,23,0,33.33,6,9,14,15,4,0,56.0,53.57,2,6.63,Davis Camacho,camacho-davis,1,990816,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+4,16,1897,265,0,72.73,27,29,64,80,43,22,38.79,42.78,25,6.63,Wiston Fernández,wiston-fernandez,17,931581,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+0,1,342,48,0,50.0,13,12,13,14,3,3,61.9,60.87,4,6.63,Danny Luna,danny-luna,8,158417,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+2,16,1595,302,0,59.26,16,24,69,85,11,18,62.16,61.59,6,6.63,Edwin Mesa,mesa-edwin,1,1185465,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+0,4,494,86,0,50.0,16,16,31,35,10,3,49.21,49.3,15,6.63,Juan Diego Rojas Caicedo,juan-diego-rojas-caicedo,4,339997,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+10,24,2070,247,0,40.0,75,28,121,145,28,25,62.05,56.86,18,6.63,Jesús Preciado,jesus-preciado,5,843265,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+0,1,113,14,0,33.33,5,4,5,6,2,1,41.67,40.0,3,6.63,Luis Aldair Arroyo Cabeza,luis-aldair-arroyo-cabeza,1,1517846,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+0,0,360,28,1,0.0,1,4,1,1,1,4,50.0,50.0,0,6.63,Kleber Pinargote Lara,kleber-pinargote-lara,23,1065598,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+0,7,572,71,0,53.85,2,9,18,25,4,6,64.29,60.98,3,6.62,Bleiner Agrón,bleiner-agron,25,1066910,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+1,9,325,31,0,47.37,3,10,3,12,1,2,33.33,42.86,3,6.62,Óscar Villalba,oscar-villalba,3,1188874,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+6,15,1046,126,2,62.5,30,21,61,76,26,11,56.48,57.58,7,6.62,Cristhian Valencia,cristhian-valencia,9,1105365,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+1,10,1639,194,1,66.67,40,26,64,74,11,21,61.54,62.18,11,6.62,Klebinho,klebinho,57,822507,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+1,4,321,37,0,80.0,1,8,5,9,7,3,38.46,50.0,1,6.61,Esnaider Cabezas,esnaider-cabezas,5,1102458,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+7,24,1429,283,1,63.16,32,22,71,95,31,17,44.65,48.22,18,6.61,José Carabalí,jose-carabali,17,1017480,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+0,2,199,30,0,33.33,6,11,9,11,2,0,45.0,42.31,4,6.61,Walter Chalá,walter-chala,13,146608,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+7,61,1973,244,4,59.8,16,23,51,112,42,23,47.22,53.33,4,6.61,Andrés Micolta,andres-micolta,6,1466301,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+7,12,2065,301,2,46.15,29,25,75,87,31,25,49.34,48.88,19,6.61,Darwin Suarez,darwin-suarez,2,846827,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+0,10,425,48,0,45.45,7,15,12,22,8,4,48.0,46.81,3,6.61,Roberto Ordóñez,roberto-ordonez,20,874641,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+0,5,261,28,0,27.78,1,9,3,8,4,2,23.08,25.81,2,6.6,Walberto Caicedo,walberto-caicedo,4,588594,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+0,0,194,25,0,0.0,1,7,9,9,2,2,40.91,37.5,3,6.6,Franco Costa,franco-costa,7,558788,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+0,0,49,1,0,0.0,0,2,0,0,1,0,0.0,0.0,1,6.6,Jose Klinger,klinger-jose,83,1201014,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+0,0,65,9,0,0.0,2,2,3,3,0,1,60.0,60.0,1,6.6,Michael Mieles,mieles-michael,1,1156172,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+1,0,63,6,0,0.0,1,3,3,3,5,0,30.0,27.27,0,6.6,Mathías Solís,mathias-solis,2,1145374,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+0,0,13,4,0,0.0,0,3,0,0,2,0,0.0,0.0,0,6.6,Silvano Estacio,silvano-estacio,1,1002475,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+0,0,16,2,0,0.0,0,1,1,1,0,0,100.0,100.0,0,6.6,Armando Calle,calle-armando,1,1185463,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+0,0,14,5,0,0.0,0,1,1,1,0,0,100.0,100.0,0,6.6,Ariel Fernando Alcivar,alcivar-ariel-fernando,0,1141759,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+0,0,180,22,0,0.0,0,2,0,0,0,2,0.0,0.0,0,6.6,Adrián Bone,adrian-bone,5,146240,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+0,0,18,5,0,0.0,2,2,3,3,2,0,42.86,42.86,2,6.6,Piero Guzmán,piero-guzman,1,1483014,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+1,7,454,34,0,77.78,6,9,11,18,16,5,32.35,41.86,4,6.59,Joffré Escobar,joffre-escobar,43,885539,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+1,3,274,42,0,27.27,5,9,10,13,11,2,35.71,33.33,6,6.59,Cristian Duma,cristian-duma,6,941509,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+4,5,972,142,1,35.71,11,17,23,28,14,13,46.94,44.44,5,6.59,Bryan Nazareno,nazareno-bryan,7,1466354,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+0,0,174,26,0,0.0,1,8,2,2,1,1,20.0,15.38,2,6.59,Daniel Segura,segura-daniel,8,976958,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+2,0,179,28,0,0.0,10,10,12,12,8,1,44.44,44.44,1,6.59,Jean Carrion,jean-carrion,2,1190333,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+1,3,326,33,0,23.08,5,14,12,15,7,2,41.38,35.71,4,6.58,Ignacio Valsagiácomo,ignacio-valsagiacomo,6,932881,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+0,2,265,15,0,28.57,9,6,10,12,7,4,52.63,46.15,1,6.58,Manuel Núñez,manuel-nunez,6,1128899,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+5,10,1834,138,0,45.45,14,29,53,63,40,20,40.15,40.91,11,6.58,Juan Jimenez,juan-jimenez,11,922048,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+2,5,589,57,0,71.43,11,11,25,30,8,6,54.35,56.6,3,6.58,Richard Farias,farias-richard,2,1185458,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+2,1,355,66,0,14.29,4,10,11,12,10,3,28.95,26.67,7,6.58,Ángel González,angel-gonzalez,40,773629,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+0,1,159,16,0,20.0,3,5,3,4,2,1,42.86,33.33,1,6.58,Cristian Sención,cristian-sencion,15,877404,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+1,2,176,18,0,40.0,3,4,9,11,2,0,69.23,61.11,1,6.58,Eder Cetre,eder-cetre,2,1015248,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+2,2,103,13,0,50.0,8,6,10,12,4,1,55.56,54.55,1,6.58,Sergio Vasquez,vasquez-sergio,6,1473448,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+5,14,1383,117,0,46.67,24,18,38,52,23,17,47.5,47.27,14,6.57,Renato César,renato-cesar,26,248023,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+0,0,373,66,0,0.0,3,12,12,12,6,3,35.29,35.29,4,6.56,Jefferson Montero,jefferson-montero,156,54686,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+6,16,1942,237,0,53.33,27,28,52,68,22,21,48.6,49.64,11,6.56,William Vargas,vargas-william,4,928506,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+1,11,291,40,0,61.11,8,8,13,24,9,3,48.15,53.33,3,6.56,Christian Cuero,christian-cuero,1,965039,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+0,1,214,24,0,12.5,4,6,9,10,3,3,47.37,37.04,4,6.56,Cristopher Zambrano,zambrano-cristopher,41,1116357,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+3,17,1262,195,1,54.84,14,21,41,58,28,13,48.24,50.0,8,6.55,Jose Luis Monaga Quinonez,jose-luis-monaga-quinonez,1,925620,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+2,5,988,138,0,31.25,7,27,24,29,16,5,45.28,42.03,6,6.55,Arnaldo Valverde,arnaldo-valverde,1,964939,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+3,5,804,130,0,35.71,13,10,27,32,12,10,50.94,47.76,4,6.55,Andy Burbano,andy-burbano,1,868745,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+0,10,250,38,0,52.63,4,6,6,16,10,2,31.58,42.11,2,6.55,Joao Paredes,joao-paredes,1,921860,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+1,1,136,13,0,50.0,1,3,2,3,3,1,33.33,37.5,0,6.55,Jonnathan Bravo,jonnathan-bravo,1,881845,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+1,0,182,22,0,0.0,2,6,5,5,5,1,35.71,35.71,1,6.55,Silvio Gutiérrez,silvio-gutierrez,6,877438,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+2,13,1202,184,0,59.09,15,16,42,55,13,14,58.33,58.51,6,6.55,Federico Arbeláez,federico-arbelaez,5,863327,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+2,18,723,58,1,60.0,8,11,11,29,13,7,39.29,50.0,2,6.55,Marlon Mejía,marlon-mejia,5,155772,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+11,8,1525,158,0,36.36,26,22,54,62,37,19,42.19,41.33,18,6.55,Federico Jesus Flores,federico-jesus-flores,4,358502,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+1,1,369,57,1,20.0,16,11,29,30,12,3,50.88,48.39,8,6.54,Santiago Ramirez,santiago-ramirez,7,877597,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+5,26,874,106,1,78.79,2,12,8,34,17,10,25.0,52.31,4,6.54,Roberto Luzárraga,roberto-luzarraga,5,877435,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+0,2,192,19,0,33.33,2,11,9,11,6,1,50.0,45.83,1,6.54,Luis Castro,luis-castro,2,1473028,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+4,12,1369,168,0,63.16,26,19,63,75,11,15,57.8,58.59,9,6.54,Byron Torrez,byron-torrez,1,1473534,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+1,3,445,64,0,30.0,9,15,19,22,11,2,43.18,40.74,6,6.53,Santiago Zamora,zamora-santiago,7,990271,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+2,3,520,69,0,42.86,4,15,18,21,7,5,43.9,43.75,6,6.53,Jefferson Arce,arce-jefferson,18,985108,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+3,7,594,71,0,58.33,2,11,8,15,12,5,29.63,38.46,1,6.53,Jhonnier Estrada,estrada-jhonnier,0,1473447,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+0,2,367,24,1,33.33,9,8,10,12,1,4,50.0,46.15,5,6.53,Federico Andrada,federico-andrada,30,330865,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+1,3,469,60,0,50.0,11,17,15,18,5,3,48.39,48.65,6,6.53,Edgar Lastre,edgar-lastre,13,1018573,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+2,4,486,51,1,33.33,12,14,19,23,8,5,59.38,52.27,3,6.52,Brayan Angulo,brayan-angulo,233,588584,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+4,19,1261,207,1,54.29,16,17,30,49,13,14,54.55,54.44,6,6.52,Marlon Quiñónez,marlon-quinonez,3,1133763,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+1,3,351,59,0,60.0,4,12,11,14,6,2,44.0,46.67,4,6.52,Denis Rodríguez,denis-rodriguez,15,798692,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+3,2,435,63,0,20.0,6,13,15,17,6,5,36.59,33.33,8,6.52,Ayrton Preciado,ayrton-preciado,164,343119,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+4,14,925,102,1,63.64,10,14,22,36,17,10,44.0,50.0,0,6.52,Franklin Carabali,franklin-carabali,3,883162,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+4,3,474,63,0,37.5,8,9,18,21,8,4,46.15,44.68,5,6.51,Melvin Diaz,diaz-melvin,4,1069637,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+0,8,799,119,0,44.44,22,18,43,51,20,7,45.74,45.54,16,6.51,Tomson Minda,tomson-minda,4,1018545,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+1,8,330,42,0,66.67,6,9,8,16,5,3,29.63,41.03,6,6.51,Stiven Plaza,stiven-plaza,152,938728,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+1,16,507,37,1,55.17,7,11,15,31,3,4,71.43,62.0,0,6.51,Dubar Enríquez,dubar-enriquez,1,932248,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+5,18,1377,232,1,56.25,8,20,23,41,34,16,31.51,39.05,8,6.51,Rody Zambrano,rody-zambrano,1,1117831,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+0,0,19,4,0,0.0,1,1,1,1,1,0,50.0,50.0,0,6.5,Luis Arce,arce-luis,10,975708,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+0,0,8,0,0,0.0,0,1,0,0,0,0,0.0,0.0,0,6.5,Emerson Espinoza,espinoza-emerson,8,1094577,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+0,1,90,11,0,50.0,0,1,0,1,0,1,0.0,50.0,0,6.5,Erick Viveros,erick-viveros,1,873946,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+1,0,20,3,0,0.0,0,1,1,1,1,0,50.0,50.0,0,6.5,Jordán Mohor,jordan-mohor,0,1457531,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+0,3,107,17,0,42.86,2,3,5,8,5,1,31.25,34.78,4,6.5,Gustavo Guerreño,gustavo-guerreno,12,988081,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+0,0,95,17,0,0.0,3,5,5,5,0,1,55.56,50.0,3,6.5,Juan Perez,perez-juan,34,1470460,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+0,1,169,18,0,33.33,7,6,9,10,6,2,50.0,47.62,1,6.5,Ronal Jimenez,jimenez-ronal,2,1473012,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+2,4,328,21,0,50.0,4,9,12,16,4,2,57.14,55.17,1,6.5,Carlos Medina,medina-carlos,1,1108473,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+0,0,15,0,0,0.0,1,1,1,1,1,0,50.0,50.0,0,6.5,Jhon Acurio,acurio-jhon,27,1479183,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+0,1,24,5,0,100.0,0,2,2,3,1,0,66.67,75.0,0,6.5,José Orlando Pérez,jose-orlando-perez,7,859701,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+0,0,32,2,0,0.0,1,3,3,3,1,0,60.0,50.0,0,6.5,Erick Zambrano,erick-zambrano,75,1517847,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+0,0,17,3,0,0.0,0,3,1,1,2,0,16.67,14.29,0,6.5,Diego Espinosa,diego-espinosa,1,826814,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+2,0,360,15,0,0.0,0,4,0,0,0,4,0.0,0.0,0,6.5,Adrián Gabbarini,adrian-gabbarini,32,37951,LDU,ldu,LDU,0,0,5257,#52b030,#52b030,#ffffff
+1,1,107,7,0,25.0,0,5,1,2,7,1,12.5,16.67,0,6.5,Jipson Orovio,orovio-jipson,1,992009,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+2,11,408,30,0,68.75,3,7,7,18,4,5,58.33,64.29,1,6.5,Moisés Corozo,moises-corozo,8,277363,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+4,0,820,130,0,0.0,18,18,43,43,17,9,42.57,42.16,26,6.49,Dixon Vera,dixon-vera,11,1197424,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+2,1,200,19,0,12.5,2,8,5,6,2,1,45.45,31.58,3,6.49,Agustín Dávila,agustin-davila,28,966841,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+2,1,206,34,0,25.0,1,5,9,10,5,2,40.91,38.46,2,6.48,Jefferson Padilla,jefferson-padilla,1,1495635,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+0,3,316,33,0,27.27,3,10,7,10,11,3,25.0,25.64,5,6.48,Jordan Yepez,yepez-jordan,4,1185829,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+2,3,190,17,0,42.86,0,11,1,4,14,0,5.56,16.0,2,6.48,Ruyery Blanco,ruyery-blanco,18,974049,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+2,3,393,60,0,33.33,2,8,13,16,5,5,40.63,39.02,2,6.48,Mejia Marcos,marcos-mejia,1,976964,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+1,5,644,102,0,45.45,12,22,31,36,11,3,45.59,45.57,14,6.47,Junior Ayovi,junior-ayovi,2,1103512,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+0,1,110,21,0,25.0,0,4,3,4,3,0,27.27,26.67,2,6.47,Yeison Nazareno,nazareno-yeison,1,1473005,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+2,12,1249,183,1,50.0,11,18,37,49,24,14,48.68,49.0,6,6.47,Josué Cuero,josue-cuero,1,1142359,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+2,4,569,79,0,50.0,6,14,36,40,18,4,43.37,43.96,13,6.46,Joel Alirio Almache Hidalgo,almache-hidalgo-joel-alirio,1,1390303,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+2,6,633,69,0,60.0,6,8,17,23,13,6,45.95,48.94,5,6.46,Christian Cruz,christian-cruz,21,844613,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+0,0,46,3,0,0.0,0,2,0,0,2,0,0.0,0.0,0,6.45,Justin Cuero,cuero-justin,263,1201018,Independiente del Valle,independiente-del-valle,Independiente del Valle,0,0,39723,#52b030,#52b030,#ffffff
+1,2,198,43,0,20.0,5,11,6,8,6,3,23.08,22.22,14,6.45,Jaime Ortiz,ortiz-jaime,3,976016,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+9,4,1526,140,2,28.57,23,23,50,54,34,21,43.86,42.19,13,6.44,Pedro Larrea,pedro-larrea,3,793430,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+2,1,247,45,0,12.5,1,9,2,3,5,3,9.09,10.0,4,6.44,Denilson Ovando,denilson-ovando,12,1017166,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+0,3,747,81,1,37.5,15,15,25,28,16,10,50.0,48.28,0,6.44,Luis Ayala,luis-ayala,10,339961,Técnico Universitario,tecnico-universitario,Técnico Universitario,0,0,21941,#52b030,#52b030,#ffffff
+0,1,161,17,1,33.33,0,5,2,3,0,1,66.67,50.0,0,6.43,Diego Corozo,diego-corozo,1,311994,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+0,0,450,58,0,0.0,0,5,0,0,0,5,0.0,0.0,0,6.42,Alexander Eras,alexander-eras,1,1495592,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+1,8,393,41,0,72.73,2,8,11,19,6,3,50.0,57.58,1,6.41,Jeremy Del Castillo,del-castillo-jeremy,1,1466376,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+0,0,15,7,0,0.0,0,1,2,2,0,0,50.0,40.0,0,6.4,Jordan Morán,jordan-moran,36,1002519,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+0,0,8,1,0,0.0,0,1,0,0,0,0,0.0,0.0,0,6.4,Gustavo Nnachi,gustavo-nnachi,10,1011433,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+0,0,45,11,0,0.0,0,1,1,1,4,0,16.67,12.5,0,6.4,Oscar Jaramillo,oscar-jaramillo,0,920899,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+0,0,20,3,0,0.0,0,3,0,0,0,0,0.0,0.0,0,6.4,Bryan Wittle,bryan-wittle,6,1197420,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+0,0,45,8,0,0.0,0,1,0,0,2,1,0.0,0.0,1,6.4,Mayer Mendez,mendez-mayer,2,1459664,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+0,2,240,26,0,28.57,5,7,6,8,7,2,31.58,30.77,3,6.4,William Ocles,william-ocles,1,921388,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+2,3,290,28,0,100.0,0,5,3,6,2,3,37.5,54.55,1,6.38,Andres Garcia,garcia-andres,1,1020036,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+1,4,550,69,0,40.0,4,9,13,17,8,7,41.94,41.46,1,6.36,Henry Quinonez,henry-quinonez,1,873888,Gualaceo SC,gualaceo-sc,Gualaceo SC,0,0,248196,#52b030,#52b030,#ffffff
+0,1,25,6,0,100.0,1,2,1,2,0,0,50.0,66.67,0,6.35,Marcos Caicedo,marcos-caicedo,13,52070,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+0,1,23,5,0,100.0,1,2,1,2,1,0,33.33,50.0,0,6.35,Kevin Rivera,rivera-kevin,3,1094962,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+1,0,97,6,0,0.0,0,4,2,2,1,1,33.33,28.57,1,6.35,Facundo Queiroz,queiroz-facundo,7,981590,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+2,2,114,28,0,100.0,0,5,3,5,4,1,17.65,26.32,4,6.34,Jonathan Robledo,robledo-jonathan,1,1473011,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+3,3,555,73,1,42.86,7,16,15,18,8,6,33.33,34.62,11,6.34,Kevin Sambonino,sambonino-kevin,1,928507,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+0,1,121,19,0,50.0,4,5,10,11,3,1,45.45,45.83,4,6.33,Yerlin Quinonez,quinonez-yerlin,1,1416329,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+1,0,540,25,0,0.0,1,6,1,1,0,6,100.0,50.0,0,6.32,Humberto Acevedo,humberto-acevedo,18,873463,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+2,0,389,43,0,0.0,5,14,13,13,7,4,50.0,44.83,3,6.32,Matias Ferreira,ferreira-matias,10,1121486,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+0,0,59,4,0,0.0,0,1,0,0,2,1,0.0,0.0,1,6.3,Isaac Sanchez,sanchez-isaac,21,1482441,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+0,0,15,2,0,0.0,0,1,0,0,0,0,0.0,0.0,0,6.3,Kevin Peralta,kevin-peralta,1,869788,El Nacional,el-nacional,El Nacional,0,0,5254,#52b030,#52b030,#ffffff
+0,0,27,9,0,0.0,0,2,1,1,1,0,20.0,20.0,0,6.3,Darwin Nazareno,nazareno-darwin,1,1185827,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+1,1,41,4,0,100.0,0,3,1,2,2,0,33.33,50.0,0,6.3,Luis Felipe Fernandez-Salvador,luis-felipe-fernandez-salvador,4,1172588,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+2,2,205,20,0,50.0,0,3,2,4,6,3,25.0,33.33,0,6.27,José Luis Quiñones,jose-luis-quinones,0,1479175,Mushuc Runa,mushuc-runa,Mushuc Runa,0,0,134976,#52b030,#52b030,#ffffff
+1,1,540,42,0,100.0,1,6,1,2,1,6,50.0,66.67,0,6.27,Darwin Cuero,darwin-cuero,2,155766,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+0,0,180,17,0,0.0,0,2,0,0,0,2,0.0,0.0,0,6.25,Juan Martin Rojas,rojas-juan-martin,6,1092606,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+0,0,181,14,0,0.0,2,3,2,2,0,2,100.0,100.0,0,6.25,Eduardo Bores,bores-eduardo,5,1466876,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+0,1,113,13,0,25.0,0,2,2,3,0,1,28.57,27.27,1,6.2,Jefferson Quinonez,jefferson-quinonez,0,964884,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+1,1,135,20,0,50.0,0,2,3,4,2,2,25.0,28.57,3,6.2,Byron Carabalí,byron-carabali,1,1464255,Aucas,aucas,Aucas,0,0,5249,#52b030,#52b030,#ffffff
+1,5,295,24,0,71.43,4,5,7,12,4,3,46.67,54.55,0,6.16,Jeison Mina,jeison-mina,10,1201400,Barcelona SC,barcelona-sc,Barcelona SC,0,0,5250,#52b030,#52b030,#ffffff
+0,1,172,30,1,50.0,4,5,8,9,4,2,44.44,45.0,3,6.15,Marcelo Mantilla,mantilla-marcelo,2,1485141,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+0,2,104,16,1,50.0,3,5,5,7,8,0,27.78,31.82,4,6.13,Lenin Chininin,lenin-chininin,3,1473216,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+0,0,180,13,0,0.0,0,2,0,0,0,2,0.0,0.0,0,6.1,Jose Cevallos,jose-cevallos,1,822715,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+0,2,92,11,1,100.0,0,2,4,6,2,2,57.14,66.67,1,6.05,Luis Cordova,cordova-luis,13,1396217,Deportivo Cuenca,deportivo-cuenca,Deportivo Cuenca,0,0,5251,#52b030,#52b030,#ffffff
+3,1,190,8,0,100.0,1,8,3,4,7,1,30.0,36.36,0,6.03,Yuber Mosquera,yuber-mosquera,13,126094,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+1,2,118,17,0,100.0,1,3,3,5,2,1,50.0,62.5,1,6.0,Jeison Alfonso Dominguez,jeison-alfonso-dominguez,1,590094,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+0,14,505,40,1,56.0,6,8,8,22,6,7,53.33,55.0,0,6.0,Anderson Ordóñez,anderson-ordonez,11,246967,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
+0,0,49,5,1,0.0,0,2,0,0,1,0,0.0,0.0,1,5.5,Efrain Garcia,efrain-garcia,3,1185493,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+0,0,1,0,0,0.0,0,1,0,0,0,0,0.0,0.0,0,0.0,Gabriel Marques,gabriel-marques,16,126614,Guayaquil City,guayaquil-city,Guayaquil City,0,0,188850,#52b030,#52b030,#ffffff
+0,0,6,2,0,0.0,0,1,0,0,0,0,0.0,0.0,0,0.0,Gonzalo Valenzuela,gonzalo-valenzuela,2,981344,Libertad,libertad,Libertad,0,0,394127,#52b030,#52b030,#ffffff
+0,0,1,1,0,0.0,0,1,0,0,0,0,0.0,0.0,1,0.0,Anthony Alvarez,alvarez-anthony,0,1473021,Delfín,delfin,Delfín,0,0,213638,#52b030,#52b030,#ffffff
+1,0,0,0,0,0.0,0,0,0,0,0,0,0.0,0.0,0,0.0,Gilmar Napa,gilmar-napa,49,1002442,Emelec,emelec,Emelec,0,0,5255,#52b030,#52b030,#ffffff
+0,0,0,0,1,0.0,0,0,0,0,0,0,0.0,0.0,0,0.0,Lenin Alex Usca,usca-lenin-alex,1,1103934,Orense SC,orense-sc,Orense SC,0,0,277525,#52b030,#52b030,#ffffff
+0,0,1,2,0,0.0,0,1,0,0,0,0,0.0,0.0,1,0.0,David Ortiz,ortiz-david,1,1156400,Cumbayá FC,cumbaya-fc,Cumbayá FC,0,0,377757,#52b030,#52b030,#ffffff
+0,0,1,0,0,0.0,0,1,0,0,0,0,0.0,0.0,0,0.0,Luis Moreno,moreno-luis,1,1518765,Universidad Católica del Ecuador,universidad-catolica-del-ecuador,Universidad Católica del Ecuador,0,0,21942,#52b030,#52b030,#ffffff
