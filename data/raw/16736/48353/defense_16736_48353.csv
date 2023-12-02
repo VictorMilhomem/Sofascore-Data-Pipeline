@@ -1,0 +1,521 @@
+tackles,errorLeadToGoal,cleanSheet,interceptions,errorLeadToShot,penaltyConceded,ownGoals,clearances,dribbledPast,rating,player.name,player.slug,player.userCount,player.id,team.name,team.slug,team.shortName,team.userCount,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text
+0,0,1,0,0,0,0,0,0,8.6,Gustavo Salvatierra,gustavo-salvatierra,1,890061,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+12,0,0,3,0,0,0,7,4,7.73,Bruno Sávio,bruno-savio,878,840066,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,7.5,Roler Ferrufino,roler-ferrufino,0,989584,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,3,0,7.5,Daniel Sandy,daniel-sandy,4,989573,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+26,0,0,14,0,0,0,10,10,7.46,Rafael Allan Mollercke,mollercke-rafael-allan,31,1476548,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+0,0,1,0,0,0,0,0,0,7.4,Lucas Salinas,lucas-salinas,0,1184211,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+28,0,1,9,0,0,0,2,12,7.38,Matías Pisano,matias-pisano,37,579384,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+18,0,6,7,0,0,1,9,8,7.37,Dorny Romero,dorny-romero,149,1099312,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+14,0,6,6,0,0,0,7,8,7.33,Martín Prost,martin-prost,78,897007,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+6,0,1,0,0,0,0,2,5,7.3,Roy Ndoutoumo,ndoutoumo-roy,19,1184178,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+37,0,8,24,0,0,0,16,29,7.29,Raúl Castro,raul-castro,4,386274,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+19,0,6,4,0,0,0,11,13,7.29,Enrique Triverio,enrique-triverio,192,340419,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+1,0,3,0,0,0,0,13,1,7.28,Carlos Mosquera,carlos-mosquera,18,894214,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+5,0,3,2,0,0,0,0,3,7.28,Maximiliano Ezequiel Nunez,nunez-maximiliano-ezequiel,14,38406,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+12,0,2,2,0,0,0,2,16,7.26,Hugo Dorrego,hugo-dorrego,29,311400,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+13,0,6,1,0,0,0,14,1,7.25,Ronnie Fernández,ronnie-fernandez,316,805150,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+26,0,5,27,0,1,0,20,21,7.25,Julio Herrera,julio-herrera,13,931426,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+15,0,1,4,0,0,0,9,7,7.24,Saulo Guerra,saulo-guerra,5,868702,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+23,0,1,11,0,0,0,7,15,7.23,Ramiro Vaca,ramiro-vaca,173,876307,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+12,0,2,6,0,0,0,1,11,7.22,Michael Ortega,michael-ortega,71,72872,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+16,0,8,2,0,0,0,11,11,7.21,Tommy Tobar,tommy-tobar,38,815461,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+19,0,2,5,0,0,0,3,4,7.21,Esteban Orfano,esteban-orfano,6,223728,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+23,0,3,11,0,1,0,5,10,7.19,Joel Amoroso,joel-amoroso,12,789878,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+36,0,11,32,0,0,0,87,5,7.18,Julián Velázquez,julian-velazquez,15,122667,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+28,0,8,15,0,0,0,1,18,7.18,Thomaz,thomaz,37,846524,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+0,0,12,0,0,2,0,26,0,7.17,Arnaldo Giménez,arnaldo-gimenez,16,870493,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+34,0,3,26,0,0,0,17,9,7.17,José Vargas,jose-vargas,4,1468327,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+16,0,5,1,0,0,0,12,10,7.15,Jair Reinoso,jair-reinoso,62,839459,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+31,0,2,8,0,0,0,8,30,7.15,Diego Cuadros,diego-cuadros,14,819655,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+32,0,5,11,0,0,0,3,23,7.15,Adalid Terrazas,adalid-terrazas,12,1000182,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+3,0,0,0,0,0,0,3,2,7.15,Francisco Da Costa,francisco-da-costa,149,866847,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+52,0,7,22,0,0,0,101,18,7.15,Leandro Corulo,leandro-corulo,4,340857,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+18,0,1,0,0,0,0,4,9,7.15,Jeyson Chura,jeyson-chura,64,1017472,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+10,0,0,7,0,0,0,0,7,7.15,Leonel López,leonel-lopez,69,590260,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+1,1,10,0,0,1,0,27,0,7.14,Raúl Olivares,raul-olivares,33,34430,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+19,0,1,4,0,0,0,1,10,7.14,Edarlyn Reyes,edarlyn-reyes,46,1099313,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+34,0,5,36,0,0,0,107,11,7.13,Sebastián Ibars,sebastian-ibars,1,944708,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+15,0,2,6,0,0,0,3,10,7.13,Serginho,serginho,17,866405,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+7,0,1,2,0,0,0,4,4,7.13,Rodrigo Amaral,rodrigo-amaral,107,796451,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+10,0,0,6,0,0,0,11,8,7.07,Gastón Rodríguez,gaston-rodriguez,65,340125,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+10,0,2,9,0,0,0,3,8,7.06,José Martínez,jose-martinez,12,1017482,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+0,0,5,1,0,0,0,28,2,7.06,Diego Méndez,diego-mendez,1,975065,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+22,0,1,11,0,0,0,15,15,7.06,Samuel Galindo,samuel-galindo,4,130098,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+11,0,1,2,0,0,0,1,13,7.06,Jonathan Canete,jonathan-canete,5,358932,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+22,0,3,23,0,0,0,15,15,7.05,Roberto Fernández,roberto-fernandez,103,986778,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+32,0,8,23,0,0,0,27,18,7.05,Matias Noble,matias-noble,14,815133,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+0,0,1,0,0,0,0,4,0,7.05,Fabián Pereira,fabian-pereira,2,1503689,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+11,0,1,1,0,0,0,9,2,7.03,Ariel Nahuelpán,ariel-nahuelpan,75,77558,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+40,1,3,8,0,0,0,13,26,7.03,Rodrigo Ramallo,rodrigo-ramallo,16,163161,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+37,0,7,28,0,0,0,127,13,7.02,César García,cesar-garcia,9,1184158,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+35,0,1,20,0,0,0,14,8,7.02,Leonel Justiniano,leonel-justiniano,31,220991,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+17,0,2,1,0,0,0,15,11,7.02,Miguel Mendoza,miguel-mendoza,3,1495665,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+55,0,9,42,0,0,0,46,16,7.02,Héctor Cuellar,hector-cuellar,15,1495631,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+6,0,0,3,0,0,0,0,2,7.02,Pablo Hervías,pablo-hervias,41,116952,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+21,0,1,4,0,0,0,5,21,7.01,Cristian Alvarez,cristian-alvarez,21,250235,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+38,0,12,26,0,1,0,140,9,7.01,Julio Vila,julio-vila,1,1184221,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+11,0,0,2,0,0,0,0,6,7.0,Patricio Rodríguez,patricio-rodriguez,83,37952,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+5,0,0,0,0,0,0,1,1,7.0,Rodrigo Orihuela,rodrigo-orihuela,1,1017445,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,2,0,7.0,Sebastián Angulo,sebastian-angulo,5,1184187,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+2,0,1,3,0,0,0,5,1,7.0,José Herrera,jose-herrera,9,1017481,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+25,0,1,19,0,0,0,8,15,7.0,Rudy Cardozo,rudy-cardozo,8,64982,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+10,0,0,8,0,0,0,2,5,7.0,Gabriel Sotomayor,gabriel-sotomayor,11,974103,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+1,0,9,0,0,0,0,38,1,6.99,Wilson Quiñónez,wilson-quinonez,44,1184161,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+1,1,11,1,1,0,0,15,1,6.98,Pedro Galindo,pedro-galindo,1,877531,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+45,1,7,31,0,0,0,15,30,6.98,Jair Torrico,jair-torrico,2,163181,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+16,0,1,7,0,0,0,2,8,6.98,Carlos Melgar,carlos-melgar,8,877535,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+10,0,3,7,0,0,0,3,14,6.98,Martín Alaníz,martin-alaniz,17,339123,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+33,0,4,8,0,0,0,10,23,6.97,Luciano Ursino,luciano-ursino,40,589582,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+2,0,2,0,1,0,0,13,0,6.97,Gustavo Almada,gustavo-almada,2,1418344,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+21,0,8,33,0,0,1,92,10,6.96,David Robles,david-robles,11,893078,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+13,0,0,5,0,0,0,5,10,6.96,Luis Maki Salces,luis-maki-salces,3,897151,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+12,0,0,7,0,0,0,2,5,6.96,Jorge Correa,jorge-correa,26,175097,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,0,6.95,Oscar Vaca,oscar-vaca,1,886913,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+4,0,2,4,0,0,0,11,3,6.94,Gilbert Álvarez,gilbert-alvarez,15,805363,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+17,0,2,5,0,0,0,3,8,6.94,Jairo Hestefano Jean,hestefano-jean-jairo,316,1156453,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+0,0,2,0,1,0,0,5,0,6.93,Luis Banegas,luis-banegas,4,873729,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+22,0,4,20,0,0,0,19,9,6.93,Luis Torrico,luis-torrico,2,12435,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+59,0,5,31,0,0,1,28,22,6.93,Pedro Azogue,pedro-azogue,1,247125,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+68,0,8,25,0,0,0,65,29,6.93,Robson dos Santos,robson-dos-santos,1,1102032,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+0,0,10,0,0,0,1,21,0,6.93,Guillermo Viscarra,guillermo-viscarra,83,331437,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+40,0,10,35,0,1,0,73,13,6.93,Joaquín Lencinas,joaquin-lencinas,8,345747,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+0,1,2,0,0,0,0,1,0,6.93,Rubén Cordano Justiniano,ruben-cordano-justiniano,18,846777,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+0,0,4,0,0,0,0,11,2,6.92,David Akologo,david-akologo,25,1184170,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+0,2,8,0,1,0,0,16,0,6.92,Carlos Lampe,carlos-lampe,217,47452,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+29,0,4,13,0,0,0,16,23,6.92,Alejandro Chumacero,alejandro-chumacero,65,162707,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+9,0,0,4,0,0,0,1,7,6.92,Celin Padilla,celin-padilla,1,1495609,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+12,0,3,0,0,0,0,2,9,6.92,Gabriel Esparza,gabriel-esparza,15,1085228,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+1,0,0,1,0,0,0,0,0,6.91,Rafinha,rafinha,49,329269,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+17,0,1,3,0,0,0,4,12,6.91,Gustavo Cristaldo,gustavo-cristaldo,22,75655,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+54,0,3,15,1,0,0,23,33,6.91,Juan Adrián,juan-adrian,5,1008535,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+24,0,11,22,0,1,0,58,7,6.91,Jonata Machado,jonata-machado,12,927215,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+8,0,1,4,0,0,0,7,7,6.91,Limberg Gutierrez Mojica,limberg-gutierrez-mojica,1,876306,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+28,0,3,9,0,0,0,3,20,6.9,Víctor Cuellar,victor-cuellar,2,1108509,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+3,0,0,1,0,0,0,1,0,6.9,Oscar Valda,oscar-valda,2,1495670,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+26,0,8,29,0,0,0,64,6,6.9,Nicolás Ferreyra,nicolas-ferreyra,38,340839,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,6.9,Diego Corpus,diego-corpus,3,1184177,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+0,0,1,0,0,0,0,1,0,6.9,Ruben Escobar,ruben-escobar,7,790107,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+6,0,0,1,0,0,0,3,0,6.9,Daniel Aguilera,daniel-aguilera,0,1564072,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+0,0,2,0,0,0,0,9,0,6.9,Leandro Claros,leandro-claros,1,885576,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+76,0,11,41,0,0,0,36,37,6.9,Thiago,thiago,3,84604,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+6,0,1,1,0,0,0,23,1,6.9,José Correa,jose-correa,29,233338,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+43,0,6,32,0,1,0,30,24,6.89,Juan Orellana,juan-orellana,2,874470,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+19,0,1,5,0,0,0,3,3,6.89,Fernando Saucedo,fernando-saucedo,47,127947,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+34,0,0,7,0,0,0,14,24,6.89,Maximiliano Lemos,maximiliano-lemos,13,805321,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+23,0,5,24,0,0,0,72,6,6.88,Nelson Avelino Amarilla Bogado,nelson-avelino-amarilla-bogado,10,47210,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+6,0,0,1,0,0,0,7,3,6.88,Brayan Aranibar,brayan-aranibar,1,946802,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+17,0,2,18,1,1,0,10,13,6.88,Sebastian Gallegos,sebastian-gallegos,14,116096,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+33,0,5,33,0,1,0,36,16,6.88,Maximiliano Ortíz,maximiliano-ortiz,2,846776,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+39,0,9,42,0,2,0,93,12,6.88,Luis Barboza,luis-barboza,1,249285,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+21,0,4,31,0,1,0,86,4,6.88,Marc Enoumba,marc-enoumba,27,1008536,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+8,0,0,2,0,0,0,2,3,6.88,Freddy Abastoflor,freddy-abastoflor,1,886576,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+45,0,6,36,1,0,0,62,15,6.88,Diago Giménez,diago-gimenez,3,895960,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+9,0,5,4,0,0,0,7,3,6.87,Victor Abrego,victor-abrego,36,1016143,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+5,0,0,2,0,0,0,0,1,6.87,Henry Vaca,vaca-henry,92,878344,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+2,0,5,1,0,2,0,20,2,6.87,Alejandro Torrez,alejandro-torrez,1,1184172,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+35,0,1,10,0,0,0,2,22,6.86,Robin Ramírez,robin-ramirez,14,75642,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+7,0,0,1,0,0,0,7,3,6.86,Juan Vogliotti,juan-vogliotti,19,875242,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+3,0,9,0,0,1,1,16,1,6.86,Saidt Mustafa,saidt-mustafa,6,875243,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+15,0,2,1,0,0,0,12,8,6.86,Alejandro Gabriel Quintana,alejandro-gabriel-quintana,16,868706,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+17,0,2,14,0,0,0,10,5,6.86,Jose Berdecio,jose-berdecio,1,1169071,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+9,0,1,0,0,0,0,11,3,6.86,Marcos Riquelme,marcos-riquelme,51,790008,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+30,0,9,21,0,0,0,45,13,6.85,Pablo Vaca,pablo-vaca,4,1116477,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+12,0,3,14,0,0,0,48,1,6.85,Pablo Pedraza,pablo-pedraza,1,249333,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+11,0,0,5,0,0,0,8,12,6.85,Junior Arias,junior-arias,58,846158,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+35,0,0,19,0,0,0,13,24,6.85,Alejandro Bejarano,alejandro-bejarano,1,131615,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+1,1,8,0,1,1,1,27,0,6.85,Jimmy Roca,jimmy-roca,4,979326,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+2,0,0,0,0,0,0,0,0,6.85,Marcos de Lima,marcos-de-lima,1,947067,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+40,0,8,31,1,0,0,32,5,6.85,José Sagredo,jose-sagredo,22,815445,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+68,0,7,10,0,1,0,19,25,6.85,Cristhian Machado,cristhian-machado,4,147479,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+46,0,8,20,0,1,0,27,13,6.84,Diego Daniel Medina Roman,diego-daniel-medina-roman,34,1114079,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+19,0,2,16,0,0,0,9,10,6.84,Widen Saucedo,widen-saucedo,1,931652,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+8,0,3,2,0,0,0,6,8,6.84,Bruno Miranda,bruno-miranda,30,836165,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+29,0,7,10,0,3,0,9,14,6.84,Jaime Arrascaita,jaime-arrascaita,31,350568,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+3,0,1,0,0,0,0,7,2,6.84,Miguel,miguel,18,378642,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+14,0,2,7,0,0,0,12,4,6.83,Rodrigo Ruiz Díaz,rodrigo-ruiz-diaz,18,877519,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+9,0,0,1,0,0,0,1,5,6.83,Miguel Villaroel,miguel-villaroel,8,1116679,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+14,0,0,3,0,0,0,8,5,6.83,Maximiliano Gómez,maximiliano-gomez,2,941449,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+36,0,6,38,0,0,1,80,19,6.83,Sebastian Zaracho,sebastian-zaracho,11,926882,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+13,0,0,4,0,0,0,1,9,6.83,Yonathan Taborga,yonathan-taborga,2,1495685,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+57,0,3,32,0,0,1,28,44,6.83,Omar Siles,omar-siles,3,975109,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+16,0,7,21,0,0,0,92,8,6.83,Juan Rioja,juan-rioja,1,868699,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+8,0,0,9,0,0,0,12,1,6.83,Fabio Vargas,fabio-vargas,1,1473453,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+22,0,2,19,0,0,0,60,7,6.83,Milciades Portillo,portillo-milciades,6,902907,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+12,0,0,5,0,0,0,0,7,6.82,Jhon Velásquez,jhon-velasquez,8,1177431,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+16,0,0,3,0,0,0,1,10,6.82,Mateo Abastoflor,mateo-abastoflor,4,1107011,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+6,0,0,1,0,0,0,0,2,6.82,Andres Cordoba,andres-cordoba,1,1174958,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+1,1,0,0,0,0,0,5,0,6.82,Javier Rojas,javier-rojas,8,805225,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+53,0,7,16,0,1,0,16,24,6.82,Didi Torrico,didi-torrico,2,33187,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+52,0,6,15,0,0,0,11,22,6.82,Erwin Junior Sánchez,erwin-junior-sanchez,4,805360,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+11,0,0,3,0,0,0,3,7,6.82,Fernando Luna,fernando-luna,2,802897,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+4,0,3,0,0,0,0,14,3,6.81,Efmamj Jasond González,efmamj-jasond-gonzalez,88,1092323,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+28,0,5,16,0,0,0,18,13,6.81,Gabriel Villamil,gabriel-villamil,114,964296,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+12,0,1,6,0,2,0,1,4,6.81,Javier Uzeda,javier-uzeda,37,1114091,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+8,0,1,3,0,0,0,0,9,6.81,Moises Paniagua,paniagua-moises,75,1424737,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+13,0,1,1,0,0,0,5,20,6.81,Juan Arce,juan-arce,38,11348,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+11,0,0,4,0,0,0,5,16,6.8,Juan Ribera,juan-ribera,1,1148599,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+8,0,0,1,0,0,0,10,3,6.8,Carmelo Algarañaz,carmelo-algaranaz,43,808183,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+27,0,0,10,0,1,0,23,18,6.8,Pedro Taborga,pedro-taborga,4,1490611,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+4,0,3,2,0,0,0,17,6,6.8,Oswaldo Blanco,oswaldo-blanco,10,1020469,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+12,0,0,5,0,0,0,5,7,6.8,Eugenio Isnaldo,eugenio-isnaldo,48,312258,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,1,0,6.8,Hermes Hurtado,hermes-hurtado,0,1169067,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+2,0,0,1,0,0,0,1,0,6.8,Ricardo Sandoval,ricardo-sandoval,1,1169074,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+42,0,11,30,0,1,0,19,20,6.8,Carlos Roca,carlos-roca,8,932242,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+25,0,0,10,0,0,0,4,5,6.8,Jefinho,jefinho,1,866477,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+16,0,1,12,0,0,0,18,6,6.79,Alejandro Melean,alejandro-melean,3,147558,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+42,0,3,22,0,0,0,10,21,6.79,Daniel Rojas,daniel-rojas,3,975062,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,3,3,6.79,William Álvarez,william-alvarez,2,846369,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+16,1,1,4,0,0,0,0,4,6.79,William Parra,william-parra,13,819170,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+44,0,2,20,0,1,1,23,24,6.78,Jorge Eduardo Lovera,jorge-eduardo-lovera,1,856508,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+24,0,0,10,0,0,0,1,5,6.78,José Sinisterra,jose-sinisterra,57,914211,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+39,0,5,42,0,0,0,68,23,6.78,Marvin Bejarano,marvin-bejarano,2,47466,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+6,0,0,2,0,0,0,3,5,6.78,Samuel Sandoval,sandoval-samuel,3,1474879,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+62,0,4,31,0,0,0,21,22,6.78,Rodrigo Morales,rodrigo-morales,3,897150,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+4,0,1,1,0,0,0,1,5,6.78,Padú,padu,2,1106065,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+44,1,2,24,0,0,0,18,35,6.78,Richard Spenhay,spenhay-richard,1,1017447,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+19,0,0,4,0,0,0,4,14,6.78,Erick Cano,erick-cano,3,973545,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+3,0,0,7,0,0,0,3,4,6.78,Luiz Fernando Paz,luiz-fernando-paz,3,1394847,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,5,1,6.78,Diego Pariani,diego-pariani,1,1394163,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+1,0,0,1,0,0,0,3,0,6.78,Alan Mercado,alan-mercado,1,805061,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+4,0,1,1,0,0,0,2,3,6.78,José Pinto,jose-pinto,1,1017478,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+55,0,5,31,0,0,0,39,17,6.77,Julio Cesar Perez,julio-cesar-perez,1,831746,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+13,0,3,6,0,0,0,26,3,6.77,Carlos Chore,carlos-chore,2,979780,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+14,1,1,4,0,0,0,2,13,6.77,Rodrigo Gómez,rodrigo-gomez,27,842932,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+50,0,6,17,0,0,0,17,28,6.77,Enrique Taborga,enrique-taborga,6,1197426,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+17,0,2,8,0,0,0,3,7,6.76,Luis Pavia,luis-pavia,1,873728,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+4,0,0,1,0,0,0,0,1,6.76,Angel Vaca,angel-vaca,0,1142053,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+4,0,0,0,0,0,0,4,5,6.76,Sebastián Melgar,sebastian-melgar,3,1200519,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+23,0,2,15,0,0,0,9,13,6.76,Arquímedes Figuera,arquimedes-figuera,81,123245,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+1,2,5,1,0,3,0,38,5,6.76,Mauricio Adorno,mauricio-adorno,5,980760,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+13,0,6,18,0,0,0,48,8,6.76,Gonzalo Castillo,gonzalo-castillo,24,247189,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+1,2,3,0,1,2,0,17,3,6.76,Elder Arauz,elder-arauz,1,1017424,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+42,0,1,19,0,1,0,12,13,6.75,Juan Capurro,juan-capurro,2,333761,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+9,0,0,2,0,0,0,2,3,6.75,Lucas Chávez,lucas-chavez,29,1116671,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+13,0,2,25,0,0,0,21,4,6.75,Diego Bejarano,diego-bejarano,47,163179,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+14,0,0,5,0,0,0,10,8,6.75,Jonathan Cristaldo,jonathan-cristaldo,67,80934,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+40,0,4,31,0,0,1,96,27,6.75,Leandro Zazpe,leandro-zazpe,15,166151,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+50,2,9,33,0,2,0,16,36,6.75,Álvaro Quiroga,alvaro-quiroga,12,886777,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+5,0,0,9,0,0,0,4,1,6.75,Juan Magallanes,juan-magallanes,2,1177432,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+2,0,0,0,0,0,0,0,3,6.75,Oseas Mendieta Cabrera,oseas-mendieta-cabrera,0,1495671,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+7,0,0,3,0,0,0,3,4,6.75,Alexandro Zenteno,alexandro-zenteno,3,1413181,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,4,0,6.75,Juan Teles,juan-teles,1,1477487,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+11,0,2,14,0,0,0,26,3,6.74,Jefferson Ibáñez,jefferson-ibanez,0,876305,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+0,1,2,0,1,0,0,17,0,6.74,Jairo Cuellar,jairo-cuellar,2,931396,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+11,0,3,8,0,0,0,4,5,6.74,Andrés Llano,andres-llano,1,1495597,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+10,0,0,3,0,0,0,1,4,6.74,Mauricio Chajtur,mauricio-chajtur,2,923039,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+23,2,4,27,0,0,0,58,10,6.74,Brian López,brian-lopez,10,1099307,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+21,0,10,9,1,0,1,91,9,6.74,Adrián Jusino,adrian-jusino,19,935010,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+4,0,0,7,0,0,0,4,1,6.74,Marco Antonio Barrios,marco-antonio-barrios,1,975104,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+9,0,0,0,0,0,0,3,3,6.74,Patrick Torelli,patrick-torelli,2,1507161,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+8,0,0,0,0,0,0,0,1,6.74,Ramiro Mamani,ramiro-mamani,1,805478,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+3,0,0,0,0,0,0,2,6,6.73,Edenilson Michels,edenilson-michels,2,1108501,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+4,0,0,1,0,0,0,3,0,6.73,Diego Buceta,diego-buceta,3,1513694,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+15,0,7,13,0,1,0,37,4,6.73,Martín Chiatti,martin-chiatti,2,1147478,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+28,0,0,6,0,1,0,4,9,6.73,Fabricio Moreno,fabricio-moreno,7,1468412,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+3,1,2,1,1,0,0,18,3,6.73,Israel Peña,israel-pena,2,1477486,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+3,0,1,3,0,0,0,2,1,6.73,Carlos Monges,monges-carlos,18,931227,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+10,0,1,4,0,0,0,5,12,6.73,Juan Godoy,juan-godoy,8,1147477,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+9,0,1,2,0,0,0,2,7,6.73,Vladimir Castellón,vladimir-castellon,3,47233,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+25,0,2,13,0,0,0,4,8,6.73,Andrés Moreno,andres-moreno,3,1189877,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+9,0,0,3,0,0,0,2,3,6.73,Makerlo Tellez,makerlo-tellez,1,1495659,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+9,0,4,12,0,1,0,44,3,6.73,Nelson Cabrera,nelson-cabrera,7,33127,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+23,0,8,14,0,2,0,82,8,6.73,Hallysson Padilha,hallysson-padilha,1,1184186,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+4,0,0,4,0,0,0,3,5,6.73,Luis Hurtado,luis-hurtado,3,249297,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+3,0,0,1,0,1,0,0,0,6.73,Emanuel Paniagua,emanuel-paniagua,3,1490350,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+3,0,0,0,0,0,0,0,0,6.73,Fernando Rodríguez,fernando-rodriguez,0,1092592,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+46,0,0,14,0,1,0,6,22,6.72,Fernando Arismendi,fernando-arismendi,18,885412,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+2,0,3,1,0,0,0,27,1,6.72,Braulio Uraezaña,braulio-uraezana,8,815442,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+1,0,2,2,0,0,0,6,2,6.72,Humberto Osorio,humberto-osorio,24,263439,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+23,0,5,19,0,2,0,21,7,6.72,Juan Carlos Zampiery,juan-carlos-zampiery,1,221001,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+8,0,1,5,0,0,0,6,3,6.72,Carlos Robles,carlos-robles,16,358158,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+23,0,6,21,0,0,0,16,10,6.71,Juan Aponte,juan-aponte,2,589654,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+11,0,1,4,0,0,0,4,10,6.71,Jorge Rojas,jorge-rojas,4,891849,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+17,0,0,12,0,0,0,16,8,6.71,Brahian Egüez,brahian-eguez,2,975058,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+13,0,0,3,0,1,0,6,2,6.71,Adriel Fernandez,adriel-fernandez,1,874467,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+10,0,5,22,1,1,0,57,14,6.71,Martin Galain,martin-galain,11,47416,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+41,0,3,15,0,0,0,17,24,6.71,Carlos Sejas,carlos-sejas,12,1184152,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+34,1,3,32,0,2,0,138,18,6.71,Santiago Echeverria,santiago-echeverria,5,789669,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+35,0,3,9,0,0,0,11,23,6.71,Diego Josue Hoyos,diego-josue-hoyos,1,147560,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+0,1,7,0,0,1,1,19,1,6.71,Germán Arauz,german-arauz,1,987588,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+22,0,0,7,0,0,0,7,14,6.7,Luis Alí,luis-ali,4,887156,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+24,0,0,6,0,0,0,6,15,6.7,Edward Vaca,edward-vaca,1,944160,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+15,0,0,7,0,0,0,2,12,6.7,Darlin Rodriguez,darlin-rodriguez,8,1490615,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+0,1,1,1,0,0,0,4,0,6.7,Juan Carlos Robles,juan-carlos-robles,1,47462,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+4,0,0,0,0,0,0,0,1,6.7,Alexir Ibaguary,alexir-ibaguary,1,1490614,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+5,0,0,0,0,0,0,0,2,6.7,Reyvin de la Rosa,reyvin-de-la-rosa,0,1495676,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+2,0,0,0,0,0,0,0,0,6.7,Fernando Saldías,fernando-saldias,1,893093,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+2,0,0,1,0,0,0,0,0,6.7,Carlos Pérez,carlos-perez,1,964279,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,0,6.7,Walter Flores,walter-flores,0,1468166,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+16,0,1,10,0,1,0,50,4,6.7,Arturo Mina,arturo-mina,83,387720,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+17,0,3,25,0,1,0,40,6,6.69,Sebastian Alvarez,sebastian-alvarez,3,1147182,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+16,0,0,5,0,0,0,2,8,6.69,Denilzon Ramallo,denilzon-ramallo,1,1184180,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+29,0,8,12,0,0,0,28,21,6.69,Ramiro Ballivián,ramiro-ballivian,2,47469,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+7,0,2,8,0,0,0,15,3,6.69,Jairo Quinteros,jairo-quinteros,72,1016159,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+9,0,2,16,0,0,0,27,4,6.69,Jorge Vazquez,jorge-vazquez,6,1177423,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+21,0,4,26,0,1,0,49,8,6.69,Eduardo Álvarez,eduardo-alvarez,13,1116654,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+35,0,5,21,0,0,0,47,31,6.69,Fran Supayabe Alpiri,fran-supayabe-alpiri,1,923029,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+9,0,0,5,0,0,0,4,3,6.69,Mateo Hernandez,mateo-hernandez,5,830877,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+29,0,3,13,0,0,1,18,16,6.69,Marcos Andía,marcos-andia,1,886599,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+23,0,4,17,0,0,0,11,11,6.68,Daniel Mancilla,daniel-mancilla,4,339233,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+42,0,4,21,0,0,0,24,15,6.68,Tobías Moriceau,tobias-moriceau,4,1111537,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+10,0,0,9,0,1,0,10,5,6.68,Rivaldo Méndez,rivaldo-mendez,0,1184225,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+12,0,2,10,0,1,1,63,5,6.68,Luis Ruano,luis-ruano,2,1486636,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+35,0,4,17,0,0,0,12,16,6.68,Miguel Quiroga,miguel-quiroga,2,221442,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+0,0,1,2,0,0,0,13,6,6.68,Leonardo Villagra,villagra-leonardo,20,835655,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+7,0,0,2,0,0,0,5,0,6.68,Kevin Romay,kevin-romay,3,1008538,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+41,1,4,23,0,1,0,82,18,6.68,Hugo Silva,hugo-silva,2,830700,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,1,3,6.68,Denis Pinto,denis-pinto,1,964421,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+4,0,0,6,0,0,0,6,4,6.68,Rodrigo Saucedo,rodrigo-saucedo,1,997288,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+15,0,4,8,0,0,0,24,12,6.68,Fernando Aguilar,fernando-aguilar,0,1468331,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+24,0,2,13,0,0,0,25,17,6.68,Carlos Áñez,carlos-anez,2,805060,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+29,0,8,40,0,2,0,55,13,6.67,Edemir Rodriguez,edemir-rodriguez,1,26121,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+6,0,0,2,0,0,0,1,0,6.67,Samuel Garzon,garzon-samuel,3,1184181,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+12,0,3,7,0,0,0,6,7,6.67,Josué Mamani,josue-mamani,1,886573,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+8,0,1,0,0,0,0,3,4,6.67,Guillermo Denis,guillermo-denis,3,1389906,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+17,0,0,10,0,0,0,8,12,6.67,Franz Parada,franz-parada,1,1477488,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+15,0,1,12,0,0,0,6,11,6.67,Gustavo Peredo,gustavo-peredo,1,962856,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+14,0,0,4,0,1,0,8,15,6.67,Sergio Llamas,sergio-llamas,1,268351,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,2,6.67,Franz Gonzales,franz-gonzales,13,1016168,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+13,0,0,4,0,0,0,9,4,6.67,Manuel Bonilla,manuel-bonilla,0,1189882,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+13,0,0,5,0,0,0,3,7,6.66,Diego Navarro,diego-navarro,1,941618,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+20,0,3,17,0,0,0,41,9,6.66,Miguel Paredes,miguel-paredes,1,1490612,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+19,0,1,3,0,0,0,2,13,6.66,Ricardo Orihuela,ricardo-orihuela,1,975112,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+30,0,3,22,0,0,0,11,27,6.66,Andrés Torrico,andres-torrico,6,1457532,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+19,0,1,9,0,0,0,8,11,6.66,Marco Salazar,marco-salazar,15,1468161,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+50,0,6,26,0,0,0,46,23,6.66,Juan Mercado,juan-mercado,3,923030,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+21,0,7,6,0,0,0,10,5,6.66,Miguel Agustín Graneros,miguel-agustin-graneros,8,1096363,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+0,3,4,0,0,0,0,24,2,6.66,Marco Daniel Vaca,marco-daniel-vaca,1,249283,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+28,0,3,14,0,0,0,25,20,6.66,Jorge Ortíz,jorge-ortiz,1,883604,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+28,0,5,18,0,1,0,14,21,6.66,Sergio Villamíl,sergio-villamil,1,1184148,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+9,0,0,0,0,0,0,4,3,6.65,Federico Sellecchia,federico-sellecchia,1,1214756,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+35,0,5,38,0,1,0,64,24,6.65,Ramon Coronel,coronel-ramon,8,1085450,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+8,0,1,5,0,1,0,7,5,6.65,Maximiliano Caire,maximiliano-caire,3,802389,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+6,0,0,1,0,0,0,11,6,6.65,Jorge Orozco,jorge-orozco,2,1013156,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+11,0,3,6,0,0,0,8,6,6.65,Franco Martínez,franco-martinez,19,924870,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,2,0,6.65,Sebastian Galindo Novillo,sebastian-galindo-novillo,2,878667,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+4,0,0,2,0,0,0,2,4,6.65,Matías Galindo,matias-galindo,14,1424736,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+3,0,0,2,0,0,0,2,0,6.65,Lucas Gaúcho,lucas-gaucho,25,797562,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+1,0,0,5,0,0,0,2,2,6.65,Leandro Maygua,leandro-maygua,1,312046,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+5,0,1,2,0,0,0,3,4,6.65,Shelove Achelus,shelove-achelus,98,961899,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+50,0,4,24,0,0,0,27,23,6.64,Ronny Rodríguez,ronny-rodriguez,3,818960,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+9,0,2,15,0,0,0,13,6,6.64,David Moura,david-moura,1,1495614,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+16,0,0,8,0,0,0,7,13,6.64,Randerson,randerson,1,872029,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+8,0,0,6,0,0,0,2,4,6.64,Mario Barbery,mario-barbery,6,985178,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+0,0,0,3,0,0,0,3,2,6.64,Christian Arano,christian-arano,1,931429,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+7,0,4,10,0,0,0,10,5,6.64,Pablo Laredo,pablo-laredo,1,932249,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+43,0,3,27,0,1,0,37,20,6.64,Miyhel Ortiz,ortiz-miyhel,1,1092596,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+19,0,2,7,0,0,0,12,7,6.64,Iván Vidaurre,ivan-vidaurre,1,973552,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,2,1,6.64,José Castillo,jose-castillo,1,886569,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+9,0,0,6,0,0,0,1,1,6.64,Alfredo Alanoca,alanoca-alfredo,2,1469365,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+0,3,6,0,0,0,0,10,1,6.64,Luis Cardenas,luis-cardenas,2,931393,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+30,0,5,22,0,1,1,35,12,6.63,Óscar Añez,oscar-anez,3,931565,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+13,0,1,8,0,0,0,4,8,6.63,Mario Ovando,mario-ovando,1,40070,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+22,1,9,21,0,0,0,140,15,6.63,Enrique David Diaz,enrique-david-diaz,5,249293,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+15,0,3,14,0,1,0,34,3,6.63,Luis Alberto Gutierrez,luis-alberto-gutierrez,1,64884,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+22,0,3,7,0,0,0,16,5,6.63,Luis Francisco Rodriguez Zegada,luis-francisco-rodriguez-zegada,1,805447,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+44,0,1,12,0,0,0,9,16,6.63,Joel Calicho,joel-calicho,1,1184199,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+6,0,0,9,0,1,0,27,2,6.63,Gabriel Valverde,gabriel-valverde,1,220983,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+41,0,3,17,0,1,0,56,8,6.63,Richet Gomez Miranda,richet-gomez-miranda,5,1118608,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+15,0,2,24,0,0,0,28,14,6.63,Edwin Rivera,edwin-rivera,1,868709,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+15,0,2,18,0,0,0,6,3,6.63,Heber Leanos,heber-leanos,2,846381,Nacional Potosí,nacional-potosi,Nacional Potosí,0,0,47700,#52b030,#52b030,#ffffff
+16,0,1,12,0,0,0,25,20,6.63,Ivan Huayhuata,ivan-huayhuata,1,47219,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+18,1,1,12,0,0,0,2,10,6.63,Amir Bejarano,amir-bejarano,1,1495594,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+4,0,0,3,0,0,0,1,4,6.63,Layonel Figueroa,layonel-figueroa,1,975088,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+5,0,0,6,0,0,0,0,8,6.62,Jose Andres Alipaz,jose-andres-alipaz,1,1457550,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+23,0,3,26,0,1,0,33,9,6.62,Wilfredo Soleto,wilfredo-soleto,5,936531,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+36,0,3,39,0,1,0,37,22,6.62,Denilson Duran,duran-denilson,8,1457544,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,0,6.62,Juan Barba,juan-barba,0,1390320,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+33,0,4,42,0,1,0,59,8,6.62,Dico Roca,dico-roca,2,923028,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+4,0,0,0,0,0,0,0,5,6.62,Matheo Zoch,matheo-zoch,2,837062,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+9,0,0,2,0,0,0,1,2,6.62,Alejandro Ampuero,ampuero-alejandro,1,1386912,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+25,0,3,19,0,2,0,21,13,6.62,Ronald Bustos,ronald-bustos,1,1114100,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+9,0,0,4,0,1,0,3,3,6.61,Yomar Rodriguez,yomar-rodriguez,3,1128911,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+63,0,6,41,0,1,0,40,34,6.61,Daniel Castellón,daniel-castellon,1,1184156,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+11,0,0,4,0,0,0,1,9,6.61,Frank Oni,frank-oni,1,876835,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+21,0,0,7,0,0,0,6,8,6.61,Imanol Cárdenas,imanol-cardenas,1,954360,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+24,0,0,24,0,0,0,73,13,6.61,Drulin Cruz,drulin-cruz,1,1495618,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+8,0,0,1,0,0,0,0,9,6.6,Darío Torrico,dario-torrico,1,1093015,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+10,0,5,18,0,3,0,68,11,6.6,Walter Antelo,walter-antelo,3,1000386,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+8,0,1,4,0,0,0,1,4,6.6,Ronaldo Sánchez,ronaldo-sanchez,2,885601,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+6,0,1,11,0,0,0,21,3,6.6,Luis Demiquel,luis-demiquel,3,985020,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+3,0,1,4,0,0,0,0,4,6.6,Jhon García,jhon-garcia,12,927209,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,6.6,Reyes Camacho,reyes-camacho,1,1394846,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+2,0,0,0,0,0,0,1,0,6.6,Brandon Guzman,brandon-guzman,0,1102013,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,6.6,Igor Limas,igor-limas,0,1495632,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,1,0,6.6,Sergio Cardenas,sergio-cardenas,0,1503711,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,1,0,6.6,Leonardo Viviani,leonardo-viviani,0,1521676,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+5,0,0,0,0,0,0,0,2,6.6,Roy Mollinedo,roy-mollinedo,0,1523704,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+2,0,0,0,0,0,0,0,0,6.6,Francescoli Bejarano,francescoli-bejarano,0,1495626,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+1,0,0,1,0,1,0,1,0,6.6,Leonardo Fenga,leonardo-fenga,10,1176790,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+0,0,0,1,0,0,0,0,0,6.6,Daniel Lino,daniel-lino,3,1184194,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,0,6.6,Cristhian Abastoflor,cristhian-abastoflor,0,1114076,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,2,0,6.6,Javier Ibánez,javier-ibanez,0,1495634,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,6.6,Jean Pierre El Hage,jean-pierre-el-hage,2,1177043,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+3,0,0,1,0,0,0,8,1,6.6,Gabriel Becerra,gabriel-becerra,1,1593987,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,2,0,6.6,Ferddy Roca,ferddy-roca,3,877530,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+3,0,0,0,0,0,0,0,1,6.6,Jaffet Sanchez,jaffet-sanchez,0,1499988,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+3,0,0,4,0,0,0,6,3,6.6,Santiago Arce,santiago-arce,2,1114102,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+4,0,0,5,0,0,0,13,4,6.6,José Carrasco,jose-carrasco,21,1197049,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+1,0,0,3,0,0,0,12,2,6.6,Weverton Braz,weverton-braz,1,925862,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+28,0,3,25,0,0,0,38,7,6.6,Emerson Velásquez,emerson-velasquez,2,1017425,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+21,0,4,13,0,0,1,24,8,6.6,Jesús Sagredo,jesus-sagredo,8,1017471,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+12,0,2,33,0,0,0,80,10,6.6,Ronny Montero,ronny-montero,2,127827,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+12,0,0,19,0,0,0,11,8,6.59,Nils Huasna,nils-huasna,1,1485495,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+26,0,0,8,0,0,0,9,24,6.59,Carlos Ribera Guzman,carlos-ribera-guzman,1,923034,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,0,6.59,Milton Garzón,milton-garzon,3,1017451,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+6,0,0,2,0,0,0,2,1,6.59,Yerco Vallejos,yerco-vallejos,1,941619,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+6,0,1,14,0,1,0,25,2,6.59,Mario Alberto Cuellar,mario-alberto-cuellar,1,846775,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+13,1,5,14,0,0,0,20,6,6.59,Enrique Flores,enrique-flores,1,246979,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+8,0,2,15,0,0,0,9,9,6.59,Saúl Torres,saul-torres,6,878666,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+25,0,2,14,0,1,0,15,20,6.59,Mijaíl Avilés,mijail-aviles,11,838877,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+10,0,0,2,0,0,0,9,2,6.59,Ronaldo Monteiro,ronaldo-monteiro,1,874468,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+2,0,0,0,0,0,0,0,1,6.59,Darwin Ríos,darwin-rios,1,1184191,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+3,0,1,7,0,1,0,16,3,6.58,Jordy Candia,jordy-candia,1,875244,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+24,0,3,22,1,3,1,100,9,6.58,Mizael Monteiro,mizael-monteiro,1,1495666,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+4,0,0,5,0,0,0,4,7,6.58,Fabricio Quaglio,fabricio-quaglio,10,1184195,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+8,0,0,1,0,0,0,2,9,6.58,Brandon Peña,brandon-pena,2,1495603,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+14,0,0,5,0,0,0,9,6,6.58,Dustin Maldonado,dustin-maldonado,3,75850,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+12,0,1,2,0,0,0,0,6,6.58,Alejandro Medina,alejandro-medina,1,931395,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,0,6.58,Rodrigo Vargas,rodrigo-vargas,6,247121,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+8,0,0,3,0,0,0,6,2,6.58,Andrés Veizaga,andres-veizaga,1,932239,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+7,0,0,6,0,0,0,0,4,6.57,Ronald Cuellar,ronald-cuellar,7,979327,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+10,0,0,1,0,0,0,3,4,6.57,Yesit Martínez,yesit-martinez,6,1173831,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+9,0,0,0,0,0,0,2,2,6.57,Luis Zeballos,zeballos-luis,1,1214769,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+7,0,0,1,0,0,0,0,5,6.57,Pablo Grass,pablo-grass,1,1198428,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+4,0,0,1,0,0,0,0,2,6.57,Ariel Flores,ariel-flores,2,1495600,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+15,0,0,6,1,0,0,4,7,6.57,Kevin Salvatierra,kevin-salvatierra,1,932240,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+10,0,1,5,0,1,0,4,11,6.56,Cristhian Árabe,cristhian-arabe,5,588494,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+0,0,1,0,0,0,0,0,0,6.56,Bruno Poveda,bruno-poveda,3,1169063,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+0,0,2,0,0,0,0,13,2,6.56,Enzo Rodriguez,enzo-rodriguez,2,1464252,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+32,1,2,18,0,0,0,18,14,6.56,Samuel Pozo,samuel-pozo,1,1017443,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+15,0,1,14,0,0,0,100,4,6.56,Yosimar Quiñónes,yosimar-quinones,9,886712,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+13,0,0,5,0,0,0,6,11,6.56,Denilso Fernandez,denilso-fernandez,1,1495615,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+10,0,0,2,0,0,0,3,7,6.56,David Ribera,david-ribera,1,1102022,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+8,0,3,7,0,0,0,39,6,6.56,Jonathan Lacerda,jonathan-lacerda,23,108190,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+31,0,4,26,0,0,0,42,19,6.56,Oscar Baldomar,oscar-baldomar,1,805218,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+36,0,2,27,0,0,0,26,23,6.55,Juan Gómez,juan-gomez,1,1495644,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+47,0,1,16,0,0,0,37,14,6.55,Joel Fernández,joel-fernandez,2,978012,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+2,0,1,1,0,0,0,0,1,6.55,Richard Peñaranda,richard-penaranda,1,975113,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+3,0,0,2,0,0,0,5,2,6.55,Kadassi Trazie,kadassi-trazie,0,1495648,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,14,1,6.55,Jorge Arauz,jorge-arauz,1,815441,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+3,0,0,0,0,0,0,1,0,6.54,Bismark Ubah,bismark-ubah,3,1102014,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+32,1,5,16,0,0,0,30,14,6.54,Omar Morales,omar-morales,1,39341,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+5,0,0,2,0,0,0,1,4,6.54,Mauricio Arroyo,mauricio-arroyo,1,1495663,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+24,1,4,30,0,2,0,36,17,6.54,Bryan Bentaberry,bryan-bentaberry,39,877589,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+15,0,0,5,0,0,0,8,8,6.54,Mauricio Serrano,mauricio-serrano,1,1462160,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,3,6.54,Gabriel Poveda,gabriel-poveda,308,937806,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+3,0,0,1,0,0,0,0,0,6.54,Jose Bravo,jose-bravo,2,1394161,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+12,0,0,11,0,0,0,8,5,6.54,Hernan Luis Rodriguez,hernan-luis-rodriguez,1,805224,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+2,0,0,0,0,0,0,4,0,6.54,Ricardo Pedriel,ricardo-pedriel,7,33709,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+0,0,0,1,0,0,0,0,0,6.53,Luis Coplot,luis-coplot,0,1488633,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+13,0,0,1,0,1,0,15,5,6.53,Ariel Juarez,ariel-juarez,1,40939,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+2,0,1,10,0,0,0,18,2,6.53,Luis Haquín,luis-haquin,62,876304,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+8,0,0,3,0,0,0,3,2,6.53,Adrian Sandoval Lopez,sandoval-lopez-adrian,1,1397693,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+8,0,0,4,0,1,0,10,3,6.53,Claver Arriaga,claver-arriaga,0,1495611,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+2,0,0,1,0,0,0,1,1,6.53,Guilmar Centella,guilmar-centella,1,1457541,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+3,0,0,0,0,0,0,6,1,6.53,Rodrigo Vargas,rodrigo-vargas,3,146389,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+7,0,0,2,0,0,0,1,4,6.52,Denilson Valda,denilson-valda,2,868704,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+14,2,0,20,0,0,0,38,7,6.52,Abraham Cabrera,abraham-cabrera,1,146379,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+6,0,0,1,0,0,0,3,2,6.52,Diego Panique,diego-panique,1,886597,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+39,0,0,19,0,1,0,19,25,6.52,Victor Hugo Melgar,victor-hugo-melgar,3,147470,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+5,0,0,2,0,0,0,9,5,6.52,José Briceño,jose-briceno,2,1147179,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,1,0,6.52,Nixon Guylherme,nixon-guylherme,5,1098807,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+1,0,0,1,0,0,0,0,2,6.52,Bryan Espinoza,bryan-espinoza,3,1197418,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+13,0,0,16,0,0,0,11,8,6.52,Mauricio Cabral,mauricio-cabral,1,980812,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+8,0,1,11,0,1,0,27,7,6.52,Juan Sebastián Reyes,juan-sebastian-reyes,3,876826,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+1,0,0,4,0,0,0,3,1,6.51,Diego Wayar,diego-wayar,7,221800,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+12,0,0,1,0,0,0,2,6,6.51,Javier Vargas,vargas-javier,6,1468324,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+42,0,2,15,0,0,0,24,29,6.51,Kevin Mamani,kevin-mamani,4,1495650,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+20,0,0,13,0,0,0,8,13,6.51,Amilcar Sanchez,amilcar-sanchez,0,561244,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+33,0,2,18,0,0,0,18,14,6.51,Alexander Zurita Torrico,alexander-zurita-torrico,2,1109295,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+17,0,1,11,0,0,0,12,12,6.51,Jorge Vargas,jorge-vargas,0,1495642,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+16,0,0,5,0,0,0,3,10,6.51,Rai Lima,rai-lima,2,1147180,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,6.5,Diego Cabrera,diego-cabrera,2,1177427,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,0,6.5,Alan Sanchez,alan-sanchez,2,1184173,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,0,6.5,Luis Flores,luis-flores,0,1503866,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+4,0,0,0,0,0,0,0,1,6.5,Camilo Mamani,camilo-mamani,0,1510596,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+3,0,0,0,0,0,0,0,0,6.5,Alain de Guzman,de-guzman-alain,3,1169070,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+4,0,0,2,0,0,0,2,6,6.5,Yeffry Paz,yeffry-paz,1,1507621,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+2,0,0,0,0,0,0,2,2,6.5,Joel Bejarano,joel-bejarano,1,831013,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,6.5,William Velasco,william-velasco,1,1000740,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+0,0,2,0,0,1,0,7,0,6.5,Ivan Brun,ivan-brun,2,876823,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+3,0,1,5,0,0,0,8,3,6.5,Andre Sosa,andre-sosa,2,1169062,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+3,0,0,1,0,0,0,1,3,6.5,Pedro Martínez,pedro-martinez,0,1184215,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,2,1,6.5,Junior Da Silva,junior-da-silva,1,1092690,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,2,6.5,Fabricio Suárez,fabricio-suarez,1,1189878,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,1,0,6.5,Raul Stefano,raul-stefano,0,1116574,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,1,6.5,David Ramírez,david-ramirez,0,1475507,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,6.5,José Herrera,jose-herrera,1,1169068,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+1,0,0,1,0,0,0,0,0,6.5,Wayner Vaca,wayner-vaca,1,1510216,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+4,0,0,1,0,0,0,0,4,6.5,Guilder Cuellar,guilder-cuellar,0,1510599,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+21,0,1,18,0,1,0,23,13,6.5,Santos Navarro,santos-navarro,1,1017441,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+9,0,3,23,0,1,0,47,10,6.49,Marcelo Suárez,marcelo-suarez,11,975103,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+60,0,4,33,0,0,0,63,27,6.49,Sergio Gil,sergio-gil,1,840988,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+13,0,1,13,0,0,0,29,6,6.49,Paolo Alcocer,paolo-alcocer,3,975110,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+18,0,3,12,0,1,0,13,3,6.49,Denilson Choque,denilson-choque,1,1197423,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+5,0,0,0,0,0,0,3,2,6.49,Moisés Villarroel,moises-villarroel,50,824930,Bolívar,bolivar,Bolívar,0,0,7059,#52b030,#52b030,#ffffff
+28,0,3,12,0,2,0,88,5,6.49,Jeferson Virreira Cossio,jeferson-virreira-cossio,1,975078,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+18,0,0,2,0,0,0,2,19,6.49,Gerson Malgor,gerson-malgor,1,1104156,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+3,0,0,3,0,0,0,8,2,6.48,Jhon Velasco,jhon-velasco,15,1159650,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+15,0,0,6,0,0,0,5,13,6.48,Hugo Salvatierra,hugo-salvatierra,2,1102027,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+14,0,3,12,0,1,0,28,10,6.48,Leonardo Justiniano,leonardo-justiniano,1,1017466,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+5,0,0,1,0,0,0,2,1,6.48,Pablo Lujan,pablo-lujan,2,1013157,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+2,0,0,3,0,0,0,8,2,6.48,Jorge Leonardo Toco,jorge-leonardo-toco,2,805339,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+3,0,0,2,0,0,0,0,3,6.48,Mirko Tomianovic,mirko-tomianovic,5,1008537,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+11,0,0,5,0,0,0,8,4,6.47,Luis Rodríguez,luis-rodriguez,2,1108720,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+5,0,0,5,0,0,0,9,2,6.47,Leonardo Montenegro,leonardo-montenegro,1,1495652,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+20,0,1,13,0,0,0,12,10,6.47,Victor Borobobo,victor-borobobo,1,1495683,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+1,0,0,1,0,0,0,2,3,6.47,César Menacho,cesar-menacho,7,944161,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,1,0,6.47,Kevin Pontons,kevin-pontons,1,1184207,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,6.47,Marcelo De Lima,marcelo-de-lima,1,1457552,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+5,0,0,0,0,0,0,3,1,6.46,Kevin Fernández,kevin-fernandez,1,931640,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,6.45,Damian Medina,damian-medina,1,1471233,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+1,0,0,1,0,0,0,0,0,6.45,Juan Alemán,juan-aleman,1,1495643,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,6.45,Raúl Rocabado,raul-rocabado,1,1468163,Always Ready,always-ready,Always Ready,0,0,268083,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,6.45,Jorge Carreón,jorge-carreon,3,1010408,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+0,0,0,2,0,0,0,1,0,6.45,Henry Torrez,henry-torrez,0,885623,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+3,0,0,0,0,0,0,1,3,6.45,Edson Perez,edson-perez,2,246989,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+33,0,2,27,1,0,0,30,16,6.45,Dieguito Rodríguez,dieguito-rodriguez,1,1495617,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+14,0,0,7,0,0,0,6,8,6.45,Javier Guerra,javier-guerra,2,1394851,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+9,0,0,2,0,0,0,4,3,6.44,Juan Montenegro,juan-montenegro,3,923033,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+21,0,1,14,0,0,0,27,9,6.44,Miguel Angel Becerra,becerra-miguel-angel,1,1092597,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,6.43,Adrian Pacheco,adrian-pacheco,1,1499986,Jorge Wilstermann,jorge-wilstermann,Jorge Wilstermann,0,0,7878,#52b030,#52b030,#ffffff
+38,0,3,37,0,3,1,47,25,6.43,César Romero,romero-cesar,4,1457547,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+20,0,3,12,0,0,0,13,11,6.43,Samuel Guzman Camargo,samuel-guzman-camargo,3,973569,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+3,0,0,8,0,1,0,19,3,6.43,Guimer Justiniano,guimer-justiniano,1,923024,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+2,0,0,0,0,0,0,2,1,6.43,Ricardo Menacho,ricardo-menacho,1,1471256,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,0,6.42,Moises Calero,moises-calero,1,929291,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+1,0,0,1,0,0,0,0,0,6.4,Mario Perez,mario-perez,0,1465093,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,6.4,Edson García,edson-garcia,0,1510857,Palmaflor del Trópico,palmaflor-del-tropico,Palmaflor del Trópico,0,0,321264,#52b030,#52b030,#ffffff
+2,0,0,0,0,0,0,2,1,6.4,Harry Céspedes,harry-cespedes,3,964229,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+0,0,0,1,0,0,0,0,1,6.4,Jose Carlos Velasco Moreno,jose-carlos-velasco-moreno,0,1093524,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,0,6.4,Gabriel Ríos,gabriel-rios,2,883602,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+4,0,0,1,0,0,0,3,5,6.4,Diego Arando,diego-arando,0,1495616,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,1,0,6.4,Marcelo Somoya,marcelo-somoya,2,1483011,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+0,0,0,1,0,0,0,0,0,6.4,Ronald Sagredo,ronald-sagredo,0,1495678,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+5,0,0,1,0,0,0,0,1,6.4,Diego Valverde,diego-valverde,2,1177040,Royal Pari Sion,royal-pari-sion,Royal Pari Sion,0,0,273544,#52b030,#52b030,#ffffff
+14,0,2,19,0,1,0,36,4,6.39,Grovert Carrillo,grovert-carrillo,0,1495629,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff
+8,0,1,6,0,0,0,10,14,6.39,Ronald Gil,ronald-gil,0,1471660,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+5,0,0,1,0,1,0,6,1,6.38,Saul Severiche,severiche-saul,1,1184185,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+2,0,0,2,0,0,0,1,0,6.38,Sergio Moruno,sergio-moruno,0,1184190,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,1,5,6.38,Cristian Fernandez,cristian-fernandez,5,1464250,Guabirá,guabira,Guabirá,0,0,47701,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,6.38,Ramiro Eguez,ramiro-eguez,2,1457554,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+7,0,0,3,0,0,0,8,1,6.37,Anderson Rey Salinas,anderson-rey-salinas,1,891844,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+12,0,1,13,0,0,0,7,12,6.37,Ayrton Paz,ayrton-paz,2,1177426,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+6,1,0,2,0,0,0,1,3,6.37,Daniel Camacho,daniel-camacho,6,874465,FC Universitario de Vinto,fc-universitario-de-vinto,FC Universitario de Vinto,0,0,268082,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,6.37,Andrée Gustavo Navia Rios,andree-gustavo-navia-rios,0,1495596,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+4,0,0,0,0,0,0,0,4,6.36,Luis Condarco,luis-condarco,0,1495655,CD Real Santa Cruz,cd-real-santa-cruz,CD Real Santa Cruz,0,0,327860,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,4,0,6.35,Marlon Esterilla,marlon-esterilla,3,1477489,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,6.35,Juan Daniel Ferrufino,ferrufino-juan-daniel,1,1009953,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+7,0,0,2,0,1,0,5,5,6.35,Cristhian Choque,cristhian-choque,1,932913,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+7,0,0,2,0,0,0,7,3,6.34,Lazaro Crecencio,lazaro-crecencio,0,1490613,Club Vaca Díez,club-vaca-diez,Club Vaca Díez,0,0,327910,#52b030,#52b030,#ffffff
+3,0,0,1,0,0,0,2,2,6.34,José Flores,jose-flores,14,1114093,The Strongest,the-strongest,The Strongest,0,0,32529,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,2,6.33,Adrián Peña,adrian-pena,8,1000475,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,1,0,6.3,Diego Valdivia,valdivia-diego,1,975066,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+0,0,0,1,0,0,0,0,0,6.3,Pablo Galindo,pablo-galindo,1,1116476,CD Real Tomayapo,cd-real-tomayapo,CD Real Tomayapo,0,0,335685,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,0,6.3,Rashid Joffre,rashid-joffre,1,1595972,Oriente Petrolero,oriente-petrolero,Oriente Petrolero,0,0,33820,#52b030,#52b030,#ffffff
+1,0,0,0,0,0,0,0,1,6.3,Nicoll Taboada,nicoll-taboada,1,1184230,Club Aurora,club-aurora,Club Aurora,0,0,33714,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,5,3,6.3,Johan Gutiérrez,johan-gutierrez,2,891848,Blooming,blooming,Blooming,0,0,6968,#52b030,#52b030,#ffffff
+0,0,0,6,0,0,0,6,3,6.3,Nicolas Arteaga,nicolas-arteaga,0,1495668,Independiente Petrolero,independiente-petrolero,Independiente Petrolero,0,0,372975,#52b030,#52b030,#ffffff
+3,0,0,1,0,0,0,0,0,6.28,Mauro Ramiro Milano,mauro-ramiro-milano,3,33024,FC Libertad Gran Mamoré,fc-libertad-gran-mamore,FC Libertad Gran Mamoré,0,0,423192,#52b030,#52b030,#ffffff

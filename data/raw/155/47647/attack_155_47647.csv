@@ -1,0 +1,827 @@
+goals,successfulDribblesPercentage,blockedShots,penaltyWon,goalsFromOutsideTheBox,hitWoodwork,expectedGoals,totalShots,goalConversionPercentage,shotFromSetPiece,headedGoals,offsides,bigChancesMissed,shotsOnTarget,penaltiesTaken,freeKickGoal,leftFootGoals,penaltyConversion,successfulDribbles,shotsOffTarget,penaltyGoals,goalsFromInsideTheBox,rightFootGoals,setPieceConversion,rating,player.name,player.slug,player.userCount,player.id,team.name,team.slug,team.shortName,team.userCount,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text
+0,0.0,0,0,0,0,0.05,2,0.0,0,0,0,0,2,0,0,0,0.0,0,0,0,0,0,0.0,7.55,Diego Calcaterra,diego-calcaterra,36,1086957,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+5,62.86,11,0,4,0,2.28,48,10.42,12,0,1,1,14,0,2,5,0.0,44,23,0,1,0,16.67,7.41,Rodrigo Garro,rodrigo-garro,537,994454,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+1,100.0,0,0,0,0,1.08,7,14.29,0,1,0,0,3,0,0,0,0.0,17,4,0,1,0,0.0,7.4,Leandro González Pírez,leandro-gonzalez-pirez,228,158259,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,7.37,Ezequiel Unsaín,ezequiel-unsain,120,790756,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,50.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,7.35,Facundo Altamirano,facundo-altamirano,66,794812,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+6,45.61,9,1,4,2,4.03,42,14.29,17,0,3,2,24,3,1,6,66.67,26,9,2,2,0,5.88,7.34,Matías Rojas,matias-rojas,2638,846280,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+2,66.67,12,0,1,2,1.81,39,5.13,12,0,0,0,12,0,0,1,0.0,32,15,0,1,1,0.0,7.34,Óscar Romero,oscar-romero,927,146416,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,50.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,7.3,Germán Guiffrey,german-guiffrey,32,941090,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.02,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,7.29,Sebastián Meza,sebastian-meza,159,1017440,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+1,100.0,1,0,0,0,0.65,2,50.0,0,0,0,0,1,0,0,0,0.0,1,0,0,1,1,0.0,7.25,Diego Braghieri,diego-braghieri,19,174855,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,7.25,Santiago Rojas,santiago-rojas,73,871581,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+4,66.67,9,0,1,1,2.59,39,10.26,7,0,2,2,14,0,1,1,0.0,16,16,0,3,3,14.29,7.25,Nicolás de la Cruz,nicolas-de-la-cruz,2425,877513,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.13,1,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,7.23,Gianluca Ferrari,gianluca-ferrari,55,945103,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+3,100.0,7,0,0,1,1.11,18,16.67,0,3,0,1,5,0,0,0,0.0,5,6,0,3,0,0.0,7.22,Luciano Lollo,luciano-lollo,39,249009,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+12,50.0,7,0,1,0,7.91,47,25.53,0,1,6,4,25,3,0,2,100.0,28,15,3,11,9,0.0,7.22,Lucas Beltrán,lucas-beltran,2809,962029,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,81.48,12,0,0,0,0.94,20,0.0,1,0,1,0,0,0,0,0,0.0,22,8,0,0,0,0.0,7.22,Lucas Villalba,lucas-villalba,144,260077,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+1,66.67,0,0,0,0,0.49,4,25.0,0,1,0,0,1,0,0,0,0.0,4,3,0,1,0,0.0,7.21,Paulo Díaz,paulo-diaz,1023,790004,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+5,48.94,6,1,1,3,3.86,44,11.36,4,0,1,5,20,0,0,5,0.0,23,18,0,4,0,0.0,7.2,Nacho Fernández,nacho-fernandez,1311,340861,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+1,61.82,19,0,1,0,1.96,53,1.89,11,0,1,0,11,0,0,1,0.0,68,23,0,0,0,0.0,7.2,Joaquín Pereyra,joaquin-pereyra,300,832213,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,7.2,Ian Glavinovich,glavinovich-ian,25,1384966,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,7.2,Gonzalo Gonzalez,gonzalo-gonzalez,3,1381878,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+2,85.71,3,0,0,0,1.62,16,12.5,0,1,1,1,5,0,0,1,0.0,6,8,0,2,0,0.0,7.2,Tomás Cardona,tomas-cardona,83,849020,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,7.2,Sergio Romero,sergio-romero,2996,25566,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,90.91,1,0,0,0,0.41,10,0.0,0,0,2,1,4,0,0,0,0.0,10,5,0,0,0,0.0,7.18,Diego Godín,diego-godin,2137,14933,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+1,100.0,1,0,0,0,0.59,5,20.0,0,0,1,0,3,0,0,0,0.0,5,1,0,1,1,0.0,7.18,Lautaro Giannetti,lautaro-giannetti,163,233856,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+6,66.33,22,0,2,1,5.46,74,8.11,4,0,2,4,28,1,0,5,0.0,65,24,0,4,1,0.0,7.18,Benjamín Rollheiser,benjamin-rollheiser,943,922454,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+4,50.0,6,0,0,0,3.25,30,13.33,0,2,1,3,10,0,0,0,0.0,3,14,0,4,2,0.0,7.18,Kevin Mac Allister,kevin-mac-allister,752,895327,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,7.18,Alexis Martín Arias,alexis-martin-arias,68,340849,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+11,51.35,13,0,1,2,9.18,81,13.58,2,2,5,7,26,2,0,3,100.0,19,42,2,10,6,0.0,7.16,Mateo Retegui,mateo-retegui,3622,914501,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,7.16,Guido Herrera,guido-herrera,75,248977,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+3,70.0,3,0,0,0,1.85,26,11.54,0,2,1,3,9,0,0,1,0.0,7,14,0,3,0,0.0,7.15,Abel Luciatti,abel-luciatti,40,340727,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,56.0,3,0,0,0,0.27,9,0.0,0,0,0,0,0,0,0,0,0.0,14,6,0,0,0,0.0,7.15,Matías Melluso,matias-melluso,195,895931,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,7.15,Andres Desabato,desabato-andres,16,941546,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,60.0,1,0,0,0,0.27,4,0.0,4,0,0,0,1,0,0,0,0.0,3,2,0,0,0,0.0,7.14,Miguel Torren,miguel-torren,82,76383,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+11,25.0,12,1,1,1,8.38,61,18.03,0,4,9,5,28,1,0,0,100.0,4,21,1,10,7,0.0,7.14,Alejo Veliz,alejo-veliz,2634,1116987,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+1,40.0,1,1,0,0,2.46,17,5.88,0,0,0,2,5,0,0,1,0.0,2,11,0,1,0,0.0,7.14,Federico Gattoni,federico-gattoni,483,941464,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,7.14,Manuel Roffo,manuel-roffo,95,881166,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+1,59.14,3,1,0,1,1.85,23,4.35,0,0,2,2,9,0,0,1,0.0,55,11,0,1,0,0.0,7.14,Malcom Braida,malcom-braida,109,994453,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,7.13,Matías Mansilla,matias-mansilla,14,1099481,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+12,44.0,10,0,0,2,9.38,57,21.05,1,1,10,5,21,4,0,1,100.0,11,26,4,12,10,0.0,7.13,Gabriel Ávalos,gabriel-avalos,643,789453,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+3,56.25,4,0,1,1,2.37,32,9.38,2,1,1,1,18,0,0,0,0.0,36,10,0,2,2,0.0,7.13,David Barbona,david-barbona,72,789910,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+2,50.0,2,0,0,0,1.45,15,13.33,0,1,1,1,5,1,0,1,100.0,5,8,1,2,0,0.0,7.12,Carlos Quintana,carlos-quintana,37,33202,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+1,57.45,1,0,1,0,0.59,10,10.0,1,0,0,0,5,0,0,1,0.0,27,4,0,0,0,0.0,7.11,Matías García,matias-garcia,44,340863,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+13,37.5,7,1,0,1,12.19,89,14.61,1,5,19,11,31,2,0,0,100.0,9,51,2,13,8,0.0,7.11,Pablo Vegetti,pablo-vegetti,2050,583974,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,77.78,3,1,0,0,0.78,8,0.0,0,0,1,2,2,0,0,0,0.0,14,3,0,0,0,0.0,7.1,Enzo Pérez,enzo-perez,545,33958,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.24,2,0.0,0,0,1,0,1,0,0,0,0.0,0,1,0,0,0,0.0,7.1,Jonathan Galván,jonathan-galvan,38,789271,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.05,1,0.0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0.0,7.1,Lucas Merolla,lucas-merolla,98,833542,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,7.1,Rodrigo Gallo,gallo-rodrigo,4,1003722,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,7.1,Aaron Anselmino,anselmino-aaron,110,1500263,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,7.1,Augusto Batalla,augusto-batalla,197,358910,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+1,92.86,2,0,0,0,1.28,18,5.56,0,0,1,1,3,0,0,0,0.0,13,13,0,1,1,0.0,7.1,Gastón Hernández,gaston-hernandez,98,980886,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+12,53.13,25,1,2,3,11.48,85,14.12,0,0,18,7,36,3,0,4,100.0,34,24,3,10,8,0.0,7.09,Nicolás Fernández,nicolas-fernandez,448,581804,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,75.0,8,0,0,1,2.29,28,0.0,0,0,11,2,8,0,0,0,0.0,27,12,0,0,0,0.0,7.08,Javier Cabrera,javier-cabrera,126,340087,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,100.0,5,0,0,0,1.16,30,0.0,0,0,2,2,10,0,0,0,0.0,2,15,0,0,0,0.0,7.08,Fabio Pereyra,fabio-pereyra,43,943995,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,7.08,Nahuel Losada,nahuel-losada,40,384552,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,7.07,Tomás Marchiori,tomas-marchiori,25,898750,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+5,67.21,13,0,1,2,6.48,44,11.36,7,0,1,4,12,4,0,0,100.0,41,19,4,4,5,0.0,7.07,Esequiel Barco,esequiel-barco,1520,848473,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+1,59.02,9,0,0,0,2.83,25,4.0,3,0,0,1,8,1,0,0,100.0,36,8,1,1,1,0.0,7.07,Gastón Lódico,gaston-lodico,156,922460,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,7.07,Enrique Bologna,enrique-bologna,80,107418,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+5,55.71,15,0,0,1,4.75,47,10.64,4,0,7,2,18,3,0,5,66.67,39,14,2,5,0,0.0,7.06,Ignacio Malcorra,ignacio-malcorra,143,789427,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+2,72.73,3,2,0,1,1.58,16,12.5,0,1,0,2,7,0,0,0,0.0,8,6,0,2,1,0.0,7.06,Tomás Belmonte,tomas-belmonte,275,881169,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+4,53.33,7,0,2,2,2.74,29,13.79,13,0,0,0,9,2,2,4,100.0,8,13,2,2,0,15.38,7.06,Gonzalo Piovi,gonzalo-piovi,209,340537,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+1,68.18,3,1,0,1,1.0,13,7.69,0,0,0,0,3,0,0,0,0.0,15,7,0,1,1,0.0,7.06,Nazareno Colombo,nazareno-colombo,105,913596,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+4,66.67,2,0,0,1,1.73,23,17.39,0,2,0,1,6,0,0,1,0.0,6,15,0,4,1,0.0,7.05,Francisco Álvarez,francisco-alvarez,72,871788,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+2,70.0,5,0,0,0,1.11,18,11.11,0,2,0,0,5,0,0,0,0.0,14,8,0,2,0,0.0,7.05,Aníbal Moreno,anibal-moreno,581,977677,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+1,0.0,0,0,0,0,0.12,2,50.0,0,0,0,0,2,0,0,0,0.0,0,0,0,1,1,0.0,7.05,Francisco González,francisco-gonzalez,131,983528,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,71.43,1,0,0,0,0.33,5,0.0,0,0,2,0,2,0,0,0,0.0,5,2,0,0,0,0.0,7.05,Juan Gabriel Rodríguez,juan-gabriel-rodriguez,45,155714,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,7.05,José Mauri,jose-mauri,126,284359,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,7.05,Jorge Carranza,jorge-carranza,15,340431,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+1,64.71,1,0,0,0,0.71,13,7.69,0,1,1,0,3,0,0,0,0.0,11,9,0,1,0,0.0,7.05,Matías Catalán,matias-catalan,272,249643,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,7.05,Franco Armani,franco-armani,2369,221140,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,93.33,2,0,0,0,0.3,6,0.0,0,0,0,0,3,0,0,0,0.0,14,1,0,0,0,0.0,7.05,Federico Fattori,federico-fattori,26,789640,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,52.69,9,0,0,0,2.29,37,0.0,8,0,7,4,11,0,0,0,0.0,49,17,0,0,0,0.0,7.04,Sebastián Villa,sebastian-villa,1140,839983,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,68.42,9,0,0,0,0.67,25,0.0,0,0,0,0,4,0,0,0,0.0,26,12,0,0,0,0.0,7.04,Juan Cáceres,juan-caceres,157,989801,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+1,61.54,8,0,0,0,2.54,41,2.44,13,0,0,0,10,1,0,1,100.0,24,23,1,1,0,0.0,7.04,Brahian Alemán,brahian-aleman,202,122912,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+1,65.22,3,0,1,1,1.06,20,5.0,2,0,2,1,4,0,0,1,0.0,15,13,0,0,0,0.0,7.04,Gabriel Díaz,gabriel-diaz,49,1199053,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+4,67.44,8,0,1,0,2.94,34,11.76,5,0,6,1,13,0,0,2,0.0,116,13,0,3,2,0.0,7.04,Imanol Machuca,imanol-machuca,379,974698,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+2,70.59,2,0,1,0,1.05,14,14.29,0,0,3,1,8,0,0,2,0.0,24,4,0,1,0,0.0,7.04,Gastón Benedetti,gaston-benedetti,133,1018407,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,1,0.81,10,0.0,0,0,0,1,1,0,0,0,0.0,3,9,0,0,0,0.0,7.04,Santiago Núñez,santiago-nunez,92,1161819,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,57.78,3,2,0,0,0.86,11,0.0,0,0,4,2,0,0,0,0,0.0,26,8,0,0,0,0.0,7.04,Enzo Díaz,enzo-diaz,213,932937,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,76.47,2,0,0,1,0.88,18,0.0,1,0,1,1,6,0,0,0,0.0,26,10,0,0,0,0.0,7.03,Mauro Pittón,mauro-pitton,30,796958,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+0,48.57,5,0,0,0,0.8,22,0.0,2,0,1,1,4,0,0,0,0.0,17,13,0,0,0,0.0,7.03,Agustin Sant'Anna,agustin-santanna,126,869726,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.13,3,0.0,0,0,0,0,0,0,0,0,0.0,3,3,0,0,0,0.0,7.03,Emanuel Mammana,emanuel-mammana,350,358914,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,66.67,1,0,0,1,0.57,8,0.0,0,0,0,0,0,0,0,0,0.0,10,7,0,0,0,0.0,7.03,Federico Rasmussen,federico-rasmussen,14,932903,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+4,49.55,14,0,0,1,4.46,48,8.33,0,1,2,1,14,1,0,1,100.0,55,20,1,4,2,0.0,7.03,Diego Valoyes,diego-valoyes,645,822088,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+4,48.48,7,0,2,1,2.43,38,10.53,5,1,14,1,17,0,1,3,0.0,32,14,0,2,0,20.0,7.03,Gastón Togni,gaston-togni,218,868361,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+3,63.64,2,0,0,0,1.24,15,20.0,0,3,0,2,9,0,0,0,0.0,7,4,0,3,0,0.0,7.03,Gustavo Velázquez,gustavo-velazquez,116,805427,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+3,53.09,7,0,0,0,3.56,33,9.09,2,0,4,2,15,1,0,1,0.0,43,11,0,3,2,0.0,7.02,Ramiro Sordo,ramiro-sordo,199,1087008,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+2,58.82,7,0,0,1,1.81,26,7.69,3,0,5,1,9,0,0,0,0.0,90,10,0,2,2,0.0,7.02,Nahuel Barrios,nahuel-barrios,319,875236,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+0,65.63,4,0,0,0,1.62,18,0.0,2,0,1,2,3,0,0,0,0.0,21,11,0,0,0,0.0,7.02,Fernando Zuqui,fernando-zuqui,61,284729,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+1,66.67,0,0,0,0,1.0,6,16.67,0,0,2,1,2,0,0,0,0.0,2,4,0,1,1,0.0,7.01,Guillermo Ortíz,guillermo-ortiz,13,250001,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+6,75.0,10,1,2,0,6.36,47,12.77,2,1,7,7,18,2,1,4,100.0,30,19,2,4,1,50.0,7.01,Luciano Gondou,luciano-gondou,460,1096378,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,60.71,2,0,0,0,0.92,8,0.0,0,0,2,1,1,0,0,0,0.0,17,5,0,0,0,0.0,7.01,Milton Casco,milton-casco,287,122710,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+2,31.25,3,0,2,0,0.95,13,15.38,4,0,1,2,7,0,1,0,0.0,5,3,0,0,2,25.0,7.01,José Sosa,jose-sosa,348,22981,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.25,5,0.0,0,0,1,0,2,0,0,0,0.0,2,3,0,0,0,0.0,7.01,Marco Di Cesare,marco-di-cesare,162,1017460,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,0.0,3,0,0,0,0.52,10,0.0,0,0,3,0,2,0,0,0,0.0,0,5,0,0,0,0.0,7.01,Leonardo Sigali,leonardo-sigali,114,33268,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+3,59.5,12,1,2,0,2.41,53,5.66,1,0,4,3,17,0,0,3,0.0,72,24,0,1,0,0.0,7.0,Jaminton Campaz,jaminton-campaz,875,877299,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,7.0,Jorge Broun,jorge-broun,68,789406,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+13,55.56,13,0,2,2,15.0,70,18.57,0,0,27,16,32,2,0,5,0.0,15,25,0,11,8,0.0,7.0,Michael Santos,michael-santos,398,339115,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,66.67,1,0,0,0,0.03,1,0.0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,7.0,Agustín Urzi,agustin-urzi,222,965775,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,7.0,Mateo Mendoza,mateo-mendoza,5,1467092,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,7.0,Ignacio Chicco,ignacio-chicco,42,875398,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+1,76.92,5,0,0,1,1.89,30,3.33,3,1,3,1,8,0,0,0,0.0,10,17,0,1,0,0.0,7.0,Cristian Lema,cristian-lema,143,106384,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.99,Santiago Mele,santiago-mele,219,846421,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+2,81.82,5,0,1,0,0.46,18,11.11,0,0,1,0,5,0,0,0,0.0,18,8,0,1,2,0.0,6.99,Jorge Rodríguez,jorge-rodriguez,109,583332,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+1,60.0,1,0,0,0,0.73,7,14.29,0,0,0,0,3,0,0,1,0.0,6,3,0,1,0,0.0,6.99,Marco Pellegrino,pellegrino-marco,735,1095023,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,50.0,3,0,0,0,0.83,15,0.0,0,0,3,1,4,0,0,0,0.0,5,8,0,0,0,0.0,6.99,Claudio Corvalán,claudio-corvalan,19,249383,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+1,85.71,4,0,0,0,1.12,11,9.09,0,1,2,1,2,0,0,0,0.0,6,5,0,1,0,0.0,6.98,Leonardo Morales,leonardo-morales,72,895342,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.98,José Devecchi,jose-devecchi,83,578460,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+2,72.73,6,0,0,1,0.76,17,11.76,4,0,0,0,5,0,0,2,0.0,8,6,0,2,0,0.0,6.98,Bautista Kociubinski,bautista-kociubinski,58,1086935,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+4,31.25,8,0,2,2,2.98,44,9.09,0,1,1,1,12,0,0,1,0.0,5,24,0,2,2,0.0,6.98,Santiago Ascacíbar,santiago-ascacibar,594,830667,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,1,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.98,Pablo Minissale,pablo-minissale,40,1017448,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,1,0.01,1,0.0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0.0,6.98,Alejandro Medina,alejandro-medina,25,941532,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+1,40.0,0,0,0,1,1.24,8,12.5,0,0,1,1,1,0,0,1,0.0,2,7,0,1,0,0.0,6.98,Oscar Piris,oscar-piris,5,933167,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,72.97,4,0,0,1,1.11,16,0.0,0,0,0,1,3,0,0,0,0.0,27,9,0,0,0,0.0,6.98,Rodrigo Villagra,rodrigo-villagra,227,978563,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.98,Gaspar Servio,gaspar-servio,143,581628,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+1,75.0,4,0,0,0,0.98,14,7.14,0,1,1,1,4,0,0,0,0.0,3,6,0,1,0,0.0,6.97,Facundo Mallo,facundo-mallo,73,877400,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,61.29,2,1,0,1,0.22,6,0.0,1,0,1,0,2,0,0,0,0.0,19,2,0,0,0,0.0,6.97,Rafael Delgado,rafael-delgado,27,799653,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+5,42.86,9,1,0,1,4.6,42,11.9,0,0,12,4,21,0,0,0,0.0,30,12,0,5,5,0.0,6.97,Pablo Solari,pablo-solari,1627,1018450,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,85.71,5,0,0,0,0.31,11,0.0,1,0,0,0,1,0,0,0,0.0,6,5,0,0,0,0.0,6.97,Franco Moyano,franco-moyano,78,901471,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,81.25,0,0,0,0,0.11,3,0.0,0,0,1,0,2,0,0,0,0.0,26,1,0,0,0,0.0,6.97,Armando Méndez,armando-mendez,65,941403,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+2,66.67,9,0,0,0,2.44,25,8.0,0,1,4,1,3,1,0,0,0.0,14,13,0,2,1,0.0,6.97,Santiago Hezze,santiago-hezze,782,989886,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+6,57.14,9,0,0,1,7.04,44,13.64,0,1,13,9,17,1,0,2,100.0,12,18,1,6,3,0.0,6.96,Marcelo Estigarribia,marcelo-estigarribia,54,943166,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+1,50.0,1,0,0,1,1.22,6,16.67,0,0,0,2,3,0,0,0,0.0,3,2,0,1,1,0.0,6.96,Brian Leizza,brian-leizza,20,1016644,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+1,100.0,1,0,0,0,0.2,6,16.67,0,1,0,0,2,0,0,0,0.0,1,3,0,1,0,0.0,6.96,Facundo Mansilla,facundo-mansilla,40,1087335,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+1,36.67,1,0,0,1,1.45,16,6.25,0,1,1,3,7,0,0,0,0.0,11,8,0,1,0,0.0,6.96,Gastón Benavídez,gaston-benavidez,45,981452,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+2,37.5,6,0,1,0,0.51,13,15.38,0,0,1,0,4,0,0,1,0.0,6,3,0,1,1,0.0,6.96,Jalil Elias,jalil-elias,154,797031,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+1,56.9,6,0,0,1,2.22,24,4.17,6,0,1,3,6,0,0,0,0.0,33,12,0,1,1,0.0,6.95,Alexis Castro,alexis-castro,59,801037,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+4,59.7,10,0,1,0,2.41,27,14.81,0,0,0,2,10,0,0,4,0.0,40,7,0,3,0,0.0,6.95,Lautaro Giaccone,lautaro-giaccone,156,1087087,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+3,55.77,9,0,0,0,2.63,21,14.29,0,0,2,1,9,0,0,1,0.0,29,3,0,3,2,0.0,6.95,Francisco Pizzini,francisco-pizzini,86,257475,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+1,66.67,1,0,0,0,0.91,6,16.67,0,0,1,0,1,0,0,0,0.0,4,4,0,1,1,0.0,6.95,Leonardo Jara,leonardo-jara,57,250933,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+1,50.0,1,0,0,0,0.85,6,16.67,1,0,0,0,2,0,0,0,0.0,7,3,0,1,1,0.0,6.95,Exequiel Zeballos,exequiel-zeballos,1829,1003011,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+1,0.0,0,0,1,0,0.06,1,100.0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,1,0.0,6.95,Facundo Echevarría,facundo-echevarria,15,1094181,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.34,7,0.0,0,0,3,0,2,0,0,0,0.0,2,5,0,0,0,0.0,6.95,Bruno Bianchi,bruno-felix-bianchi,11,34007,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,63.16,0,0,0,0,0.28,3,0.0,0,0,1,1,1,0,0,0,0.0,24,2,0,0,0,0.0,6.95,Frank Fabra,frank-fabra,1201,247741,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,62.5,1,0,0,0,1.08,9,0.0,0,0,0,1,2,0,0,0,0.0,5,6,0,0,0,0.0,6.95,Bruno Valdez,bruno-valdez,302,587110,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,50.0,0,0,0,0,0.02,1,0.0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0.0,6.95,Ruben Martinez,martinez-ruben,9,1484796,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.95,Manuel Vicentini,manuel-vicentini,17,256935,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,50.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.95,Lucas Hoyos,lucas-hoyos,62,106111,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+2,53.23,9,0,1,1,2.32,37,5.41,3,0,1,3,8,0,0,2,0.0,33,20,0,1,0,0.0,6.95,Matías Esquivel,matias-esquivel,132,989871,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+4,63.16,5,1,0,5,6.03,50,8.0,0,0,20,5,14,2,0,3,50.0,12,31,1,4,1,0.0,6.94,Javier Toledo,javier-toledo,48,33776,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+1,66.67,0,0,0,0,0.19,5,20.0,0,0,0,0,3,0,0,1,0.0,2,2,0,1,0,0.0,6.94,Gastón Suso,gaston-suso,22,850925,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+3,53.66,10,0,1,1,2.69,26,11.54,2,0,7,2,8,0,0,0,0.0,22,8,0,2,3,0.0,6.94,Walter Bou,walter-bou,239,558816,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+4,57.58,11,0,2,0,1.36,31,12.9,5,0,0,0,9,0,0,4,0.0,38,11,0,2,0,0.0,6.94,Nicolás Castro,nicolas-castro,38,896985,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,44.44,0,0,0,0,0.19,4,0.0,0,0,0,0,2,0,0,0,0.0,8,2,0,0,0,0.0,6.94,Mateo Del Blanco,del-blanco-mateo,10,1183059,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+3,55.92,9,0,0,0,2.4,39,7.69,0,0,1,1,14,0,0,3,0.0,85,16,0,3,0,0.0,6.94,Hernán López,hernan-lopez,292,981007,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+1,55.0,6,0,0,0,2.02,22,4.55,4,0,1,0,10,0,0,0,0.0,22,6,0,1,1,0.0,6.94,Aaron Molinas,aaron-molinas,326,1022257,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,51.61,3,0,0,0,1.1,19,0.0,1,0,4,0,3,0,0,0,0.0,16,13,0,0,0,0.0,6.93,Gustavo Canto,canto-gustavo,19,792153,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.93,Alexis Francisco Flores,alexis-francisco-flores,99,1003008,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+2,64.23,11,1,0,1,1.77,26,7.69,3,0,1,0,6,1,0,0,100.0,88,9,1,2,2,0.0,6.93,Vicente Taborda,vicente-taborda,356,1131037,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+11,50.0,11,0,1,0,9.95,58,18.97,0,3,19,9,27,5,0,0,80.0,15,20,4,10,8,0.0,6.93,Leandro Díaz,leandro-diaz,294,107397,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+1,62.86,10,0,1,1,1.07,31,3.23,1,0,0,0,10,0,0,1,0.0,22,11,0,0,0,0.0,6.93,Enzo Roldán,enzo-roldan,66,1022263,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,50.0,2,0,0,0,0.28,9,0.0,0,0,2,0,5,0,0,0,0.0,15,2,0,0,0,0.0,6.93,Luis Advíncula,luis-advincula,2047,149850,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+5,54.29,9,1,0,0,5.69,47,10.64,0,0,10,6,16,1,0,2,100.0,19,22,1,5,3,0.0,6.93,Milton Giménez,milton-gimenez,194,1092308,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+2,65.71,6,0,0,0,1.54,17,11.76,0,0,1,2,6,0,0,1,0.0,23,5,0,2,1,0.0,6.93,Sasha Marcich,sasha-marcich,44,992126,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+3,70.37,4,0,0,0,1.58,17,17.65,0,2,0,1,5,0,0,1,0.0,19,8,0,3,0,0.0,6.92,Nicolás Figal,nicolas-figal,290,579350,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+6,51.72,15,0,1,2,3.86,44,13.64,1,1,6,3,13,0,0,1,0.0,60,16,0,5,4,0.0,6.92,Pedro de la Vega,pedro-de-la-vega,1009,953844,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.31,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.92,Mariano Andújar,mariano-andujar,90,12758,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.29,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.92,Facundo Cambeses,cambeses-facundo,95,836159,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+0,71.43,2,0,0,0,0.28,8,0.0,0,0,0,0,2,0,0,0,0.0,5,4,0,0,0,0.0,6.92,Ignacio Vazquez,ignacio-vazquez,10,883922,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.08,3,0.0,0,0,0,0,1,0,0,0,0.0,5,1,0,0,0,0.0,6.92,Ariel Rojas,ariel-rojas,17,147583,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+2,60.0,5,0,0,0,1.63,13,15.38,0,0,0,2,4,0,0,1,0.0,15,4,0,2,1,0.0,6.91,Pol Fernández,pol-fernandez,273,250231,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+1,79.31,1,0,0,0,0.6,10,10.0,0,1,0,0,5,0,0,0,0.0,23,4,0,1,0,0.0,6.91,Zaid Romero,zaid-romero,103,1108450,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+11,60.0,7,0,1,2,11.14,42,26.19,2,0,25,5,21,7,0,1,85.71,21,14,6,10,10,0.0,6.91,Martín Cauteruccio,martin-cauteruccio,242,47435,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+4,23.81,15,0,1,2,3.84,42,9.52,17,0,3,0,16,3,0,0,100.0,5,11,3,3,4,0.0,6.91,Iván Tapia,ivan-tapia,112,992084,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+1,40.0,1,0,0,0,0.29,6,16.67,1,0,1,0,3,0,0,1,0.0,6,2,0,1,0,0.0,6.91,Francis Mac Allister,francis-mac-allister,80,1089454,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+1,50.0,5,0,0,0,0.52,12,8.33,0,0,2,1,4,0,0,0,0.0,6,3,0,1,1,0.0,6.91,Gonzalo Bettini,gonzalo-bettini,17,581630,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,77.78,1,1,0,0,0.77,12,0.0,0,0,1,0,2,0,0,0,0.0,7,9,0,0,0,0.0,6.91,Juan Manuel Insaurralde,juan-manuel-insaurralde,38,93196,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+2,54.35,4,0,1,1,2.32,28,7.14,4,1,2,2,8,0,0,0,0.0,25,16,0,1,1,0.0,6.91,Cristian Ferreira,cristian-ferreira,228,909608,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+1,46.67,2,0,0,0,0.78,7,14.29,1,0,0,0,1,0,0,1,0.0,7,4,0,1,0,0.0,6.9,Juan Sforza,juan-sforza,423,1003013,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.9,Ramiro Macagno,ramiro-macagno,48,818326,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+2,59.13,6,0,0,0,2.05,28,7.14,1,0,1,1,12,0,0,0,0.0,68,10,0,2,2,0.0,6.9,Gianluca Prestianni,gianluca-prestianni,1555,1201395,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.9,Rodrigo Rey,rodrigo-rey,110,158249,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+1,81.82,3,0,0,0,0.56,8,12.5,0,0,1,0,1,0,0,0,0.0,9,4,0,1,1,0.0,6.9,José Canale,jose-canale,57,877452,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,80.0,2,0,0,0,0.11,3,0.0,2,0,0,0,1,0,0,0,0.0,4,0,0,0,0,0.0,6.9,Lucas Carrizo,lucas-carrizo,18,871798,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.01,1,0.0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0.0,6.9,Facundo Lencioni,facundo-lencioni,19,1118270,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.9,Tomas Olmos,olmos-tomas,5,1485101,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,83.33,8,0,0,0,1.66,20,0.0,0,0,1,3,2,0,0,0,0.0,5,10,0,0,0,0.0,6.9,Fernando Alarcón,fernando-alarcon,25,797020,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+1,62.24,4,0,1,1,0.47,12,8.33,0,0,1,0,6,0,0,1,0.0,61,2,0,0,0,0.0,6.9,Francisco Ortega,francisco-ortega,749,913647,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+4,50.0,7,1,0,0,5.02,43,9.3,4,1,6,5,12,0,0,2,0.0,21,24,0,4,1,0.0,6.9,Erik Ramírez,erik-ramirez,103,792334,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+2,44.44,6,0,1,1,1.12,24,8.33,6,0,1,1,7,0,0,0,0.0,8,11,0,1,2,0.0,6.9,Sergio Quiroga,sergio-quiroga,15,885010,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,53.33,6,0,0,1,0.69,16,0.0,2,0,2,0,1,0,0,0,0.0,24,9,0,0,0,0.0,6.89,Rodrigo Insúa,rodrigo-insua,21,1020511,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,60.0,1,0,0,0,0.46,5,0.0,0,0,1,0,2,0,0,0,0.0,3,2,0,0,0,0.0,6.89,Emanuel Olivera,emanuel-olivera,37,129500,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+0,0.0,3,0,0,0,0.31,5,0.0,0,0,1,0,0,0,0,0,0.0,0,2,0,0,0,0.0,6.89,Erik Godoy,erik-godoy,56,249427,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,100.0,3,0,0,0,0.38,6,0.0,1,0,0,0,2,0,0,0,0.0,5,1,0,0,0,0.0,6.89,Emanuel Aguilera,emanuel-aguilera,48,147576,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,6.89,Gonzalo Marinelli,gonzalo-marinelli,41,42571,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+1,51.61,3,0,1,0,1.86,29,3.45,4,0,2,1,9,0,0,0,0.0,16,17,0,0,1,0.0,6.89,Lucas Menossi,lucas-menossi,64,249429,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,54.29,3,0,0,0,0.45,12,0.0,0,0,0,1,2,0,0,0,0.0,19,7,0,0,0,0.0,6.89,Sebastián Prieto,sebastian-prieto,15,946305,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+2,50.0,6,0,1,0,1.19,21,9.52,4,0,1,1,6,0,1,2,0.0,23,9,0,1,0,25.0,6.89,Kevin Zenón,kevin-zenon,181,989863,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+1,100.0,1,0,0,0,0.93,9,11.11,0,1,0,1,3,0,0,0,0.0,5,5,0,1,0,0.0,6.89,Fernando Tobio,fernando-tobio,32,80918,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+1,75.0,3,0,1,0,0.65,9,11.11,0,0,0,0,4,0,0,0,0.0,18,2,0,0,1,0.0,6.88,Agustín Cardozo,agustin-cardozo,34,851824,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,66.67,2,0,0,0,0.62,9,0.0,0,0,1,1,0,0,0,0,0.0,2,7,0,0,0,0.0,6.88,Alejandro Maciel,alejandro-maciel,34,895336,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+3,45.83,9,0,2,1,1.89,27,11.11,4,1,1,2,11,0,1,2,0.0,22,7,0,1,0,25.0,6.88,Alan Lescano,alan-lescano,96,1186068,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+1,52.54,7,0,0,2,2.32,35,2.86,1,0,3,2,17,0,0,1,0.0,62,11,0,1,0,0.0,6.88,Brian Aguirre,brian-aguirre,801,1084962,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+6,45.0,11,0,0,2,5.26,45,13.33,1,1,10,2,12,0,0,3,0.0,27,22,0,6,2,0.0,6.88,Tomás Conechny,tomas-conechny,146,822607,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,60.0,1,0,0,0,0.2,7,0.0,1,0,0,0,3,0,0,0,0.0,3,3,0,0,0,0.0,6.88,Nicolás Colazo,nicolas-colazo,32,106294,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+6,75.0,11,0,1,1,5.53,45,13.33,5,2,5,3,15,1,0,0,100.0,18,19,1,5,4,0.0,6.88,Jorge Recalde,jorge-recalde,221,312820,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,80.0,0,0,0,0,0.08,1,0.0,0,0,0,0,1,0,0,0,0.0,4,0,0,0,0,0.0,6.88,Francesco Lo Celso,francesco-lo-celso,75,989850,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+1,50.0,3,0,0,0,1.02,19,5.26,1,0,0,1,5,0,0,0,0.0,10,11,0,1,1,0.0,6.87,Adrián Sánchez,adrian-sanchez,41,1009957,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,54.55,6,0,0,0,0.95,18,0.0,0,0,0,1,2,0,0,0,0.0,12,10,0,0,0,0.0,6.87,Alejandro Cabrera,alejandro-cabrera,44,981449,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+4,62.75,2,2,0,1,5.56,24,16.67,1,0,3,7,10,0,0,2,0.0,64,12,0,4,2,0.0,6.87,Ramón Sosa,ramon-sosa,684,1015733,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+2,63.46,5,0,1,1,1.63,11,18.18,0,0,3,1,4,0,0,1,0.0,33,2,0,1,1,0.0,6.87,Emanuel Insua,emanuel-insua,59,250345,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+1,50.0,0,0,0,0,0.45,7,14.29,0,1,0,0,4,0,0,0,0.0,3,3,0,1,0,0.0,6.87,Nicolás Valentini,nicolas-valentini,358,1116570,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.1,2,0.0,0,0,1,0,0,0,0,0,0.0,4,2,0,0,0,0.0,6.87,Diego Novaretti,diego-novaretti,10,92021,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,61.11,3,0,0,0,0.26,6,0.0,0,0,1,0,1,0,0,0,0.0,22,2,0,0,0,0.0,6.87,Guillermo Soto,guillermo-soto,323,924526,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,68.57,4,0,0,0,0.55,11,0.0,0,0,3,0,0,0,0,0,0.0,24,7,0,0,0,0.0,6.87,Guillermo Benitez,guillermo-benitez,13,830583,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+4,66.67,7,0,1,1,3.01,41,9.76,0,1,1,2,14,0,0,0,0.0,8,20,0,3,3,0.0,6.87,Leandro Maciel,leandro-maciel,17,840847,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+1,59.26,14,1,0,2,1.9,30,3.33,0,1,0,2,5,0,0,0,0.0,32,11,0,1,0,0.0,6.87,Rodrigo Aliendro,rodrigo-aliendro,180,830748,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,38.46,7,0,0,0,0.54,14,0.0,0,0,1,0,2,0,0,0,0.0,5,5,0,0,0,0.0,6.87,Santiago Longo,longo-santiago,65,990171,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+1,54.17,4,0,0,0,0.34,9,11.11,0,0,3,0,1,0,0,0,0.0,13,4,0,1,1,0.0,6.86,Nicolás Morgantini,nicolas-morgantini,7,941545,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+1,66.67,1,0,0,0,0.77,13,7.69,0,0,2,0,4,0,0,0,0.0,4,8,0,1,1,0.0,6.86,Nicolás Reniero,nicolas-reniero,93,992523,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+5,31.58,8,2,0,1,6.14,35,14.29,0,2,7,9,17,2,0,1,100.0,6,10,2,5,2,0.0,6.86,Andrés Vombergar,andres-vombergar,176,894415,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+1,66.67,7,0,0,0,1.06,15,6.67,0,1,0,0,5,0,0,0,0.0,8,3,0,1,0,0.0,6.86,Tomás Gonzalez,tomas-gonzalez,36,1187055,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,85.71,4,0,0,0,0.18,9,0.0,0,0,0,0,1,0,0,0,0.0,6,4,0,0,0,0.0,6.86,Iván Rossi,ivan-rossi,24,581728,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+4,52.63,2,0,1,0,1.84,17,23.53,0,0,6,2,7,0,0,0,0.0,20,8,0,3,4,0.0,6.86,Lucas Melano,lucas-melano,38,249071,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,65.52,9,0,0,1,0.92,29,0.0,0,0,0,0,6,0,0,0,0.0,38,14,0,0,0,0.0,6.86,Ignacio Miramón,ignacio-miramon,642,1090319,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+6,52.94,7,1,1,2,3.38,33,18.18,0,0,5,2,13,0,0,1,0.0,9,13,0,5,5,0.0,6.86,Gabriel Hauche,gabriel-hauche,182,38784,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,55.56,1,0,0,0,0.27,4,0.0,0,0,0,1,2,0,0,0,0.0,10,1,0,0,0,0.0,6.86,Sebastián Prediger,sebastian-prediger,16,78851,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+3,70.59,1,0,0,0,2.42,17,17.65,0,1,3,1,8,0,0,1,0.0,36,8,0,3,1,0.0,6.85,Cristian Medina,cristian-medina,1063,1003010,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,85.71,0,0,0,0,0.26,3,0.0,0,0,0,1,1,0,0,0,0.0,6,2,0,0,0,0.0,6.85,Emiliano Insúa,emiliano-insua,78,20738,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,91.67,2,0,0,0,0.53,8,0.0,0,0,0,0,2,0,0,0,0.0,11,4,0,0,0,0.0,6.85,Nicolás Meriano,nicolas-meriano,31,1117093,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,60.87,4,0,0,0,0.14,7,0.0,0,0,1,0,1,0,0,0,0.0,14,2,0,0,0,0.0,6.85,Juan Ignacio Díaz,juan-ignacio-diaz,17,896624,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+1,42.0,10,0,0,0,1.54,28,3.57,0,0,1,0,8,0,0,1,0.0,21,10,0,1,0,0.0,6.85,Ayrton Costa,ayrton-costa,62,976485,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,76.19,7,0,0,1,0.28,12,0.0,0,0,0,0,1,0,0,0,0.0,16,4,0,0,0,0.0,6.85,Alan Varela,alan-varela,2473,1066560,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.85,Matías Tagliamonte,matias-tagliamonte,52,871837,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+1,50.0,1,0,0,0,1.41,19,5.26,0,1,2,1,8,0,0,0,0.0,7,10,0,1,0,0.0,6.85,Guido Carrillo,guido-carrillo,289,174519,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+11,50.0,13,0,0,2,11.15,54,20.37,0,3,11,12,20,1,0,6,100.0,14,21,1,11,2,0.0,6.85,Adrian Martinez,martinez-adrian,163,906811,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+4,36.36,7,0,0,0,3.41,36,11.11,1,2,2,1,17,0,0,1,0.0,4,12,0,4,1,0.0,6.85,Nicolás Cordero,nicolas-cordero,131,860051,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,56.1,5,0,0,0,0.14,6,0.0,0,0,0,0,0,0,0,0,0.0,23,1,0,0,0,0.0,6.85,Alexis Soto,alexis-soto,55,824513,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+7,45.0,8,2,1,1,5.86,50,14.0,0,0,14,5,24,1,0,1,100.0,36,18,1,6,6,0.0,6.84,Mateo Coronel,mateo-coronel,237,898982,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+3,47.95,10,1,1,1,3.2,45,6.67,6,0,7,5,26,0,0,3,0.0,35,9,0,2,0,0.0,6.84,Santiago Rodríguez,santiago-rodriguez,38,897000,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.84,Gastón Gómez,gaston-gomez,59,830775,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+0,0.0,5,0,0,1,0.43,10,0.0,2,0,1,0,0,0,0,0,0.0,0,5,0,0,0,0.0,6.84,Alejandro Donatti,alejandro-donatti,25,249425,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+1,53.7,4,0,0,2,2.09,24,4.17,0,1,0,3,5,0,0,0,0.0,29,15,0,1,0,0.0,6.84,Matías Orihuela,matias-orihuela,18,584422,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,54.05,3,0,0,0,0.69,9,0.0,0,0,0,0,1,0,0,0,0.0,20,5,0,0,0,0.0,6.84,Ezequiel Fernández,ezequiel-fernandez,967,1003012,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,54.55,2,0,0,0,0.18,7,0.0,2,0,0,0,0,0,0,0,0.0,12,5,0,0,0,0.0,6.84,Walter Montoya,walter-montoya,70,341077,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+1,65.52,2,0,0,1,0.66,9,11.11,1,0,1,1,2,0,0,1,0.0,19,5,0,1,0,0.0,6.84,Federico Redondo,federico-redondo,1573,1117026,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+3,62.5,2,0,0,1,2.89,24,12.5,0,1,5,2,10,0,0,0,0.0,15,12,0,3,2,0.0,6.84,Lisandro López,lisandro-lopez,307,13207,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+1,64.52,0,0,0,0,1.75,14,7.14,0,0,1,2,4,0,0,0,0.0,20,10,0,1,1,0.0,6.84,Baldomero Perlaza,baldomero-perlaza,157,285611,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.84,Sebastián Moyano,sebastian-moyano,18,147578,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,50.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.84,Lucas Cháves,lucas-chaves,77,789855,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+3,100.0,0,0,0,0,2.37,3,100.0,0,0,0,0,3,3,0,3,100.0,1,0,3,3,0,0.0,6.83,Diego Rodríguez,diego-rodriguez,56,38266,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+1,53.33,7,0,1,0,0.79,29,3.45,3,0,1,1,9,0,1,1,0.0,8,13,0,0,0,33.33,6.83,Marcelo Benítez,marcelo-benitez,29,583660,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+6,50.0,5,2,0,0,4.48,26,23.08,1,2,7,6,13,2,0,1,100.0,31,8,2,6,3,0.0,6.83,Juan Bisanz,juan-bisanz,44,1489941,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+1,66.67,2,0,0,1,1.47,14,7.14,0,1,2,2,5,0,0,0,0.0,4,7,0,1,0,0.0,6.83,Facundo Garcés,facundo-garces,89,879875,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+4,51.85,5,0,2,0,1.18,15,26.67,2,1,2,2,5,0,1,0,0.0,14,5,0,2,3,50.0,6.83,Martín Payero,martin-payero,377,895592,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,65.0,5,0,0,0,1.07,21,0.0,1,0,1,1,6,0,0,0,0.0,26,10,0,0,0,0.0,6.83,Marcos Portillo,marcos-portillo,46,1167858,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+1,40.0,1,0,0,0,0.2,4,25.0,0,1,0,0,1,0,0,0,0.0,2,2,0,1,0,0.0,6.83,Marcelo Ortíz,marcelo-ortiz,5,895340,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+2,55.77,9,0,1,1,2.82,39,5.13,3,0,1,1,10,0,0,0,0.0,58,20,0,1,2,0.0,6.83,Ulises Sánchez,ulises-sanchez,119,992114,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+2,59.42,8,0,0,2,3.83,38,5.26,8,0,6,3,12,2,0,1,50.0,41,18,1,2,1,0.0,6.83,Lautaro Guzmán,lautaro-guzman,79,960016,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.22,3,0.0,0,0,0,0,1,0,0,0,0.0,7,2,0,0,0,0.0,6.83,Facundo Roncaglia,facundo-roncaglia,159,34391,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,37.5,3,0,0,1,0.9,17,0.0,1,0,1,0,7,0,0,0,0.0,3,7,0,0,0,0.0,6.83,Paolo Goltz,paolo-goltz,43,174825,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,66.67,6,0,0,0,0.34,12,0.0,0,0,0,1,3,0,0,0,0.0,6,3,0,0,0,0.0,6.83,Marcelo Herrera,marcelo-herrera,190,954700,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+5,44.44,16,2,0,0,5.22,46,10.87,4,1,7,6,17,0,0,4,0.0,20,13,0,5,0,0.0,6.82,Francisco González Metilli,francisco-gonzalez-metilli,104,896773,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+6,38.46,3,0,0,0,6.43,37,16.22,0,1,7,9,16,1,0,1,0.0,5,18,0,6,4,0.0,6.82,Mauro Boselli,mauro-boselli,403,31973,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,44.44,6,0,0,0,1.33,15,0.0,0,0,0,1,3,0,0,0,0.0,4,6,0,0,0,0.0,6.82,Maximiliano Centurión,maximiliano-centurion,45,976345,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,66.67,0,0,0,1,0.44,5,0.0,0,0,2,1,0,0,0,0,0.0,6,5,0,0,0,0.0,6.82,Christian Javier Báez,christian-javier-baez,68,136758,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+2,57.58,5,0,0,0,1.29,15,13.33,0,0,5,0,2,0,0,1,0.0,19,8,0,2,1,0.0,6.82,Matías Godoy,matias-godoy,255,1003016,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+6,42.86,7,1,1,0,5.03,30,20.0,0,1,26,6,16,1,0,1,0.0,12,7,0,5,4,0.0,6.82,Ramón Ábila,ramon-abila,330,788935,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+5,48.0,9,0,3,1,3.08,31,16.13,0,0,12,2,8,1,0,2,100.0,12,14,1,2,3,0.0,6.82,Lucas Gamba,lucas-gamba,84,789445,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+1,61.54,1,0,1,0,0.39,9,11.11,0,0,0,0,4,0,0,1,0.0,16,4,0,0,0,0.0,6.82,Lucas Arce,lucas-arce,12,1109302,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+5,49.06,16,0,0,2,7.81,45,11.11,7,0,10,3,13,2,0,0,100.0,26,16,2,5,5,0.0,6.82,Adam Bareiro,adam-bareiro,491,871580,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+4,56.58,2,0,3,0,2.13,28,14.29,1,0,1,1,15,0,0,0,0.0,43,11,0,1,4,0.0,6.82,Santiago Toloza,santiago-toloza,164,1018410,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+1,81.25,6,0,1,0,0.62,16,6.25,3,0,0,0,2,0,1,0,0.0,26,8,0,0,1,33.33,6.82,Kevin Gutiérrez,kevin-gutierrez,85,914145,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,83.33,3,0,0,0,0.43,13,0.0,0,0,2,0,0,0,0,0,0.0,20,10,0,0,0,0.0,6.82,Emiliano Méndez,emiliano-mendez,3,841958,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+2,33.33,0,0,0,1,0.57,12,16.67,0,1,0,1,3,0,0,1,0.0,3,9,0,2,0,0.0,6.82,Carlos Arce,carlos-arce,10,992061,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,44.44,3,0,0,0,0.21,5,0.0,0,0,0,0,0,0,0,0,0.0,4,2,0,0,0,0.0,6.82,Lucas Suárez,lucas-suarez,30,579312,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+1,73.68,11,0,0,0,2.33,26,3.85,9,0,0,3,3,0,0,0,0.0,42,12,0,1,1,0.0,6.82,Elías Cabrera,elias-cabrera,84,1201391,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+1,41.18,5,0,1,0,0.75,16,6.25,0,0,5,0,5,0,0,0,0.0,7,6,0,0,1,0.0,6.82,Franco Soldano,franco-soldano,149,789446,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+2,47.62,11,0,0,1,4.92,53,3.77,3,0,3,3,18,1,0,1,100.0,50,24,1,2,1,0.0,6.81,Facundo Colidio,facundo-colidio,684,927308,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,70.0,3,1,0,0,0.61,12,0.0,0,0,0,0,1,0,0,0,0.0,7,8,0,0,0,0.0,6.81,Fernando Martinez,martinez-fernando,20,974318,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+1,50.0,2,0,0,0,0.14,4,25.0,0,0,0,0,1,0,0,0,0.0,1,1,0,1,1,0.0,6.81,Gonzalo Goñi,gonzalo-goni,27,871805,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+1,28.57,3,0,1,0,0.24,9,11.11,0,0,0,0,2,0,0,0,0.0,2,4,0,0,1,0.0,6.81,Cristian Vega,cristian-vega,10,941433,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,100.0,1,0,0,0,0.22,3,0.0,0,0,0,0,1,0,0,0,0.0,3,1,0,0,0,0.0,6.81,Franco Sbuttoni,franco-sbuttoni,3,830753,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+4,44.93,8,0,0,1,4.15,31,12.9,0,0,6,6,12,0,0,1,0.0,31,11,0,4,3,0.0,6.81,Santiago Solari,solari-santiago,57,1104323,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+1,53.13,11,0,1,0,1.65,30,3.33,2,0,2,0,8,0,0,0,0.0,17,11,0,0,1,0.0,6.81,Agustín Palavecino,agustin-palavecino,440,941541,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+4,40.54,7,1,0,0,4.12,22,18.18,0,0,5,2,7,0,0,1,0.0,15,8,0,4,3,0.0,6.81,Franco Orozco,orozco-franco,225,1003025,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+2,54.72,13,0,0,1,2.68,32,6.25,2,0,1,1,9,1,0,2,100.0,29,10,1,2,0,0.0,6.81,Santiago Montiel,montiel-santiago,96,1065611,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+2,43.75,1,0,0,0,1.49,6,33.33,0,0,3,0,3,0,0,0,0.0,7,2,0,2,2,0.0,6.81,Bryan Castrillón,bryan-castrillon,121,954761,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+1,46.67,5,0,0,0,0.84,9,11.11,0,1,2,1,2,0,0,0,0.0,7,2,0,1,0,0.0,6.81,Maximiliano Comba,maximiliano-comba,20,944622,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,40.0,0,1,0,0,0.02,1,0.0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,0.0,6.81,Luciano Gómez,luciano-gomez,15,830605,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+3,60.71,8,1,0,0,3.35,30,10.0,0,0,1,4,13,1,0,1,100.0,34,9,1,3,2,0.0,6.81,Mauro Luna Diale,mauro-luna-diale,75,871804,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+3,46.67,6,0,1,1,3.24,28,10.71,0,0,2,2,10,0,0,1,0.0,28,12,0,2,2,0.0,6.81,Gabriel Graciani,gabriel-graciani,28,584418,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.81,Tomás Durso,tomas-durso,47,895734,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,51.02,1,0,0,1,0.34,5,0.0,0,0,0,0,2,0,0,0,0.0,25,2,0,0,0,0.0,6.81,Fabricio Domínguez,fabricio-dominguez,97,939934,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,100.0,1,0,0,0,0.57,10,0.0,0,0,1,0,3,0,0,0,0.0,3,6,0,0,0,0.0,6.8,Franco Calderón,franco-calderon,36,981341,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+5,35.71,6,2,0,0,3.22,29,17.24,0,1,8,2,11,1,0,0,100.0,15,12,1,5,4,0.0,6.8,Bruno Sepúlveda,bruno-sepulveda,67,981451,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+2,48.72,9,0,1,0,0.91,26,7.69,1,0,0,0,6,0,1,0,0.0,19,11,0,1,2,100.0,6.8,Jonatan Gómez,jonatan-gomez,100,986257,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+5,36.36,6,0,0,1,5.12,30,16.67,0,0,12,1,12,2,0,2,100.0,4,12,2,5,3,0.0,6.8,Miguel Borja,miguel-borja,2320,329601,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+4,65.31,13,1,0,2,5.75,41,9.76,0,1,4,5,17,1,0,0,100.0,32,11,1,4,3,0.0,6.8,Matías Giménez Rojas,matias-gimenez-rojas,177,977680,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+3,51.22,2,1,0,0,1.1,16,18.75,2,0,2,3,8,0,0,3,0.0,21,6,0,3,0,0.0,6.8,Nicolas Oroz,nicolas-oroz,108,558790,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+1,66.67,4,0,0,0,0.78,15,6.67,1,0,0,0,3,0,0,0,0.0,20,8,0,1,1,0.0,6.8,Sergio Ortiz,ortiz-sergio,35,1199248,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,53.13,9,0,0,0,0.82,28,0.0,0,0,0,1,5,0,0,0,0.0,17,14,0,0,0,0.0,6.8,Lucas Blondel,lucas-blondel,189,860003,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,65.12,7,0,0,0,0.43,16,0.0,0,0,1,0,4,0,0,0,0.0,28,5,0,0,0,0.0,6.8,Braian Aguirre,braian-aguirre,90,1084963,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,56.52,3,0,0,0,0.18,5,0.0,0,0,2,0,1,0,0,0,0.0,13,1,0,0,0,0.0,6.8,Jean Rosso,jean-rosso,27,924891,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.8,Axel Atum,atum-axel,53,1485373,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,57.58,8,2,0,2,2.41,31,0.0,0,0,4,3,9,0,0,0,0.0,19,14,0,0,0,0.0,6.8,Gastón Verón,gaston-veron,201,924198,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,100.0,1,0,0,0,0.7,8,0.0,0,0,0,1,1,0,0,0,0.0,1,6,0,0,0,0.0,6.8,Miguel Brizuela,miguel-brizuela,21,990283,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.05,2,0.0,0,0,0,0,1,0,0,0,0.0,0,1,0,0,0,0.0,6.8,Tomas Adoryan,adoryan-tomas,4,1199319,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+0,100.0,1,0,0,0,0.02,1,0.0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,6.8,Julián Aude,julian-aude,282,1017474,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.8,Andrés Amaya,andres-amaya,107,876723,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.8,Francisco Facello,francisco-facello,6,1464854,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.8,Thiago Yossen,thiago-yossen,4,1508167,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,6.8,Lisandro Morales,morales-lisandro,4,1515402,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.8,Lucas Naranjo,naranjo-lucas,1,1130761,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,83.33,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,5,0,0,0,0,0.0,6.8,Leonel Di Plácido,leonel-di-placido,285,546338,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,80.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,6.8,Matias Moreno,matias-moreno,11,1496360,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,75.0,0,0,0,0,0.0,0,0.0,0,0,1,0,0,0,0,0,0.0,3,0,0,0,0,0.0,6.8,José Goméz,jose-gomez,1,1210616,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+7,66.67,3,0,0,1,6.42,31,22.58,2,1,2,6,13,0,0,0,0.0,18,15,0,7,6,0.0,6.8,Miguel Merentiel,miguel-merentiel,910,892275,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+1,50.56,8,0,0,1,1.31,30,3.33,6,0,3,1,8,0,0,1,0.0,45,14,0,1,0,0.0,6.8,Juan Gauto,juan-gauto,601,1018426,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.79,Leonardo Burián,leonardo-burian,93,34182,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+0,53.85,2,0,0,0,0.33,6,0.0,1,0,1,0,3,0,0,0,0.0,7,1,0,0,0,0.0,6.79,Gabriel Compagnucci,gabriel-compagnucci,16,944621,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+1,0.0,0,0,0,0,0.51,5,20.0,0,1,0,0,1,0,0,0,0.0,0,4,0,1,0,0.0,6.79,Juan Komar,juan-komar,109,376734,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+2,41.86,3,0,0,1,0.89,17,11.76,2,0,2,2,4,0,0,0,0.0,36,10,0,2,2,0.0,6.79,Eric Meza,eric-meza,52,941092,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,62.5,5,0,0,1,1.44,18,0.0,0,0,0,2,1,0,0,0,0.0,10,12,0,0,0,0.0,6.79,Guillermo Acosta,guillermo-acosta,14,830747,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,0.0,3,0,0,0,0.29,8,0.0,0,0,0,0,4,0,0,0,0.0,0,1,0,0,0,0.0,6.79,Miguel Jacquet,miguel-jacquet,35,385746,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+1,66.67,5,0,1,0,0.36,17,5.88,0,0,0,0,5,0,0,0,0.0,24,7,0,0,1,0.0,6.79,Franco Díaz,franco-diaz,56,1018402,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,73.08,1,0,0,0,0.97,13,0.0,1,0,0,2,1,0,0,0,0.0,19,11,0,0,0,0.0,6.79,Lucas Castro,lucas-castro,134,122711,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,80.0,6,0,0,0,0.76,18,0.0,0,0,1,1,4,0,0,0,0.0,24,8,0,0,0,0.0,6.79,Emanuel Coronel,emanuel-coronel,85,895593,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+1,50.0,5,0,0,0,2.81,13,7.69,0,1,2,3,3,0,0,0,0.0,4,5,0,1,0,0.0,6.79,Jhonatan Candia,jhonatan-candia,55,877628,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,50.0,2,0,0,0,0.27,4,0.0,0,0,0,0,1,0,0,0,0.0,4,1,0,0,0,0.0,6.79,Leonel Picco,leonel-picco,31,981350,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+1,65.12,6,0,0,2,2.49,21,4.76,0,0,0,3,7,0,0,0,0.0,28,8,0,1,1,0.0,6.79,Álan Rodríguez,alan-rodriguez,87,874576,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+3,53.62,7,0,1,1,2.04,30,10.0,2,1,3,1,7,0,1,0,0.0,37,16,0,2,2,50.0,6.79,Gonzalo Abrego,gonzalo-abrego,102,1084967,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+1,50.0,1,0,0,0,1.63,11,9.09,0,0,6,1,5,1,0,0,100.0,1,5,1,1,1,0.0,6.79,Mauro Quiroga,mauro-quiroga,52,129862,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+1,63.16,1,0,0,0,0.48,7,14.29,0,1,0,0,2,0,0,0,0.0,12,4,0,1,0,0.0,6.79,Nicolas Capraro,capraro-nicolas,15,1190570,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,83.33,0,0,0,0,0.56,9,0.0,0,0,0,1,2,0,0,0,0.0,5,7,0,0,0,0.0,6.79,Alejandro Rebola,alejandro-rebola,15,830672,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+1,37.5,1,0,0,0,1.06,6,16.67,0,0,0,0,5,0,0,1,0.0,6,0,0,1,0,0.0,6.78,Bautista Barros Schelotto,bautista-barros-schelotto,28,1085929,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,51.16,6,0,0,1,1.26,15,0.0,3,0,0,1,5,0,0,0,0.0,22,4,0,0,0,0.0,6.78,Luciano Boggio,boggio-luciano,100,980190,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,52.63,0,0,0,0,0.15,5,0.0,0,0,0,0,2,0,0,0,0.0,30,3,0,0,0,0.0,6.78,Juan Barinaga,juan-barinaga,53,974729,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+6,53.33,17,0,4,2,7.0,65,9.23,1,0,3,9,22,0,0,3,0.0,32,26,0,2,3,0.0,6.78,Tadeo Allende,tadeo-allende,143,1108451,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+2,59.09,3,0,0,2,2.15,28,7.14,0,1,6,3,12,0,0,0,0.0,26,13,0,2,1,0.0,6.78,Abiel Osorio,osorio-abiel,147,1190083,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+0,50.0,3,0,0,0,0.28,5,0.0,0,0,0,1,0,0,0,0,0.0,7,2,0,0,0,0.0,6.78,Diego Gómez,diego-gomez,404,1186010,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.78,Marcos Ledesma,marcos-ledesma,12,757762,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+0,53.85,2,0,0,0,0.33,4,0.0,0,0,3,1,1,0,0,0,0.0,7,1,0,0,0,0.0,6.78,Ángelo Martino,angelo-martino,49,860046,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+4,35.71,6,2,0,0,4.21,27,14.81,1,1,7,3,11,1,0,1,100.0,5,10,1,4,2,0.0,6.78,Salomón Rondón,salomon-rondon,2200,35532,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+1,68.97,6,0,1,0,0.8,17,5.88,0,0,2,0,9,0,0,0,0.0,20,2,0,0,1,0.0,6.78,Rodrigo Cabral,rodrigo-cabral,50,997539,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,67.44,7,0,0,0,1.85,28,0.0,0,0,1,1,6,0,0,0,0.0,29,15,0,0,0,0.0,6.78,Franco Watson,watson-franco,58,1018412,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+1,39.53,3,0,1,1,1.43,12,8.33,0,0,3,3,2,0,0,0,0.0,17,7,0,0,1,0.0,6.77,Leonardo Godoy,leonardo-godoy,123,794006,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+1,66.67,0,0,0,0,0.53,6,16.67,0,0,2,3,1,0,0,1,0.0,6,5,0,1,0,0.0,6.77,Nicolás Romero,nicolas-romero,59,1102816,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,46.67,2,0,0,0,0.64,8,0.0,0,0,3,0,2,0,0,0,0.0,7,4,0,0,0,0.0,6.77,Emmanuel Más,emmanuel-mas,71,249271,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,56.25,0,0,0,0,0.33,7,0.0,0,0,0,0,2,0,0,0,0.0,18,5,0,0,0,0.0,6.77,Agustín Giay,agustin-giay,641,1106603,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+1,64.29,9,0,0,0,0.68,18,5.56,0,0,0,0,5,0,0,0,0.0,9,4,0,1,1,0.0,6.77,Yeison Gordillo,yeison-gordillo,81,285429,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,61.67,2,0,0,1,0.93,14,0.0,0,0,0,0,6,0,0,0,0.0,37,6,0,0,0,0.0,6.77,Ivan Gómez,ivan-gomez,50,849136,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+1,22.58,4,0,1,1,0.51,21,4.76,7,0,0,0,3,0,1,1,0.0,7,14,0,0,0,14.29,6.77,Alan Rodríguez,alan-rodriguez,199,990289,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,72.22,0,0,0,0,0.23,7,0.0,0,0,0,0,1,0,0,0,0.0,26,6,0,0,0,0.0,6.77,Kevin Lopez,lopez-kevin,52,1163996,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,52.63,2,0,0,1,0.55,9,0.0,1,0,1,0,3,0,0,0,0.0,10,4,0,0,0,0.0,6.77,Néstor Breitenbruch,nestor-breitenbruch,32,579356,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+4,32.43,7,2,0,2,6.03,37,10.81,1,0,6,6,19,3,0,0,100.0,12,11,3,4,4,0.0,6.77,Matías Cóccaro,matias-coccaro,279,903286,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+1,100.0,0,0,0,0,0.58,7,14.29,0,1,0,0,4,0,0,0,0.0,1,3,0,1,0,0.0,6.77,Braian Salvareschi,braian-salvareschi,12,871794,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.35,4,0.0,0,0,0,0,2,0,0,0,0.0,0,2,0,0,0,0.0,6.77,Jonathan Maidana,jonathan-maidana,123,31980,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,77.27,2,0,0,0,0.33,5,0.0,0,0,0,0,1,0,0,0,0.0,17,2,0,0,0,0.0,6.77,Fernando Torrent,fernando-torrent,18,943996,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.07,4,0.0,0,0,0,0,0,0,0,0,0.0,3,3,0,0,0,0.0,6.77,César Ibáñez,cesar-ibanez,55,988327,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.05,2,0.0,0,0,0,0,0,0,0,0,0.0,1,2,0,0,0,0.0,6.77,David Sotelo,sotelo-david,5,1406702,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.03,1,0.0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0.0,6.77,Brian Blando,brian-blando,36,941410,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,25.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.77,Julio Soler,julio-soler,41,1201520,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+5,34.62,9,0,1,0,5.81,53,9.43,7,1,14,6,21,0,1,3,0.0,18,23,0,4,1,14.29,6.77,Salomón Rodríguez,salomon-rodriguez,209,1020191,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+1,53.85,1,0,0,0,0.42,8,12.5,0,1,3,1,4,0,0,0,0.0,7,3,0,1,0,0.0,6.77,Bruno Pittón,bruno-pitton,24,800246,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+1,100.0,1,0,0,1,0.71,5,20.0,0,1,1,1,2,0,0,0,0.0,3,2,0,1,0,0.0,6.76,Aarón Quirós,aaron-quiros,21,1113232,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+1,50.0,4,0,0,0,0.3,7,14.29,0,0,2,0,2,0,0,0,0.0,13,1,0,1,1,0.0,6.76,Nicolás Tripichio,nicolas-tripichio,91,358924,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,38.89,0,0,0,0,0.04,1,0.0,0,0,1,0,0,0,0,0,0.0,7,1,0,0,0,0.0,6.76,Martín Garay,martin-garay,19,992080,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,33.33,0,0,0,0,0.15,3,0.0,0,0,0,0,1,0,0,0,0.0,2,2,0,0,0,0.0,6.76,Nicolás Paz,nicolas-paz,32,1189173,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+1,58.42,6,0,1,0,2.26,25,4.0,2,0,0,2,11,0,0,0,0.0,59,8,0,0,1,0.0,6.76,Bruno Zapelli,bruno-zapelli,922,1092354,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,50.0,2,0,0,0,0.5,11,0.0,1,0,0,0,2,0,0,0,0.0,16,7,0,0,0,0.0,6.76,Agustín Martegani,agustin-martegani,317,984926,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+1,51.92,1,1,0,0,1.31,12,8.33,0,0,3,2,6,0,0,1,0.0,27,5,0,1,0,0.0,6.76,Juan Nardoni,juan-nardoni,264,989862,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,45.45,1,0,0,1,0.52,15,0.0,0,0,1,1,6,0,0,0,0.0,10,8,0,0,0,0.0,6.76,Kevin Ortíz,kevin-ortiz,48,1180814,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,76.47,0,0,0,0,0.07,2,0.0,0,0,0,0,1,0,0,0,0.0,13,1,0,0,0,0.0,6.76,Manuel Garcia,manuel-garcia,7,1105366,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,75.0,1,0,0,0,0.29,4,0.0,0,0,0,1,1,0,0,0,0.0,9,2,0,0,0,0.0,6.76,Francisco Gerometta,gerometta-francisco,12,1017181,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,28.57,4,0,0,0,0.51,14,0.0,3,0,0,0,2,0,0,0,0.0,2,8,0,0,0,0.0,6.76,Julián Chicco,julian-chicco,50,822594,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,66.67,7,0,0,0,0.42,14,0.0,1,0,1,0,4,0,0,0,0.0,18,3,0,0,0,0.0,6.76,Lucas Esquivel,lucas-esquivel,486,1087079,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,69.57,4,0,0,0,0.18,9,0.0,0,0,1,0,1,0,0,0,0.0,16,4,0,0,0,0.0,6.76,Juan Franco,juan-franco,30,926812,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+7,45.83,8,0,2,1,5.44,33,21.21,9,1,2,8,11,0,1,1,0.0,11,14,0,5,5,11.11,6.76,Nahuel Bustos,nahuel-bustos,721,859961,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+1,57.14,1,0,0,0,0.25,5,20.0,0,0,0,0,3,0,0,1,0.0,4,1,0,1,0,0.0,6.76,Robert Rojas,robert-rojas,413,874964,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,1,0.23,4,0.0,1,0,1,0,2,0,0,0,0.0,2,1,0,0,0,0.0,6.76,Agustín Obando,agustin-obando,123,922441,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,72.0,0,0,0,0,0.02,1,0.0,0,0,1,0,0,0,0,0,0.0,18,1,0,0,0,0.0,6.76,Juan Sánchez Miño,juan-sanchez-mino,45,106293,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+1,47.62,8,0,0,0,2.18,23,4.35,3,0,4,3,6,0,0,1,0.0,20,9,0,1,0,0.0,6.75,Brian Farioli,brian-farioli,29,989990,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+1,42.86,1,0,0,0,0.38,6,16.67,0,1,0,1,1,0,0,0,0.0,6,4,0,1,0,0.0,6.75,Darío Cáceres,dario-caceres,35,922462,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+2,25.0,3,0,0,0,2.34,16,12.5,0,0,1,1,7,1,0,0,100.0,1,6,1,2,2,0.0,6.75,Cristian Menéndez,cristian-menendez,18,47333,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+3,35.71,7,0,0,0,2.46,19,15.79,0,0,2,2,5,0,0,0,0.0,10,7,0,3,3,0.0,6.75,Luca Langoni,luca-langoni,654,1199278,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+2,71.43,1,0,0,0,0.94,6,33.33,0,0,2,0,2,0,0,1,0.0,15,3,0,2,1,0.0,6.75,Jherson Mosquera,jherson-mosquera,83,1015662,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+1,52.13,6,0,0,0,1.6,30,3.33,1,0,2,1,9,0,0,0,0.0,49,15,0,1,1,0.0,6.75,Nicolás Fernández,nicolas-fernandez,58,846419,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+1,33.33,0,0,0,0,0.87,1,100.0,0,0,3,0,1,0,0,0,0.0,1,0,0,1,1,0.0,6.75,Fabricio Oviedo,oviedo-fabricio,35,1382064,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,83.33,2,0,0,1,0.97,13,0.0,5,0,1,2,4,0,0,0,0.0,10,7,0,0,0,0.0,6.75,Juan Cazares,juan-cazares,534,158411,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,0.0,1,0,0,0,0.27,3,0.0,0,0,1,0,0,0,0,0,0.0,0,2,0,0,0,0.0,6.75,Luis Mago,luis-mago,253,869701,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+0,78.57,1,0,0,0,0.23,5,0.0,2,0,0,0,1,0,0,0,0.0,11,3,0,0,0,0.0,6.75,Franco Vega,franco-vega,25,1467963,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.04,2,0.0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,0.0,6.75,Lucas Acevedo,lucas-acevedo,17,384260,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.75,Ezequiel Muñoz,ezequiel-munoz,22,42450,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,69.23,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,9,0,0,0,0,0.0,6.75,Joaquín García,joaquin-garcia,55,989860,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+0,63.64,1,0,0,0,0.07,2,0.0,0,0,0,0,0,0,0,0,0.0,7,1,0,0,0,0.0,6.75,Victor Cabrera,victor-cabrera,22,537036,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,1,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.75,Gabriel Arias,gabriel-arias,373,581782,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+1,43.48,2,0,1,0,0.49,9,11.11,0,0,1,1,3,0,0,0,0.0,10,4,0,0,1,0.0,6.75,Gonzalo Maroni,gonzalo-maroni,308,840510,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+1,47.06,6,1,0,0,0.84,12,8.33,0,0,0,0,3,0,0,1,0.0,8,3,0,1,0,0.0,6.75,Eros Mancuso,eros-mancuso,85,1116624,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+1,33.33,2,0,0,2,1.9,12,8.33,0,0,2,2,6,0,0,0,0.0,4,4,0,1,1,0.0,6.74,Rodrigo Castillo,castillo-rodrigo,19,1182504,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+1,80.0,0,0,1,0,0.04,1,100.0,0,0,0,0,1,0,0,1,0.0,4,0,0,0,0,0.0,6.74,Iván Pillud,ivan-pillud,38,82371,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,45.45,1,0,0,0,0.14,6,0.0,0,0,2,0,2,0,0,0,0.0,5,3,0,0,0,0.0,6.74,Franco Zapiola,franco-zapiola,97,1212545,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+1,44.44,1,0,0,0,0.04,2,50.0,0,1,0,0,1,0,0,0,0.0,4,0,0,1,0,0.0,6.74,Tomás O'Connor,tomas-oconnor,48,1117117,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,0.0,2,0,0,0,0.75,13,0.0,0,0,0,2,2,0,0,0,0.0,0,9,0,0,0,0.0,6.74,Sergio Barreto,sergio-barreto,103,915162,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,70.0,1,0,0,0,0.15,5,0.0,0,0,0,0,0,0,0,0,0.0,7,4,0,0,0,0.0,6.74,Damián Fernández,damian-fernandez,65,989201,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.74,Federico Lanzillota,federico-lanzillota,75,789923,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+3,51.61,3,1,0,0,2.22,16,18.75,0,0,3,1,9,1,0,2,100.0,16,4,1,3,1,0.0,6.74,Lucas Pratto,lucas-pratto,411,39244,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+2,20.0,1,0,0,0,1.36,9,22.22,0,1,4,3,5,0,0,1,0.0,1,3,0,2,0,0.0,6.74,Matías Suárez,matias-suarez,418,46007,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+1,65.71,8,0,0,0,1.72,29,3.45,0,0,1,1,6,0,0,0,0.0,46,15,0,1,1,0.0,6.74,Mateo Barcia,mateo-barcia,64,1116590,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,54.55,2,0,0,0,0.58,11,0.0,0,0,0,0,3,0,0,0,0.0,12,6,0,0,0,0.0,6.74,Ricardo Centurión,ricardo-centurion,254,249397,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,100.0,1,0,0,0,0.36,5,0.0,0,0,0,0,1,0,0,0,0.0,2,3,0,0,0,0.0,6.74,Felipe Aguilar,felipe-aguilar,195,329577,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,41.67,1,0,0,0,0.1,4,0.0,0,0,0,0,0,0,0,0,0.0,5,3,0,0,0,0.0,6.74,Franco Quinteros,franco-quinteros,17,926415,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.74,Bruno Palazzo,palazzo-bruno,8,1095779,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+1,45.83,1,0,1,1,1.44,20,5.0,0,0,3,1,4,0,0,0,0.0,11,15,0,0,1,0.0,6.74,Nicolás Sosa,nicolas-sosa,40,924943,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+1,63.64,4,0,0,0,0.89,16,6.25,1,0,1,0,4,0,0,1,0.0,21,8,0,1,0,0.0,6.74,Gabriel Rojas,gabriel-rojas,109,1387300,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,75.0,4,0,0,0,0.52,10,0.0,0,0,1,1,1,0,0,0,0.0,3,5,0,0,0,0.0,6.73,Felipe Sánchez,felipe-sanchez,56,1467314,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+1,62.07,7,0,0,0,4.09,40,2.5,0,0,9,6,14,2,0,1,0.0,18,19,0,1,0,0.0,6.73,Andrés Chávez,andres-chavez,93,239254,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+1,50.0,1,0,0,0,0.8,11,9.09,0,0,0,0,2,0,0,0,0.0,6,8,0,1,1,0.0,6.73,Rafael Pérez,rafael-perez,137,355846,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+1,50.0,0,0,0,0,0.38,2,50.0,0,0,1,0,1,0,0,0,0.0,2,1,0,1,1,0.0,6.73,Nicolás Contín,nicolas-contin,35,603758,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,61.54,2,0,0,0,0.4,12,0.0,0,0,3,0,4,0,0,0,0.0,8,6,0,0,0,0.0,6.73,Pier Barrios,pier-barrios,12,140103,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.73,Guido Villar,guido-villar,6,871807,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.73,Lucas Acosta,lucas-acosta,33,340845,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+1,58.33,5,0,1,0,0.57,12,8.33,0,0,0,0,3,0,0,0,0.0,7,4,0,0,1,0.0,6.73,Rodrigo Bogarín,rodrigo-bogarin,91,790065,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,30.0,1,0,0,0,0.19,5,0.0,0,0,0,0,1,0,0,0,0.0,3,3,0,0,0,0.0,6.73,Antonio Napolitano,antonio-napolitano,5,1103932,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,62.5,0,0,0,0,0.04,2,0.0,0,0,0,0,0,0,0,0,0.0,5,2,0,0,0,0.0,6.73,Willer Ditta,willer-ditta,265,931705,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+1,56.34,3,0,0,0,0.76,15,6.67,0,1,0,0,3,0,0,0,0.0,40,9,0,1,0,0.0,6.73,Adrián Spörle,adrian-sporle,25,838847,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+2,55.0,0,0,0,0,1.29,7,28.57,0,0,2,0,4,0,0,0,0.0,11,3,0,2,2,0.0,6.73,Raúl Loaiza,raul-loaiza,87,991270,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+1,50.0,3,0,0,1,1.43,7,14.29,0,0,0,1,3,0,0,0,0.0,13,1,0,1,1,0.0,6.73,Mauro Peinipil,peinipil-mauro,7,1118570,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,64.0,1,0,0,0,0.41,6,0.0,0,0,0,0,2,0,0,0,0.0,16,3,0,0,0,0.0,6.73,Iván Marcone,ivan-marcone,192,122634,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,39.47,2,0,0,2,0.74,14,0.0,1,0,1,0,7,0,0,0,0.0,15,5,0,0,0,0.0,6.73,Jonas Acevedo,jonas-acevedo,24,875895,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+1,88.89,4,0,0,0,0.48,14,7.14,0,0,0,0,2,0,0,0,0.0,16,8,0,1,1,0.0,6.73,Nicolás Linares,nicolas-linares,8,895321,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,66.67,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,6.73,Guillermo Balzi,guillermo-balzi,24,1117038,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+4,66.67,2,0,0,4,3.27,16,25.0,0,2,5,6,9,0,0,1,0.0,10,5,0,4,1,0.0,6.72,Leonardo Heredia,leonardo-heredia,62,895720,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,60.0,0,0,0,2,0.39,5,0.0,0,0,0,1,1,0,0,0,0.0,3,4,0,0,0,0.0,6.72,Tomás Avilés,tomas-aviles,602,1411695,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+1,68.75,0,0,0,0,0.47,3,33.33,0,0,0,2,2,0,0,0,0.0,11,1,0,1,1,0.0,6.72,Agustin Ojeda,agustin-ojeda,144,1191921,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+1,33.33,5,0,0,0,0.97,13,7.69,1,0,0,1,5,0,0,1,0.0,1,3,0,1,0,0.0,6.72,Luciano Aued,luciano-aued,51,37942,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+6,40.0,8,0,0,0,6.9,44,13.64,0,1,14,4,15,1,0,0,100.0,8,21,1,6,5,0.0,6.72,Nicolás Servetto,servetto-nicolas,67,838304,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,66.67,3,0,0,0,0.59,7,0.0,0,0,0,1,2,0,0,0,0.0,12,2,0,0,0,0.0,6.72,Leandro Mamut,leandro-mamut,9,1087092,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+1,14.29,1,0,0,0,1.63,9,11.11,1,0,4,3,4,0,0,0,0.0,1,4,0,1,1,0.0,6.72,Maxi Moralez,maxi-moralez,195,48472,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,62.5,1,0,0,0,0.55,7,0.0,0,0,3,0,2,0,0,0,0.0,5,4,0,0,0,0.0,6.72,Joaquín Novillo,joaquin-novillo,29,966531,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,40.0,0,0,0,0,0.16,2,0.0,0,0,1,0,1,0,0,0,0.0,6,1,0,0,0,0.0,6.72,Gonzalo Asis,gonzalo-asis,12,868363,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,80.77,1,0,0,1,0.43,10,0.0,2,0,0,0,1,0,0,0,0.0,21,8,0,0,0,0.0,6.72,Felipe Peña Biafore,felipe-pena-biafore,166,1065594,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+3,38.89,5,0,0,1,3.67,21,14.29,0,0,4,3,5,0,0,0,0.0,7,11,0,3,3,0.0,6.71,Darío Benedetto,dario-benedetto,1969,122630,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+1,23.53,3,0,0,0,0.37,9,11.11,0,0,0,0,1,0,0,0,0.0,4,5,0,1,1,0.0,6.71,Tiago Banega,tiago-banega,53,1016652,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,66.67,0,0,0,0,0.55,1,0.0,0,0,0,1,1,0,0,0,0.0,4,0,0,0,0,0.0,6.71,Nicolas Barrientos,barrientos-nicolas,5,1111801,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,52.38,5,0,0,0,0.27,11,0.0,0,0,1,0,2,0,0,0,0.0,22,4,0,0,0,0.0,6.71,Sebastián Corda,corda-sebastian,1,1093190,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+1,33.33,1,0,0,1,1.32,13,7.69,0,0,2,3,4,0,0,0,0.0,1,8,0,1,1,0.0,6.71,Juan Manuel García,juan-manuel-garcia,59,830755,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,66.67,2,0,0,0,0.43,9,0.0,1,0,0,0,3,0,0,0,0.0,2,4,0,0,0,0.0,6.71,Luis Miguel Rodríguez,luis-miguel-rodriguez,171,93199,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+4,46.15,6,0,0,1,4.86,30,13.33,0,2,4,5,12,0,0,1,0.0,6,12,0,4,1,0.0,6.71,Mauro Méndez,mauro-mendez,254,979827,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+1,57.14,4,0,0,2,2.81,23,4.35,0,1,4,2,5,0,0,0,0.0,12,14,0,1,0,0.0,6.71,José Florentín,jose-florentin,130,988619,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+0,52.94,5,0,0,0,1.34,13,0.0,0,0,7,0,0,0,0,0,0.0,36,8,0,0,0,0.0,6.71,Lucas Souto,lucas-souto,11,1020523,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+3,51.02,10,0,0,0,3.0,30,10.0,1,0,3,2,8,0,0,1,0.0,75,12,0,3,2,0.0,6.71,Lucas Besozzi,lucas-besozzi,319,1086339,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+0,64.29,0,1,0,0,1.05,5,0.0,0,0,1,1,2,1,0,0,0.0,9,3,0,0,0,0.0,6.71,José Herrera,jose-herrera,24,1179171,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,100.0,2,0,0,0,0.32,3,0.0,0,0,0,0,0,0,0,0,0.0,5,1,0,0,0,0.0,6.71,Joaquín Laso,joaquin-laso,42,789853,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.24,6,0.0,0,0,3,0,2,0,0,0,0.0,7,3,0,0,0,0.0,6.71,Ezequiel Cerutti,ezequiel-cerutti,69,340785,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+0,36.36,1,0,0,0,0.07,3,0.0,0,0,0,0,0,0,0,0,0.0,8,2,0,0,0,0.0,6.71,Christian Ordoñez,christian-ordonez,59,1201388,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+4,20.0,3,0,0,0,4.7,29,13.79,0,3,8,8,15,0,0,0,0.0,2,11,0,4,1,0.0,6.71,Maximiliano Romero,maximiliano-romero,351,792585,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,53.85,3,0,0,1,0.33,7,0.0,0,0,2,0,0,0,0,0,0.0,7,4,0,0,0,0.0,6.71,Rodrigo Herrera,rodrigo-herrera,14,1067815,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+5,39.13,4,1,0,1,3.79,28,17.86,0,0,10,5,14,1,0,5,0.0,18,10,0,5,0,0.0,6.7,Franco Troyansky,franco-troyansky,77,859990,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,58.82,1,0,0,0,0.43,7,0.0,0,0,0,0,2,0,0,0,0.0,10,4,0,0,0,0.0,6.7,Gonzalo Luján,gonzalo-lujan,46,1106584,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+3,56.25,6,0,0,0,1.76,25,12.0,0,2,0,2,6,0,0,0,0.0,45,13,0,3,1,0.0,6.7,Facundo Mater,facundo-mater,38,896753,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+3,41.46,4,0,0,0,2.9,29,10.34,0,1,1,4,12,0,0,1,0.0,17,13,0,3,1,0.0,6.7,Ronaldo Martinez,ronaldo-martinez,95,874452,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+3,37.5,6,0,0,0,1.5,19,15.79,0,0,5,1,5,0,0,1,0.0,12,8,0,3,2,0.0,6.7,Gabriel Gudiño,gabriel-gudino,16,849040,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+1,66.67,1,0,0,0,0.75,7,14.29,0,0,2,1,4,0,0,1,0.0,6,2,0,1,0,0.0,6.7,Enzo Kalinski,enzo-kalinski,8,249667,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+0,30.77,6,0,0,0,0.48,9,0.0,0,0,0,0,1,0,0,0,0.0,4,2,0,0,0,0.0,6.7,Pablo Piatti,pablo-piatti,121,33959,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,100.0,2,0,0,0,0.43,9,0.0,0,0,0,0,2,0,0,0,0.0,2,5,0,0,0,0.0,6.7,Emanuel Hernández,emanuel-hernandez,30,975816,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,70.83,6,0,0,0,0.29,11,0.0,1,0,1,0,0,0,0,0,0.0,17,5,0,0,0,0.0,6.7,Cristian Zabala,cristian-zabala,15,971172,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,57.14,1,0,0,0,0.58,10,0.0,2,0,0,0,3,0,0,0,0.0,8,6,0,0,0,0.0,6.7,Valentín Burgoa,valentin-burgoa,58,922466,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,66.67,0,0,0,0,0.05,2,0.0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0.0,6.7,Leonel Vangioni,leonel-vangioni,60,93186,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,83.33,2,0,0,0,0.04,2,0.0,0,0,0,0,0,0,0,0,0.0,5,0,0,0,0,0.0,6.7,Gian Nardelli,gian-nardelli,13,1084966,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.7,David Zalazar,david-zalazar,48,1017422,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.7,Gastón Gerzel,gaston-gerzel,16,1022261,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.7,Ijiel Cesar Protti,protti-ijiel-cesar,12,796999,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.7,Luis Garnier,luis-garnier,3,789407,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.7,Patricio Pernicone,patricio-pernicone,9,1086288,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+0,50.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,6.7,Raúl Lozano,raul-lozano,22,884971,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,100.0,1,0,0,0,0.39,8,0.0,0,0,0,0,0,0,0,0,0.0,4,7,0,0,0,0.0,6.7,Leonel Mosevich,leonel-mosevich,43,824157,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,62.5,1,0,0,1,1.67,11,0.0,0,0,3,3,4,0,0,0,0.0,15,6,0,0,0,0.0,6.69,Jeremías Pérez Tica,jeremias-perez-tica,42,1153982,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,57.14,2,0,0,0,0.31,6,0.0,0,0,0,0,0,0,0,0,0.0,4,4,0,0,0,0.0,6.69,Edgar Elizalde,edgar-elizalde,87,874565,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,66.67,0,0,0,0,0.04,2,0.0,0,0,0,0,2,0,0,0,0.0,2,0,0,0,0,0.0,6.69,Gastón Campi,gaston-campi,54,351824,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+0,50.0,4,0,0,0,0.34,11,0.0,0,0,0,1,1,0,0,0,0.0,4,6,0,0,0,0.0,6.69,Carlos Sánchez,carlos-sanchez,607,26995,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.1,5,0.0,0,0,0,0,0,0,0,0,0.0,8,5,0,0,0,0.0,6.69,Bruno Leyes,leyes-bruno,28,1130268,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,45.71,0,0,0,0,0.04,1,0.0,0,0,3,0,1,0,0,0,0.0,16,0,0,0,0,0.0,6.69,Tomás Guidara,tomas-guidara,50,871519,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+2,51.35,3,2,0,0,1.73,18,11.11,0,1,2,1,10,0,0,1,0.0,19,5,0,2,0,0.0,6.69,Damián Martínez,damian-martinez,25,38106,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+2,53.54,2,0,0,0,1.91,21,9.52,0,0,1,0,8,0,0,2,0.0,53,11,0,2,0,0.0,6.69,Brian Calderara,brian-calderara,25,1086937,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+1,75.0,2,0,0,0,2.24,18,5.56,0,1,2,2,7,0,0,0,0.0,6,9,0,1,0,0.0,6.69,Sebastián Sosa,sebastian-sosa,95,539238,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+1,33.33,1,0,0,0,0.33,5,20.0,0,0,0,0,3,0,0,0,0.0,1,1,0,1,1,0.0,6.68,Marcelo González,marcelo-gonzalez,38,924350,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.09,2,0.0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0.0,6.68,Juan Cruz Guasone,juan-cruz-guasone,32,1087028,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+3,61.9,5,0,1,0,1.58,11,27.27,3,0,1,0,3,0,0,3,0.0,26,3,0,2,0,0.0,6.68,Julián Fernández,julian-fernandez,483,1177433,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+1,100.0,0,0,0,0,0.12,2,50.0,0,0,0,0,2,0,0,0,0.0,1,0,0,1,1,0.0,6.68,Silvio Ulariaga,silvio-ulariaga,13,1086978,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,40.74,3,0,0,0,0.54,9,0.0,0,0,1,0,3,0,0,0,0.0,11,3,0,0,0,0.0,6.68,Marcelo Weigandt,marcelo-weigandt,251,962030,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,42.86,1,0,0,0,0.17,4,0.0,0,0,0,0,1,0,0,0,0.0,3,2,0,0,0,0.0,6.68,Christian Oliva,christian-oliva,183,923803,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,66.67,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,6.68,Cristian Núñez,cristian-nunez,32,991476,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+3,0.0,0,1,1,0,2.76,8,37.5,0,0,9,3,4,1,0,1,100.0,0,4,1,2,2,0.0,6.68,Juan Miritello,juan-miritello,24,1003721,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+2,32.14,8,0,0,0,1.61,22,9.09,0,2,0,1,6,0,0,0,0.0,9,8,0,2,0,0.0,6.68,Ivo Mammini,ivo-mammini,36,1087009,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,38.78,5,0,0,0,0.81,18,0.0,1,0,0,0,6,0,0,0,0.0,19,7,0,0,0,0.0,6.68,Matías Ramírez,matias-ramirez,24,897094,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,60.0,1,0,0,0,0.7,7,0.0,0,0,0,2,1,0,0,0,0.0,3,5,0,0,0,0.0,6.68,Nicolás Orsini,nicolas-orsini,101,347744,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.3,3,0.0,0,0,0,0,1,0,0,0,0.0,4,1,0,0,0,0.0,6.68,Julián Malatini,julian-malatini,50,1087043,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,66.67,3,0,0,0,0.22,6,0.0,0,0,0,0,0,0,0,0,0.0,4,3,0,0,0,0.0,6.68,Diego Vasquez,vasquez-diego,5,1390105,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+2,12.5,2,0,1,0,0.35,6,33.33,1,0,0,0,2,0,1,1,0.0,2,2,0,1,1,100.0,6.67,Thomas Galdames,thomas-galdames,260,852142,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,63.64,5,0,0,0,0.67,9,0.0,0,0,0,1,1,0,0,0,0.0,14,3,0,0,0,0.0,6.67,Eric Remedi,eric-remedi,71,796096,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+2,49.59,9,0,0,1,3.9,35,5.71,0,0,5,5,14,0,0,1,0.0,60,12,0,2,1,0.0,6.67,Santiago Pierotti,santiago-pierotti,129,984998,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,27.27,2,0,0,0,0.5,9,0.0,0,0,0,0,3,0,0,0,0.0,3,4,0,0,0,0.0,6.67,Ezequiel Cañete,ezequiel-canete,77,1017455,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+2,47.3,20,0,0,0,2.52,41,4.88,0,0,15,3,12,0,0,1,0.0,35,9,0,2,1,0.0,6.67,Ivan Leguizamon,ivan-leguizamon,156,1161823,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+2,44.44,2,0,0,0,2.49,12,16.67,0,1,0,3,5,0,0,1,0.0,4,5,0,2,0,0.0,6.67,José Romero,jose-romero,24,1018418,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+1,80.0,3,0,1,0,0.12,5,20.0,0,0,0,0,1,0,0,0,0.0,12,1,0,0,1,0.0,6.67,Lisandro Montenegro,lisandro-montenegro,24,1466810,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,54.1,4,0,0,0,0.85,13,0.0,0,0,1,0,2,0,0,0,0.0,33,7,0,0,0,0.0,6.67,Federico Vera,federico-vera,26,981338,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,83.33,2,0,0,0,0.64,8,0.0,0,0,0,1,1,0,0,0,0.0,5,5,0,0,0,0.0,6.67,Facundo Cardozo,facundo-cardozo,5,155701,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,66.67,1,0,0,0,0.17,3,0.0,0,0,0,0,0,0,0,0,0.0,6,2,0,0,0,0.0,6.67,Luciano Sánchez,luciano-sanchez,228,933158,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,80.0,0,0,0,0,0.07,1,0.0,0,0,2,0,1,0,0,0,0.0,8,0,0,0,0,0.0,6.67,Mariano Miño,mariano-mino,7,932714,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,66.67,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,6.67,Kevin Quejada,kevin-quejada,20,1177557,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,28.57,3,1,0,0,0.49,6,0.0,0,0,2,1,1,0,0,0,0.0,6,2,0,0,0,0.0,6.67,Lucas Brochero,lucas-brochero,36,1084971,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+1,57.14,3,0,1,0,0.2,5,20.0,0,0,0,0,2,0,0,0,0.0,4,0,0,0,1,0.0,6.66,Roberto Bochi,roberto-bochi,3,897138,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,65.22,1,0,0,0,0.11,1,0.0,0,0,0,0,0,0,0,0,0.0,15,0,0,0,0,0.0,6.66,Ismael Cortez,ismael-cortez,24,1194768,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.36,4,0.0,0,0,0,0,1,0,0,0,0.0,1,2,0,0,0,0.0,6.66,Lautaro Ríos,lautaro-rios,12,1087089,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.2,3,0.0,0,0,0,0,1,0,0,0,0.0,0,2,0,0,0,0.0,6.66,Yonatan Cabral,yonatan-cabral,11,385318,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,44.44,0,0,0,0,0.02,1,0.0,0,0,0,0,0,0,0,0,0.0,4,1,0,0,0,0.0,6.66,Pedro Souto,souto-pedro,20,1109640,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+1,75.0,0,0,1,0,0.13,2,50.0,1,0,0,0,2,0,0,1,0.0,6,0,0,0,0,0.0,6.66,Andrew Teuten,andrew-teuten,40,924766,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+3,36.17,4,0,0,0,2.26,22,13.64,0,0,7,3,9,0,0,0,0.0,17,9,0,3,3,0.0,6.66,Jeronimo Domina,domina-jeronimo,177,1200744,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+2,66.67,2,0,0,0,1.73,9,22.22,1,1,6,0,2,0,0,1,0.0,4,5,0,2,0,0.0,6.66,Enzo Larrosa,larrosa-enzo,57,1089286,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,44.44,6,0,0,0,0.71,13,0.0,0,0,0,0,3,0,0,0,0.0,8,4,0,0,0,0.0,6.66,Martín Sarrafiore,martin-sarrafiore,157,789677,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+2,46.15,3,3,0,0,,10,20.0,0,0,5,0,5,2,0,0,100.0,12,2,2,2,2,0.0,6.66,Juan Bizans,bizans-juan,34,1104322,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+0,64.29,1,0,0,0,0.07,3,0.0,1,0,0,0,0,0,0,0,0.0,9,2,0,0,0,0.0,6.66,Juan Andrada,juan-andrada,12,848616,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,64.29,2,0,0,0,1.02,10,0.0,0,0,0,2,3,0,0,0,0.0,9,5,0,0,0,0.0,6.66,Braian Rivero,braian-rivero,28,817519,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,75.0,1,0,0,0,0.09,3,0.0,0,0,0,0,0,0,0,0,0.0,3,2,0,0,0,0.0,6.66,Ignacio Gariglio,ignacio-gariglio,15,1087004,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+1,50.0,1,0,0,0,0.95,5,20.0,0,0,0,0,2,0,0,0,0.0,1,2,0,1,1,0.0,6.66,Joaquin Pombo,pombo-joaquin,21,1096251,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,29.41,1,0,0,0,0.18,4,0.0,0,0,0,0,0,0,0,0,0.0,5,3,0,0,0,0.0,6.65,Juan Ramírez,juan-ramirez,156,174961,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+1,77.78,1,0,0,0,1.22,11,9.09,0,0,0,0,1,0,0,1,0.0,14,9,0,1,0,0.0,6.65,Juan Portillo,juan-portillo,90,1087037,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+1,55.0,4,1,0,1,4.03,19,5.26,0,0,9,5,8,1,0,0,0.0,11,7,0,1,1,0.0,6.65,Facundo Castelli,castelli-facundo,21,895229,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+1,35.29,4,0,0,0,1.23,15,6.67,0,0,2,1,5,0,0,0,0.0,6,6,0,1,1,0.0,6.65,Franco Jara,franco-jara,104,40776,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+1,27.78,1,0,1,0,0.12,7,14.29,0,0,0,0,2,0,0,1,0.0,5,4,0,0,0,0.0,6.65,Lucas Diarte,lucas-diarte,16,332777,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,64.29,5,2,0,0,1.75,11,0.0,0,0,1,3,2,0,0,0,0.0,9,4,0,0,0,0.0,6.65,Lautaro Acosta,lautaro-acosta,47,33256,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,47.62,2,0,0,0,0.92,10,0.0,0,0,1,1,4,0,0,0,0.0,10,4,0,0,0,0.0,6.65,Alexis Steimbach,alexis-steimbach,18,1394058,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,50.0,0,0,0,0,0.13,6,0.0,0,0,0,0,0,0,0,0,0.0,1,6,0,0,0,0.0,6.65,Agustin Toledo,toledo-agustin,25,1115981,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,44.44,0,0,0,0,0.09,2,0.0,0,0,0,0,0,0,0,0,0.0,4,2,0,0,0,0.0,6.65,Tomás Pozzo,tomas-pozzo,69,1086963,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,1,0.05,1,0.0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0.0,6.65,Mariano Meynier,meynier-mariano,6,1512353,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.04,1,0.0,1,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0.0,6.65,Gonzalo Silva,gonzalo-silva,3,1463731,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.03,1,0.0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0.0,6.65,Julio Buffarini,julio-buffarini,124,249657,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.65,Lautaro Cerato,cerato-lautaro,8,1508530,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.65,Favio Álvarez,favio-alvarez,56,789695,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,50.0,2,0,0,0,0.28,5,0.0,0,0,1,0,0,0,0,0,0.0,3,3,0,0,0,0.0,6.65,Alan Franco,alan-franco,599,822729,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+2,48.28,4,1,0,0,2.66,19,10.53,0,1,3,5,10,1,0,0,0.0,14,5,0,2,1,0.0,6.65,Jorge Benítez,jorge-benitez,83,126570,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+1,50.0,1,0,0,0,0.47,7,14.29,0,0,2,0,4,0,0,0,0.0,13,2,0,1,1,0.0,6.65,Norberto Briasco,norberto-briasco,310,848619,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,41.67,0,0,0,1,0.22,3,0.0,0,0,3,0,2,0,0,0,0.0,5,1,0,0,0,0.0,6.65,Máximiliano Rodríguez,maximiliano-rodriguez,1,992107,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.02,0,0.0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,6.64,Fernando Godoy,fernando-godoy,14,122614,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+2,47.83,6,0,0,1,2.77,25,8.0,0,0,4,1,8,1,0,0,100.0,11,11,1,2,2,0.0,6.64,Facundo Pons,facundo-pons,18,947212,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+1,67.44,2,0,0,0,1.77,14,7.14,0,0,4,3,3,0,0,0,0.0,29,9,0,1,1,0.0,6.64,Walter Mazzantti,walter-mazzantti,40,861339,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.39,6,0.0,0,0,0,0,2,0,0,0,0.0,1,3,0,0,0,0.0,6.64,Agustín Alonso,agustin-alonso,4,1182395,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,0.0,2,1,0,0,0.36,4,0.0,0,0,2,0,2,0,0,0,0.0,0,0,0,0,0,0.0,6.64,Santiago Paiva,santiago-paiva,27,924981,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,0.0,3,0,0,0,0.97,14,0.0,0,0,4,1,2,0,0,0,0.0,0,9,0,0,0,0.0,6.64,Thiago Vecino,thiago-vecino,112,923802,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,52.63,1,0,0,1,0.2,4,0.0,2,0,0,0,0,0,0,0,0.0,10,3,0,0,0,0.0,6.64,Mauricio Cuero,mauricio-cuero,108,249081,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.16,2,0.0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,0.0,6.64,Agustín Mulet,agustin-mulet,57,1093121,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.1,2,0.0,0,0,1,0,2,0,0,0,0.0,4,0,0,0,0,0.0,6.64,Joaquin Susvielles,susvielles-joaquin,10,1110018,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,80.0,0,0,0,0,0.09,3,0.0,0,0,0,0,1,0,0,0,0.0,8,2,0,0,0,0.0,6.64,Ignacio Méndez,ignacio-mendez,65,881170,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+0,0.0,1,0,0,0,0.24,6,0.0,0,0,0,0,2,0,0,0,0.0,0,3,0,0,0,0.0,6.64,Gastón Sauro,gaston-sauro,21,47667,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+1,45.45,1,0,0,0,0.36,4,25.0,0,0,1,0,2,0,0,1,0.0,5,1,0,1,0,0.0,6.64,Guillermo Pereira,guillermo-pereira,11,971214,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+2,27.78,2,1,0,0,1.88,8,25.0,0,0,0,1,4,0,0,1,0.0,5,2,0,2,1,0.0,6.63,Facundo Mura,facundo-mura,167,974664,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+2,0.0,4,1,0,0,2.32,20,10.0,0,1,5,3,8,0,0,1,0.0,0,8,0,2,0,0.0,6.63,Tomás Badaloni,tomas-badaloni,104,927212,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+1,56.0,2,0,0,0,1.17,17,5.88,0,0,6,0,5,0,0,0,0.0,14,10,0,1,1,0.0,6.63,Ciro Rius,ciro-rius,14,122642,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+0,57.14,0,0,0,1,0.37,6,0.0,0,0,1,1,3,0,0,0,0.0,12,3,0,0,0,0.0,6.63,Martín Ortega,martin-ortega,12,1020498,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,77.78,0,0,0,0,0.46,3,0.0,0,0,0,2,3,0,0,0,0.0,7,0,0,0,0,0.0,6.63,Daniel Barrea,barrea-daniel,23,1183778,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.43,5,0.0,0,0,0,1,2,0,0,0,0.0,1,2,0,0,0,0.0,6.63,Justo Giani,justo-giani,49,932866,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,60.0,1,0,0,0,0.04,1,0.0,1,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,6.63,Rodrigo Atencio,atencio-rodrigo,7,1199246,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+3,33.96,9,0,0,0,5.44,43,6.98,0,2,11,7,13,0,0,0,0.0,18,21,0,3,1,0.0,6.63,Blas Armoa,blas-armoa,196,883217,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+1,51.16,3,0,0,0,1.93,22,4.55,1,0,6,4,8,0,0,0,0.0,22,11,0,1,1,0.0,6.63,Ramiro Ruiz Rodríguez,ramiro-ruiz-rodriguez,32,935094,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+5,32.61,12,0,2,1,4.67,42,11.9,3,1,13,5,17,2,1,0,50.0,15,13,1,3,4,33.33,6.63,Cristian Tarragona,cristian-tarragona,105,830717,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,38.46,4,0,0,1,0.82,19,0.0,2,0,1,0,6,0,0,0,0.0,15,9,0,0,0,0.0,6.63,Carlos Arrua,arrua-carlos,43,975210,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,70.0,0,0,0,0,0.03,1,0.0,0,0,0,0,0,0,0,0,0.0,14,1,0,0,0,0.0,6.63,Gonzalo Muscia,gonzalo-muscia,11,1117037,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+1,42.86,4,0,0,0,2.39,20,5.0,2,0,9,3,3,0,0,0,0.0,6,13,0,1,1,0.0,6.63,Paolo Guerrero,paolo-guerrero,3936,338,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+1,50.0,3,0,0,0,0.73,14,7.14,0,0,2,1,3,0,0,0,0.0,13,8,0,1,1,0.0,6.63,Maximiliano Zalazar,maximiliano-zalazar,95,1067653,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,62.5,0,0,0,0,0.22,2,0.0,0,0,1,0,1,0,0,0,0.0,10,1,0,0,0,0.0,6.63,Geronimo Rivera,rivera-geronimo,102,1498863,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+0,31.25,2,0,0,0,0.15,5,0.0,0,0,0,0,1,0,0,0,0.0,5,2,0,0,0,0.0,6.63,Ezequiel Forclaz,ezequiel-forclaz,24,1179213,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,56.86,3,0,0,0,1.1,8,0.0,0,0,9,1,0,0,0,0,0.0,29,5,0,0,0,0.0,6.63,Johan Carbonero,carbonero-johan,337,925125,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,66.67,0,0,0,0,0.1,1,0.0,0,0,0,0,1,0,0,0,0.0,2,0,0,0,0,0.0,6.63,Damián Pérez,damian-perez,31,39697,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,52.78,5,0,0,0,0.93,16,0.0,0,0,0,1,5,0,0,0,0.0,19,6,0,0,0,0.0,6.63,Renzo Tesuri,renzo-tesuri,14,897044,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+1,50.0,2,0,0,0,0.13,3,33.33,0,1,0,0,1,0,0,0,0.0,1,0,0,1,0,0.0,6.62,Julián Eseiza,julian-eseiza,5,1113237,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+2,100.0,0,0,0,0,1.62,4,50.0,0,1,0,2,3,0,0,1,0.0,1,1,0,2,0,0.0,6.62,Joaquin Varela,joaquin-varela,40,805213,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,75.0,1,0,0,0,0.08,3,0.0,0,0,0,0,1,0,0,0,0.0,3,1,0,0,0,0.0,6.62,Agostino Spina,agostino-spina,27,1103068,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,42.86,0,0,0,0,0.07,2,0.0,0,0,0,0,2,0,0,0,0.0,3,0,0,0,0,0.0,6.62,Elías Gómez,elias-gomez,99,365862,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,54.55,0,0,0,0,0.04,1,0.0,0,0,1,0,0,0,0,0,0.0,6,1,0,0,0,0.0,6.62,Guido Mainero,guido-mainero,22,895232,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+2,25.0,1,0,0,0,2.46,6,33.33,0,0,2,1,3,2,0,0,100.0,1,2,2,2,2,0.0,6.62,José Sand,jose-sand,173,33252,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+1,51.02,1,0,1,1,0.35,7,14.29,0,0,1,1,2,0,0,1,0.0,25,4,0,0,0,0.0,6.62,Valentín Barco,valentin-barco,2761,1127057,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,80.0,2,0,0,0,0.16,6,0.0,0,0,1,0,2,0,0,0,0.0,8,2,0,0,0,0.0,6.61,Juan Infante,juan-infante,5,941542,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,48.15,7,1,0,0,0.69,17,0.0,1,0,1,0,5,0,0,0,0.0,13,5,0,0,0,0.0,6.61,Lucas Colitto,lucas-colitto,6,586956,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+3,47.06,2,0,0,0,2.8,15,20.0,1,0,8,2,7,0,0,0,0.0,8,6,0,3,3,0.0,6.61,Luís Leal,luis-leal,111,128464,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,20.0,0,0,0,0,0.34,3,0.0,1,0,0,0,1,0,0,0,0.0,1,2,0,0,0,0.0,6.61,Fabián Bordagaray,fabian-bordagaray,15,79688,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,75.0,0,0,0,0,0.03,0,0.0,0,0,0,0,0,0,0,0,0.0,6,0,0,0,0,0.0,6.61,Francisco Perruzzi,francisco-perruzzi,31,1116658,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+0,50.0,2,0,0,0,0.4,8,0.0,0,0,1,0,1,0,0,0,0.0,4,5,0,0,0,0.0,6.61,Lucas Albertengo,lucas-albertengo,14,248105,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+2,61.54,10,0,0,1,2.88,26,7.69,1,0,2,1,14,1,0,2,100.0,32,2,1,2,0,0.0,6.61,Manuel Mónaco,manuel-monaco,24,1179175,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,46.15,2,0,0,0,0.45,8,0.0,1,0,0,1,0,0,0,0,0.0,6,6,0,0,0,0.0,6.61,Lenny Lobato,lenny-lobato,66,1104316,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+2,57.14,7,0,0,1,3.52,30,6.67,1,0,0,2,8,0,0,2,0.0,36,15,0,2,0,0.0,6.61,José Paradela,jose-paradela,202,944623,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,50.0,2,0,0,0,0.29,4,0.0,0,0,0,0,1,0,0,0,0.0,3,1,0,0,0,0.0,6.6,Julián Fernández,julian-fernandez,28,334027,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+4,40.0,5,0,0,0,3.38,29,13.79,2,2,6,6,10,1,0,1,100.0,14,14,1,4,1,0.0,6.6,Lucas Janson,lucas-janson,408,249843,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+1,50.0,3,1,0,0,0.79,11,9.09,0,0,1,1,4,0,0,0,0.0,19,4,0,1,1,0.0,6.6,Alan Cantero,alan-cantero,10,1084961,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,40.91,5,1,0,0,1.91,22,0.0,1,0,2,4,4,0,0,0,0.0,18,13,0,0,0,0.0,6.6,Braian Cuello,braian-cuello,8,896722,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,43.75,3,0,0,0,0.53,9,0.0,2,0,2,0,1,0,0,0,0.0,14,5,0,0,0,0.0,6.6,Tomás Muro,tomas-muro,40,1086967,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,37.5,0,0,0,0,0.07,2,0.0,0,0,0,0,0,0,0,0,0.0,3,2,0,0,0,0.0,6.6,Claudio Echeverri,echeverri-claudio,4790,1482424,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,25.0,3,0,0,0,1.24,17,0.0,0,0,8,1,4,0,0,0,0.0,3,10,0,0,0,0.0,6.6,Ibrahim Hesar,ibrahim-hesar,80,981453,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,55.17,4,0,0,0,0.73,13,0.0,1,0,0,0,3,0,0,0,0.0,16,6,0,0,0,0.0,6.6,Matias Gomez,gomez-matias,12,1432630,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,66.67,0,0,0,0,0.6,7,0.0,0,0,0,0,0,0,0,0,0.0,2,7,0,0,0,0.0,6.6,Mateo Pellegrino,pellegrino-mateo,82,1099296,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,55.81,5,0,0,0,0.38,11,0.0,0,0,1,0,2,0,0,0,0.0,24,4,0,0,0,0.0,6.6,Julián López,julian-lopez,86,922455,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.22,1,0.0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0.0,6.6,Manuel Brondo,brondo-manuel,1,1464531,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,33.33,0,0,0,0,0.19,4,0.0,0,0,0,0,1,0,0,0,0.0,1,3,0,0,0,0.0,6.6,Enzo Luna,enzo-luna,14,1385677,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,75.0,0,0,0,0,0.17,4,0.0,0,0,0,0,2,0,0,0,0.0,3,2,0,0,0,0.0,6.6,Ramon Cansinos,cansinos-ramon,1,1386653,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.16,3,0.0,0,0,0,0,1,0,0,0,0.0,1,2,0,0,0,0.0,6.6,Ayrton Cougo,ayrton-cougo,43,873716,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.12,1,0.0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,6.6,Alejandro Piedrahita,alejandro-piedrahita,49,1016200,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+0,33.33,1,0,0,0,0.09,3,0.0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0.0,6.6,Alan Di Pippa,alan-di-pippa,7,1184978,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+0,66.67,1,0,0,0,0.08,2,0.0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,0.0,6.6,Lucas López,lucas-lopez,1,989515,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,20.0,1,0,0,0,0.07,3,0.0,0,0,0,0,2,0,0,0,0.0,1,0,0,0,0,0.0,6.6,Mariano Bittolo,mariano-bittolo,29,129517,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.05,1,0.0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0.0,6.6,Ramiro Matias Degregorio,degregorio-ramiro-matias,2,1489956,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.04,1,0.0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0.0,6.6,Javier Morales,morales-javier,307,1410399,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.04,1,0.0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0.0,6.6,Mateo Sanabria,mateo-sanabria,141,1182233,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,33.33,0,0,0,0,0.03,1,0.0,0,0,0,0,1,0,0,0,0.0,2,0,0,0,0,0.0,6.6,Héctor Fértoli,hector-fertoli,52,831608,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,0.0,1,0,0,0,0.03,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.6,Dylan Aquino,aquino-dylan,12,1501702,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.02,1,0.0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0.0,6.6,David Martínez,david-martinez,324,909479,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.6,Brandon Cortés,brandon-cortes,148,980767,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.6,Mariano Peralta Bauer,mariano-peralta-bauer,24,1018441,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.6,Nelson Insfrán,nelson-insfran,10,875481,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,25.0,0,0,0,0,0.0,0,0.0,0,0,1,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.6,Federico Versaci,federico-versaci,32,1017431,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.6,Ignacio Arce,ignacio-arce,15,896998,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,75.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,6.6,Luis Sequeira,luis-sequeira,43,980759,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+2,44.44,2,0,0,3,3.06,27,7.41,1,1,12,6,11,0,0,0,0.0,12,14,0,2,1,0.0,6.6,Flabian Londoño,flabian-londono,148,1116627,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,64.71,3,0,0,0,0.42,8,0.0,0,0,0,0,0,0,0,0,0.0,11,5,0,0,0,0.0,6.59,Tomás Escalante,tomas-escalante,17,1017377,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,56.52,6,1,0,0,0.39,13,0.0,1,0,2,0,1,0,0,0,0.0,13,6,0,0,0,0.0,6.59,Braian Guille,braian-guille,22,873642,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,75.0,2,0,0,0,1.04,12,0.0,0,0,1,2,4,0,0,0,0.0,12,6,0,0,0,0.0,6.59,Gonzalo Flores,gonzalo-flores,15,974690,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,77.78,1,0,0,0,0.35,5,0.0,0,0,2,0,0,0,0,0,0.0,7,4,0,0,0,0.0,6.59,Santiago Hidalgo,santiago-hidalgo,87,1199247,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,50.0,3,0,0,0,0.14,6,0.0,0,0,0,0,0,0,0,0,0.0,2,3,0,0,0,0.0,6.59,Stefano Moreyra,stefano-moreyra,12,1086973,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+1,35.71,0,0,0,0,0.75,12,8.33,0,1,2,2,5,0,0,0,0.0,5,7,0,1,0,0.0,6.59,Natanael Troncoso,natanael-troncoso,4,1199316,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,43.75,1,0,0,0,0.09,4,0.0,0,0,0,0,0,0,0,0,0.0,7,3,0,0,0,0.0,6.59,Elián Irala,elian-irala,34,1385756,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+0,75.0,3,0,0,0,0.24,3,0.0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,6.59,Gonzalo Castellani,gonzalo-castellani,29,1017184,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.13,4,0.0,0,0,0,0,0,0,0,0,0.0,1,3,0,0,0,0.0,6.59,Julián Navas Granados,julian-navas-granados,3,933157,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.07,1,0.0,0,0,2,0,0,0,0,0,0.0,3,0,0,0,0,0.0,6.59,Óscar Opazo,oscar-opazo,170,805175,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+1,75.0,0,0,0,0,1.07,5,20.0,0,0,2,1,3,0,0,0,0.0,6,2,0,1,1,0.0,6.58,Jesús Miguel Soraire,jesus-miguel-soraire,7,943997,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+0,25.0,1,1,0,0,1.09,6,0.0,0,0,2,3,2,0,0,0,0.0,1,3,0,0,0,0.0,6.58,Facundo Ferreyra,facundo-ferreyra,247,129724,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,40.0,0,0,0,0,0.06,2,0.0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0.0,6.58,Sebastián Medina,sebastian-medina,16,1177719,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.03,1,0.0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,6.58,Esteban Rolón,esteban-rolon,112,816808,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,51.85,2,0,0,1,0.52,9,0.0,0,0,1,1,1,0,0,0,0.0,14,6,0,0,0,0.0,6.58,Alan Sosa,sosa-alan,10,1467315,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,50.0,2,0,0,0,0.12,4,0.0,0,0,0,0,0,0,0,0,0.0,2,2,0,0,0,0.0,6.58,Joaquin Mosqueira,mosqueira-joaquin,30,1464852,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.04,1,0.0,0,0,1,0,0,0,0,0,0.0,0,1,0,0,0,0.0,6.58,Mateo Pérez,mateo-perez,5,1112348,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+0,64.71,3,0,0,0,0.45,12,0.0,0,0,0,0,2,0,0,0,0.0,11,7,0,0,0,0.0,6.58,Ulises Ortegoza,ulises-ortegoza,20,1169586,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,25.0,1,0,0,0,0.19,3,0.0,1,0,1,1,0,0,0,0,0.0,1,2,0,0,0,0.0,6.58,Santiago Lujan,lujan-santiago,11,1087512,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.58,Lautaro Morales,lautaro-morales,146,989206,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+1,46.15,1,0,0,0,1.3,9,11.11,0,0,2,3,5,0,0,0,0.0,6,3,0,1,1,0.0,6.58,Luis Vázquez,luis-vazquez,842,974713,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,66.67,2,0,0,0,0.14,2,0.0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,6.58,Leandro Ciccoloni,leandro-ciccoloni,9,896937,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.58,Javier García,javier-garcia,132,31967,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+2,50.96,4,0,0,1,1.86,26,7.69,0,0,5,4,10,0,0,2,0.0,53,12,0,2,0,0.0,6.57,Benjamín Domínguez,benjamin-dominguez,270,1162611,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,50.0,0,0,0,0,0.02,1,0.0,0,0,0,0,1,0,0,0,0.0,1,0,0,0,0,0.0,6.57,Nicolás Garayalde,nicolas-garayalde,119,1017450,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+0,50.0,2,0,0,0,0.09,5,0.0,0,0,0,0,1,0,0,0,0.0,4,2,0,0,0,0.0,6.57,Agustín Sanchez,agustin-sanchez,15,1485375,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.57,Santino Vera,vera-santino,63,1485505,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.57,Sebastián Cocimano,sebastian-cocimano,11,1018462,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,25.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.56,Nicolás Pasquini,nicolas-pasquini,20,295161,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+1,49.18,8,0,0,2,6.0,36,2.78,0,0,4,11,14,0,0,1,0.0,30,14,0,1,0,0.0,6.56,Gabriel Alanis,gabriel-alanis,11,609736,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,66.67,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,6,0,0,0,0,0.0,6.56,Catriel Cabellos,cabellos-catriel,286,1415942,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,50.0,0,1,0,0,0.03,1,0.0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,0.0,6.56,Diego Barrera,barrera-diego,21,1462243,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,42.86,2,0,0,0,0.26,9,0.0,0,0,1,0,1,0,0,0,0.0,3,6,0,0,0,0.0,6.56,Brian Blasi,brian-blasi,5,824516,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+0,40.0,0,0,0,0,0.09,2,0.0,0,0,0,0,1,0,0,0,0.0,2,1,0,0,0,0.0,6.56,Tomas Sives,sives-tomas,4,1385660,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+1,0.0,1,0,0,1,1.51,7,14.29,0,0,1,2,3,0,0,0,0.0,0,3,0,1,1,0.0,6.56,Juan Garro,juan-garro,21,250339,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,30.0,1,0,0,0,0.21,2,0.0,0,0,0,0,0,0,0,0,0.0,3,1,0,0,0,0.0,6.56,Oscar Garrido,oscar-garrido,1,992978,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.03,1,0.0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,6.56,Matías Vera,matias-vera,49,793850,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+1,44.12,3,0,0,0,1.03,14,7.14,0,0,4,1,3,0,0,1,0.0,15,8,0,1,0,0.0,6.56,Santiago Castro,santiago-castro,445,1116577,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+1,33.33,4,0,1,2,2.39,16,6.25,0,0,0,1,3,0,0,1,0.0,3,9,0,0,0,0.0,6.55,Axel Rodriguez,axel-rodriguez,14,814225,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+1,53.45,9,0,1,0,1.04,24,4.17,0,0,4,0,6,0,0,0,0.0,31,9,0,0,1,0.0,6.55,Juan Álvarez,juan-alvarez,30,881912,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+1,46.0,9,0,0,2,2.13,29,3.45,2,0,3,5,9,0,0,1,0.0,23,11,0,1,0,0.0,6.55,Javier Vallejo,javier-vallejo,103,1199242,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,53.33,2,0,0,0,0.38,4,0.0,0,0,2,0,1,0,0,0,0.0,8,1,0,0,0,0.0,6.55,Matías Romero,matias-romero,9,941096,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.21,1,0.0,0,0,1,0,0,0,0,0,0.0,0,1,0,0,0,0.0,6.55,Santiago Ramos Mingo,ramos-mingo-santiago,521,989843,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.18,1,0.0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0.0,6.55,Nicolas Palavecino,palavecino-nicolas,106,1131305,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,58.06,0,0,0,0,0.08,1,0.0,0,0,0,0,0,0,0,0,0.0,18,1,0,0,0,0.0,6.55,Rodrigo Márquez,rodrigo-marquez,84,1086993,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.55,Manuel Insaurralde,manuel-insaurralde,33,960297,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.55,Diego Mastrangelo,mastrangelo-diego,10,1085930,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+1,52.63,4,0,1,0,0.66,9,11.11,0,0,1,1,3,0,0,0,0.0,10,2,0,0,1,0.0,6.55,Franco Torres,franco-torres,11,1129432,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+2,22.22,4,0,0,0,1.66,22,9.09,0,0,0,0,8,0,0,1,0.0,4,10,0,2,1,0.0,6.55,Franco Baldassarra,franco-baldassarra,23,981340,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,33.33,4,0,0,0,0.47,16,0.0,0,0,0,0,3,0,0,0,0.0,4,9,0,0,0,0.0,6.55,Giuliano Cerato,cerato-giuliano,6,1183795,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,71.43,1,0,0,0,0.09,2,0.0,0,0,0,0,0,0,0,0,0.0,5,1,0,0,0,0.0,6.54,Santiago Simón,santiago-simon,605,1091058,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+1,47.37,4,0,0,0,1.52,16,6.25,0,1,5,3,6,0,0,0,0.0,9,6,0,1,0,0.0,6.54,Alexis Domínguez,alexis-dominguez,17,879625,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,0.0,3,0,0,0,0.18,7,0.0,1,0,0,0,0,0,0,0,0.0,0,4,0,0,0,0.0,6.54,Jerónimo Cacciabue,jeronimo-cacciabue,86,922458,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,66.67,0,0,0,0,0.02,1,0.0,0,0,1,0,0,0,0,0,0.0,2,1,0,0,0,0.0,6.54,Juan Peinipil,juan-peinipil,8,1117060,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,42.86,2,1,0,0,0.48,10,0.0,0,0,0,1,5,0,0,0,0.0,9,3,0,0,0,0.0,6.54,Iván Ortigoza,ivan-ortigoza,4,1092303,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,26.67,0,0,0,0,0.21,3,0.0,0,0,4,0,0,0,0,0,0.0,4,3,0,0,0,0.0,6.54,Juan Kaprof,juan-kaprof,18,341101,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,25.0,5,0,0,0,0.4,11,0.0,0,0,0,1,2,0,0,0,0.0,2,4,0,0,0,0.0,6.54,Agustín Bolívar,agustin-bolivar,7,895347,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+2,38.18,10,1,0,0,1.93,24,8.33,0,0,0,1,6,0,0,1,0.0,21,8,0,2,1,0.0,6.54,Braian Martínez,braian-martinez,46,1020255,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,50.0,3,0,0,1,0.49,7,0.0,1,0,1,1,0,0,0,0,0.0,24,4,0,0,0,0.0,6.53,Valentin Depietri,depietri-valentin,129,1092322,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,70.0,0,0,0,0,0.26,4,0.0,0,0,0,0,0,0,0,0,0.0,7,4,0,0,0,0.0,6.53,Leonel González,leonel-gonzalez,13,365990,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,47.83,0,0,0,0,0.22,3,0.0,0,0,3,0,1,0,0,0,0.0,11,2,0,0,0,0.0,6.53,Emiliano Saliadarre,saliadarre-emiliano,21,1406311,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,0.0,1,0,0,0,0.1,3,0.0,0,0,1,0,0,0,0,0,0.0,0,2,0,0,0,0.0,6.53,Maximiliano Alvez,maximiliano-alvez,26,1087026,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,50.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.53,Moisés Brandán,moises-brandan,2,1162052,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,60.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,6.53,Matías Kranevitter,matias-kranevitter,242,295159,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,0.0,1,0,0,0,0.06,2,0.0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0.0,6.53,Mateo Seoane,seoane-mateo,109,1186698,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+0,35.71,1,0,0,0,0.73,5,0.0,0,0,0,2,3,0,0,0,0.0,5,1,0,0,0,0.0,6.53,Daniel Lucero,lucero-daniel,17,1201112,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,66.67,1,0,0,0,0.17,8,0.0,1,0,0,0,3,0,0,0,0.0,8,4,0,0,0,0.0,6.53,Alexis Sabella,alexis-sabella,42,1018383,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+1,100.0,0,0,0,0,1.0,4,25.0,0,0,5,2,4,0,0,1,0.0,1,0,0,1,0,0.0,6.53,Nicolás Blandi,nicolas-blandi,65,128211,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+1,0.0,1,0,0,0,0.13,2,50.0,0,1,0,0,1,0,0,0,0.0,0,0,0,1,0,0.0,6.53,Ezequiel Parnisiari,ezequiel-parnisiari,8,340013,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,0.0,2,0,0,0,0.25,5,0.0,1,0,0,0,1,0,0,0,0.0,0,2,0,0,0,0.0,6.53,Jonathan Bay,jonathan-bay,12,789358,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,41.94,3,1,0,1,0.54,8,0.0,0,0,2,0,1,0,0,0,0.0,13,4,0,0,0,0.0,6.52,Ignacio Rodríguez,ignacio-rodriguez,33,1113236,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+0,41.18,2,0,0,0,0.25,8,0.0,0,0,0,0,3,0,0,0,0.0,7,3,0,0,0,0.0,6.52,Juan Meli,juan-meli,13,1087034,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.91,5,0.0,0,0,0,1,3,0,0,0,0.0,5,1,0,0,0,0.0,6.52,Maximiliano Puig,maximiliano-puig,11,1118095,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,60.0,1,0,0,0,0.14,4,0.0,0,0,0,0,0,0,0,0,0.0,6,3,0,0,0,0.0,6.52,Patricio Pizarro,patricio-pizarro,18,1384823,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+1,37.5,0,0,0,0,0.46,3,33.33,0,0,0,1,2,0,0,0,0.0,3,1,0,1,1,0.0,6.52,Luciano Ferreyra,luciano-ferreyra,86,1087068,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,33.33,2,0,0,0,0.12,3,0.0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0.0,6.52,Nicolas Watson,watson-nicolas,7,994455,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,36.67,5,0,0,0,3.53,33,0.0,0,0,6,5,12,0,0,0,0.0,11,16,0,0,0,0.0,6.52,Thiago Nuss,thiago-nuss,103,1092599,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,40.0,3,0,0,0,1.23,11,0.0,0,0,3,3,5,0,0,0,0.0,4,3,0,0,0,0.0,6.52,Octavio Bianchi,bianchi-octavio,31,1183525,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,37.5,3,0,0,2,0.66,15,0.0,0,0,1,2,3,0,0,0,0.0,6,9,0,0,0,0.0,6.51,Daniel Juárez,daniel-juarez,30,1021875,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,33.33,0,0,0,0,0.04,0,0.0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,6.51,Tomás Castro,tomas-castro,6,1468139,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,75.0,1,0,0,0,0.35,2,0.0,0,0,0,1,0,0,0,0,0.0,3,1,0,0,0,0.0,6.51,Gregorio Rodriguez,rodriguez-gregorio,13,1018414,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,47.62,0,0,0,1,0.38,5,0.0,0,0,0,0,0,0,0,0,0.0,10,5,0,0,0,0.0,6.51,Hernán de la Fuente,hernan-de-la-fuente,97,912936,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+1,35.71,2,0,0,0,1.45,6,16.67,0,0,4,1,3,0,0,1,0.0,5,1,0,1,0,0.0,6.51,Gonzalo Torres,gonzalo-torres,9,1086329,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+1,64.29,2,0,0,1,1.34,14,7.14,0,0,1,2,4,0,0,1,0.0,18,8,0,1,0,0.0,6.5,Gino Infantino,gino-infantino,915,1086992,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.19,1,0.0,0,0,0,1,1,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Leonardo Monje,monje-leonardo,7,1095005,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.07,1,0.0,0,0,0,0,1,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Benjamin Schamine,schamine-benjamin,6,1485083,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,41.18,2,0,0,0,0.37,8,0.0,0,0,0,0,3,0,0,0,0.0,7,3,0,0,0,0.0,6.5,Jonathan Menéndez,jonathan-menendez,72,846568,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.35,3,0.0,0,0,0,1,1,0,0,0,0.0,1,1,0,0,0,0.0,6.5,Matías Bazzi,matias-bazzi,2,1112784,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,28.57,0,0,0,1,0.2,2,0.0,0,0,3,0,1,0,0,0,0.0,2,1,0,0,0,0.0,6.5,Edwin Mosquera,edwin-mosquera,139,974306,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.14,3,0.0,0,0,0,0,1,0,0,0,0.0,1,1,0,0,0,0.0,6.5,Andrés Rios,andres-rios,49,34135,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,50.0,0,0,0,0,0.08,1,0.0,0,0,0,0,1,0,0,0,0.0,1,0,0,0,0,0.0,6.5,Ángel Benítez,angel-benitez,39,589292,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,58.33,0,0,0,0,0.08,2,0.0,0,0,2,0,1,0,0,0,0.0,7,1,0,0,0,0.0,6.5,Juan Manuel Cuesta,juan-manuel-cuesta,98,978991,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,0.0,1,0,0,0,0.06,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Tiago Tomás Palacios,tiago-tomas-palacios,40,1173598,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,0.0,1,0,0,0,0.05,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Wilson Ibarrola,wilson-ibarrola,27,922783,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.04,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Valentin Sanchez,valentin-sanchez,1,1390760,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,0.0,1,0,0,0,0.03,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Nicolás Tolosa,nicolas-tolosa,8,1179176,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.02,1,0.0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0.0,6.5,Joaquin Gho,joaquin-gho,6,1094993,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Ricardo Solbes,ricardo-solbes,56,1384961,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Marcelo Esponda,marcelo-esponda,10,1117077,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Mateo Caceres,mateo-caceres,6,1066573,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Lautaro Fedele,fedele-lautaro,5,1120461,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Fabrizio Sartori Prieto,sartori-prieto-fabrizio,3,1086971,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Guillermo Gozalvez,guillermo-gozalvez,3,1087001,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Alex Juárez,alex-juarez,3,1381561,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Maximiliano Alanís,maximiliano-alanis,3,1466651,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Gaston Pedernera,pedernera-gaston,2,1086989,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.5,Alan Tobías Morinigo,alan-tobias-morinigo,2,1201090,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Damian Puebla,puebla-damian,2,1466522,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Bruno Mastronicola,bruno-mastronicola,1,1184611,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Agustin Quiroga,quiroga-agustin,1,1484795,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,6.5,Nicolas Fernandez,fernandez-nicolas,13,1185976,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Sebastian Valdez,valdez-sebastian,1,896783,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,1,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.5,Nicolás Leguizamón,nicolas-leguizamon,13,830879,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+0,33.33,3,1,0,0,2.55,12,0.0,0,0,2,5,5,1,0,0,0.0,2,4,0,0,0,0.0,6.49,José Neris,jose-neris,52,874567,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+1,41.67,4,0,0,1,2.41,16,6.25,0,0,5,1,5,1,0,0,100.0,5,7,1,1,1,0.0,6.49,Djorkaeff Reasco,djorkaeff-reasco,258,873890,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,54.55,0,0,0,0,0.08,3,0.0,0,0,0,0,1,0,0,0,0.0,6,2,0,0,0,0.0,6.49,Pablo Pérez,pablo-perez,70,73019,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.48,Facundo Agüero,facundo-aguero,12,895234,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,60.0,0,0,0,0,0.28,4,0.0,0,0,0,0,1,0,0,0,0.0,3,3,0,0,0,0.0,6.48,Augusto Schott,augusto-schott,24,940689,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,0.0,1,0,0,0,0.05,3,0.0,0,0,0,0,1,0,0,0,0.0,0,1,0,0,0,0.0,6.48,Julian Contrera,contrera-julian,6,1485098,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.47,Fernando Prado,fernando-prado,37,1022262,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,57.14,4,0,0,1,1.32,12,0.0,0,0,1,4,4,0,0,0,0.0,8,4,0,0,0,0.0,6.47,Junior Marabel,marabel-junior,50,1085452,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,38.46,4,0,0,0,0.92,11,0.0,0,0,2,0,1,0,0,0,0.0,5,6,0,0,0,0.0,6.47,Tomás Galván,tomas-galvan,111,1065613,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.31,3,0.0,0,0,1,1,2,0,0,0,0.0,0,1,0,0,0,0.0,6.47,Luca Martínez Dupuy,luca-martinez-dupuy,342,1087100,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,40.91,1,0,0,0,0.07,3,0.0,0,0,0,0,1,0,0,0,0.0,9,1,0,0,0,0.0,6.47,Alex Ibacache,alex-ibacache,269,925222,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,33.33,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.47,Julian Viollaz,julian-viollaz,2,1384427,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.47,Diego González,diego-gonzalez,93,33232,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,60.0,2,0,0,0,0.1,3,0.0,0,0,0,0,0,0,0,0,0.0,12,1,0,0,0,0.0,6.46,Lautaro Montoya,lautaro-montoya,10,830657,Tigre,tigre,Tigre,0,0,7628,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.05,2,0.0,0,0,0,0,1,0,0,0,0.0,2,1,0,0,0,0.0,6.46,Edwin Cardona,edwin-cardona,1251,153793,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,80.0,0,0,0,0,0.03,2,0.0,0,0,0,0,0,0,0,0,0.0,4,2,0,0,0,0.0,6.46,Santiago Quiros,quiros-santiago,24,1464535,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,66.67,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,6.46,Tobías Zárate,tobias-zarate,23,1017173,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+1,50.0,1,0,0,0,0.28,5,20.0,0,1,0,0,1,0,0,0,0.0,6,3,0,1,0,0.0,6.46,Joaquín Ibáñez,joaquin-ibanez,13,358976,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.04,2,0.0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,0.0,6.46,Harrinson Mancilla,harrinson-mancilla,39,869952,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,35.71,1,0,0,0,0.6,6,0.0,0,0,1,1,3,0,0,0,0.0,5,2,0,0,0,0.0,6.45,Marcos Benítez,marcos-benitez,3,1396478,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,18.75,0,0,0,0,0.52,4,0.0,0,0,5,1,0,0,0,0,0.0,3,4,0,0,0,0.0,6.45,Federico Jourdan,federico-jourdan,8,249899,Central Córdoba,central-cordoba,Central Córdoba,0,0,65676,#52b030,#52b030,#ffffff
+0,42.11,3,0,0,0,0.06,4,0.0,0,0,0,0,1,0,0,0,0.0,8,0,0,0,0,0.0,6.45,David Gallardo,david-gallardo,8,943167,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.05,1,0.0,0,0,0,0,0,0,0,0,0.0,2,1,0,0,0,0.0,6.45,Matías González,matias-gonzalez,75,1087041,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.44,Lucas Rodríguez,lucas-rodriguez,6,146982,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.04,2,0.0,0,0,0,0,0,0,0,0,0.0,0,2,0,0,0,0.0,6.43,Leonardo Marchi,leonardo-marchi,1,947210,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.43,Agustín Valverde,agustin-valverde,12,1488743,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,14.29,2,0,0,0,0.13,3,0.0,0,0,1,0,0,0,0,0,0.0,1,1,0,0,0,0.0,6.43,Luciano Cingolani,luciano-cingolani,21,1087070,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,45.45,3,0,0,0,0.27,6,0.0,0,0,2,1,2,0,0,0,0.0,10,1,0,0,0,0.0,6.43,Ignacio Maestro Puch,maestro-puch-ignacio,299,1096798,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,0.0,1,0,0,0,0.03,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.43,Iván Ramírez,ivan-ramirez,4,946179,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,0.0,2,0,0,0,0.42,2,0.0,0,0,0,1,0,0,0,0,0.0,0,0,0,0,0,0.0,6.4,Nicolás Femia,nicolas-femia,3,860052,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,50.0,3,0,0,0,0.11,3,0.0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,6.4,Tobias Rubio,rubio-tobias,39,1201527,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,0.0,1,0,0,0,0.05,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.4,Jonathan Dellarossa,dellarossa-jonathan,13,1126363,Instituto Córdoba,instituto-cordoba,Instituto Córdoba,0,0,4937,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,1,0.04,1,0.0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0.0,6.4,Gastón Comas,gaston-comas,6,974685,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,100.0,1,0,0,0,0.02,1,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.4,Geronimo Tomasetti,tomasetti-geronimo,10,974689,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.4,Bruno Zuculini,bruno-zuculini,178,249409,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.4,Román Riquelme,roman-riquelme,15,1117101,Argentinos Juniors,argentinos-juniors,Argentinos Juniors,0,0,3216,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.4,Emiliano Viveros,emiliano-viveros,8,1117022,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.4,Gonzalo Piñeiro,gonzalo-pineiro,6,1086999,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.4,Nazareno Fúnez,nazareno-funez,21,1117089,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,50.0,0,0,0,0,0.0,0,0.0,0,0,1,0,0,0,0,0,0.0,2,0,0,0,0,0.0,6.4,Tomas Rambert,rambert-tomas,17,1199249,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.4,Daniel Sappa,daniel-sappa,15,830664,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.4,Ezequiel Herrera,ezequiel-herrera,12,1199307,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.4,Yair Arismendi,yair-arismendi,10,896798,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,50.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.4,Facundo Taborda,facundo-taborda,5,1199308,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,44.0,0,1,0,0,0.59,7,0.0,0,0,3,2,3,0,0,0,0.0,11,4,0,0,0,0.0,6.39,‪Ignacio Schor,ignacio-schor,104,1092305,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,41.67,2,0,0,0,1.49,8,0.0,0,0,1,3,3,1,0,0,0.0,10,3,0,0,0,0.0,6.39,Facundo Farías,facundo-farias,1376,1003907,Colón,colon,Colón,0,0,3207,#52b030,#52b030,#ffffff
+0,33.33,0,0,0,0,0.16,6,0.0,0,0,0,0,3,0,0,0,0.0,2,3,0,0,0,0.0,6.39,Patricio Ostachuk,patricio-ostachuk,20,1093193,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,33.33,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.38,Juan Pablo Luduena,luduena-juan-pablo,2,1392241,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,38.46,1,0,0,0,0.18,2,0.0,0,0,1,0,1,0,0,0,0.0,5,0,0,0,0,0.0,6.38,Francisco Di Franco,francisco-di-franco,7,331867,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,36.36,1,0,0,0,0.02,1,0.0,0,0,0,0,0,0,0,0,0.0,4,0,0,0,0,0.0,6.38,Santiago Salle,salle-santiago,10,1461801,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+1,50.0,0,0,0,0,0.33,1,100.0,0,1,0,0,1,0,0,0,0.0,2,0,0,1,0,0.0,6.37,Gonzalo Valdivia,gonzalo-valdivia,1,1185820,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,50.0,1,0,0,0,0.15,4,0.0,0,0,0,0,2,0,0,0,0.0,3,1,0,0,0,0.0,6.36,Facundo Pérez,facundo-perez,19,993287,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,1.17,4,0.0,0,0,1,2,2,0,0,0,0.0,3,2,0,0,0,0.0,6.36,Horacio Tijanovich,horacio-tijanovich,12,798553,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+0,20.0,1,0,0,0,0.03,1,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.36,Franco Alfonso,franco-alfonso,178,1410924,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,53.85,0,0,0,0,0.12,3,0.0,0,0,0,0,1,0,0,0,0.0,7,2,0,0,0,0.0,6.35,Agustín Sández,agustin-sandez,187,1066556,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,20.0,2,0,0,0,0.36,3,0.0,0,0,0,1,0,0,0,0,0.0,1,1,0,0,0,0.0,6.34,Nadir Zeineddin,nadir-zeineddin,13,1093117,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.33,Agustín Dáttola,dattola-agustin,3,1110288,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,36.67,2,0,0,0,0.27,6,0.0,0,0,1,1,1,0,0,0,0.0,11,3,0,0,0,0.0,6.32,Baltasar Rodriguez,rodriguez-baltasar,113,1201515,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.19,2,0.0,0,0,2,0,0,0,0,0,0.0,0,2,0,0,0,0.0,6.31,Nicolás Bertolo,nicolas-bertolo,11,31978,Banfield,banfield,Banfield,0,0,3219,#52b030,#52b030,#ffffff
+1,50.79,4,0,0,0,1.65,11,9.09,0,0,3,1,2,0,0,1,0.0,32,5,0,1,0,0.0,6.3,Guillermo Enrique,guillermo-enrique,36,943712,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.3,Genaro Rossi,genaro-rossi,35,1117035,Newell's Old Boys,newells-old-boys,Newell's Old Boys,0,0,3212,#52b030,#52b030,#ffffff
+0,50.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,6.3,Ignacio Galván,ignacio-galvan,29,1102817,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.3,Kevin Silva,kevin-silva,8,1117067,Rosario Central,rosario-central,Rosario Central,0,0,3217,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.3,Esteban Lucero,lucero-esteban,3,1185048,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.3,Lautaro Vargas,vargas-lautaro,2,1485084,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.3,Tomás Fernández,tomas-fernandez,1,1018452,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.3,Alejo Monje,alejo-monje,1,1466521,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.3,Deian Verón,deian-veron,41,1086956,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.3,Tomás Silva,tomas-silva,17,1175560,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.3,Dante Nicolas Campisi,campisi-dante-nicolas,6,978370,Huracán,huracan,Huracán,0,0,7629,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.28,Francisco Oliver,oliver-francisco,4,932883,Belgrano,belgrano,Belgrano,0,0,3203,#52b030,#52b030,#ffffff
+0,0.0,3,0,0,0,0.63,6,0.0,0,0,0,2,0,0,0,0,0.0,0,3,0,0,0,0.0,6.27,Martiniano Moreno,moreno-martiniano,19,1485384,Estudiantes de La Plata,estudiantes-de-la-plata,Estudiantes de La Plata,0,0,3206,#52b030,#52b030,#ffffff
+0,0.0,1,0,0,0,0.04,1,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.27,Agustín Ramírez,agustin-ramirez,5,980926,Gimnasia y Esgrima,gimnasia-y-esgrima,Gimnasia y Esgrima,0,0,3205,#52b030,#52b030,#ffffff
+0,37.5,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,3,0,0,0,0,0.0,6.27,Thiago Fernández,thiago-fernandez,29,1201412,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+0,20.0,0,0,0,0,0.23,1,0.0,0,0,0,0,0,0,0,0,0.0,1,1,0,0,0,0.0,6.25,Roman Fernandez,fernandez-roman,34,1382375,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+1,20.0,0,0,0,1,1.06,5,20.0,0,1,0,2,3,0,0,0,0.0,1,2,0,1,0,0.0,6.24,Franco Frías,franco-frias,20,1086986,Barracas Central,barracas-central,Barracas Central,0,0,65668,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.23,Brian Aguilar,brian-aguilar,84,1086328,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.22,Juan Pablo Pignani,juan-pablo-pignani,13,1176234,Platense,platense,Platense,0,0,36837,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.2,Pablo Aranda,pablo-aranda,14,1086342,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.2,Ezequiel Centurión,ezequiel-centurion,125,876134,River Plate,river-plate,River Plate,0,0,3211,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.2,Thiago Schiavulli,schiavulli-thiago,7,1201093,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.2,Valentino Venetucci,venetucci-valentino,2,1492214,Unión,union,Unión,0,0,3204,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,6.2,Enzo Rivamar,rivamar-enzo,2,1499028,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,1,0.63,2,0.0,0,0,0,2,0,0,0,0,0.0,0,2,0,0,0,0.0,6.17,Tomas Perez,perez-tomas,27,1496100,Racing Club,racing-club,Racing Club,0,0,3215,#52b030,#52b030,#ffffff
+0,60.0,0,0,0,0,0.0,0,0.0,0,0,3,0,0,0,0,0,0.0,3,0,0,0,0,0.0,6.13,Diego Perea,diego-perea,34,1464026,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.06,1,0.0,0,0,0,0,0,0,0,0,0.0,0,1,0,0,0,0.0,6.1,Santiago Morales,morales-santiago,4,1112870,Sarmiento,sarmiento,Sarmiento,0,0,42338,#52b030,#52b030,#ffffff
+0,50.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,6.1,Vicente Fernández,vicente-fernandez,93,947963,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,5,0,0,0,0,0.0,6.0,Siro Rosane,siro-rosane,20,1086976,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+0,40.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,2,0,0,0,0,0.0,5.9,Nahuel Genez,nahuel-genez,109,1131032,Boca Juniors,boca-juniors,Boca Juniors,0,0,3202,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,5.8,Rodrigo Saracho,rodrigo-saracho,4,816599,Godoy Cruz,godoy-cruz,Godoy Cruz,0,0,6074,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,5.7,Tomás Ortiz,tomas-ortiz,10,966177,Defensa y Justicia,defensa-y-justicia,Defensa y Justicia,0,0,36839,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,Tomas Sultani,tomas-sultani,8,990069,Arsenal de Sarandí,arsenal-de-sarandi,Arsenal de Sarandí,0,0,3221,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,Luis Ojeda,luis-ojeda,4,122654,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,Emmanuel Gómez Riga,emmanuel-gomez-riga,3,1086285,Vélez Sarsfield,velez-sarsfield,Vélez Sarsfield,0,0,3208,#52b030,#52b030,#ffffff
+0,50.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,0.0,Santiago Lopez,lopez-santiago,449,1482391,Independiente,independiente,Independiente,0,0,3209,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,Federico Girotti,federico-girotti,267,966164,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff
+0,100.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,1,0,0,0,0,0.0,0.0,Maximiliano González,maximiliano-gonzalez,142,1150471,Lanús,lanus,Lanús,0,0,3218,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,Matías Hernández,matias-hernandez,31,1381756,San Lorenzo,san-lorenzo,San Lorenzo,0,0,3201,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,Kevin Isa,kevin-isa,25,980541,Atlético Tucumán,atletico-tucuman,Atlético Tucumán,0,0,36833,#52b030,#52b030,#ffffff
+0,0.0,0,0,0,0,0.0,0,0.0,0,0,0,0,0,0,0,0,0.0,0,0,0,0,0,0.0,0.0,Matías Gómez,matias-gomez,24,1507306,Talleres,talleres,Talleres,0,0,3210,#52b030,#52b030,#ffffff

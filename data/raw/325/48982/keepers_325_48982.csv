@@ -1,0 +1,725 @@
+saves,savedShotsFromInsideTheBox,punches,crossesNotClaimed,cleanSheet,savedShotsFromOutsideTheBox,runsOut,penaltyFaced,goalsConcededInsideTheBox,successfulRunsOut,penaltySave,goalsConcededOutsideTheBox,highClaims,rating,player.name,player.slug,player.userCount,player.id,team.name,team.slug,team.shortName,team.userCount,team.type,team.id,team.teamColors.primary,team.teamColors.secondary,team.teamColors.text
+6,5,0,0,0,1,0,0,0,0,0,0,1,7.7,Danilo Fernandes,danilo-fernandes,135,145054,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+5,3,2,0,0,2,0,1,1,0,0,0,4,7.6,Pedro Morisco,pedro-morisco,16,1507616,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+35,22,12,0,5,12,6,0,5,5,0,0,1,7.5,John,john,237,840103,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,12,0,0,7,0,7.49,Raphael Veiga,raphael-veiga,7424,840020,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,9,0,0,0,19,0,0,4,0,7.45,Hulk,hulk,9558,34705,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+8,6,3,0,1,2,2,0,1,2,0,0,4,7.45,Caíque,caique,154,839514,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,2,0,0,1,0,7.33,Eduardo Bauermann,eduardo-bauermann,211,358530,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+7,5,2,0,1,2,1,0,1,1,0,0,1,7.3,Adriel,adriel,207,1106840,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+24,11,2,0,1,13,3,1,5,3,0,1,1,7.3,Léo Linck,leo-linck,112,1119887,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,8,0,0,1,0,7.29,Dudu,dudu,4022,147464,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,41,0,0,3,0,7.27,Luis Suárez,luis-suarez,67176,16943,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+13,7,0,0,1,6,0,1,3,0,0,0,5,7.27,Marcelo Lomba,marcelo-lomba,486,34141,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,20,0,0,4,0,7.26,Tiquinho Soares,tiquinho-soares,4253,789100,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,18,0,0,2,0,7.24,Giorgian De Arrascaeta,giorgian-de-arrascaeta,15068,333587,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,10,0,0,0,10,0,0,1,0,7.21,Robert Arboleda,robert-arboleda,1472,338937,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+40,21,9,2,8,19,1,1,9,1,0,1,5,7.21,Agustín Rossi,agustin-rossi,1358,1140986,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+77,48,6,0,5,28,7,4,19,7,1,3,8,7.21,Matheus Cunha,matheus-cunha,1562,1105835,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,20,0,0,4,0,7.2,Vitor Bueno,vitor-bueno,617,808785,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+1,0,1,0,1,1,0,0,0,0,0,0,0,7.2,Anderson,anderson,114,942061,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+1,1,1,0,1,0,0,0,0,0,0,0,1,7.2,Mauricio Kozlinski,mauricio-kozlinski,55,879859,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+7,5,0,0,1,2,0,0,1,0,0,0,2,7.2,Matheus Mendes,matheus-mendes,137,1018555,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,2,0,7.18,Moisés,moises,417,1046501,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,13,0,0,4,0,7.17,Alef Manga,manga-alef,501,954719,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,16,0,0,3,0,7.17,Pablo Vegetti,pablo-vegetti,2050,583974,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,15,0,0,2,0,7.16,Lucas Veríssimo,lucas-verissimo,1928,826343,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,13,0,0,0,19,0,0,1,0,7.15,Lucas Evangelista,lucas-evangelista,519,331397,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,17,0,0,4,0,7.15,Paulinho,paulinho,4253,885179,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,6,0,0,0,17,0,0,2,0,7.15,Mauricio Lemos,mauricio-lemos,549,385916,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,15,0,0,3,0,7.15,Lucas Silva,lucas-silva,524,245159,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,12,0,0,0,25,0,0,1,0,7.14,Juninho Capixaba,juninho-capixaba,549,870556,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+24,11,1,0,1,12,0,1,5,0,0,0,2,7.13,Fernando Miguel,fernando-miguel,202,358418,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,13,0,0,0,26,0,0,4,0,7.13,Marlon,marlon,537,870787,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+86,56,19,0,15,30,21,7,24,19,1,1,14,7.13,Cleiton,cleiton,343,844576,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,14,0,0,4,0,7.13,Jonathan Calleri,jonathan-calleri,4579,340519,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+97,58,19,0,14,38,11,1,22,10,0,4,27,7.12,Éverson,everson,602,870748,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,9,0,0,0,13,0,0,4,0,7.12,Luan,luan,687,250351,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,12,0,0,1,0,7.12,Léo Ortiz,leo-ortiz,542,869643,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,11,0,0,0,28,0,0,4,0,7.12,Léo Pereira,leo-pereira,1519,358548,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,14,0,0,0,29,0,0,4,0,7.12,Fabrício Bruno,fabricio-bruno,1268,840220,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,8,0,0,0,14,0,0,7,0,7.12,Mayke,mayke,845,273329,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+101,57,19,1,12,42,13,5,34,13,0,3,39,7.12,Fábio,fabio,808,17785,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,25,0,0,2,0,7.11,Jhon Arias,jhon-arias,2133,844096,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+130,74,15,0,9,55,18,6,43,17,0,4,23,7.11,Marcos Felipe,marcos-felipe,258,358524,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,7,0,0,0,0,7.11,Marcos Rocha,marcos-rocha,906,82576,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+128,68,11,3,14,60,18,1,28,18,0,5,29,7.11,Lucas Perri,lucas-perri,1386,871290,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,28,0,0,4,0,7.11,Cauly,cauly,824,255873,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,9,0,0,0,0,7.11,Adson,adson,1048,1105970,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,17,0,0,1,0,7.11,Róger Guedes,roger-guedes,5993,777341,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,7.1,Maurício Antônio,mauricio-antonio,33,583824,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,1,0,7.1,Felipe Jonatan,felipe-jonatan,325,931574,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,7.1,Cipriano,cipriano,30,1111123,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,6,0,0,3,0,7.09,Maicon,maicon,505,44691,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,42,0,0,8,0,7.08,Joaquim,joaquim,372,1047740,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+104,67,8,1,14,34,9,3,27,9,0,4,15,7.08,Rafael Cabral,rafael-cabral,351,124980,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,19,0,0,2,0,7.08,Bitello,bitello,1412,1106839,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,13,0,0,1,0,7.08,Murillo,murillo,1442,1199282,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,9,0,0,0,17,0,0,5,0,7.07,Murilo,murilo,1124,874729,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,16,0,0,4,0,7.07,Renê,rene,636,243113,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,9,0,0,0,28,0,0,2,0,7.07,Gerson,gerson,8025,611876,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,12,0,0,0,27,0,0,2,0,7.07,Adryelson,adryelson,816,795261,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,0,0,0,2,0,7.07,Brayan Ceballos,brayan-ceballos,143,1129429,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+97,52,12,0,14,45,7,4,22,6,1,7,32,7.07,Weverton,weverton,2553,243529,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,30,0,0,1,0,7.07,Franco Cristaldo,franco-cristaldo,1200,558820,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,9,0,0,0,31,0,0,3,0,7.07,André,andre,3894,1035996,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,14,0,0,0,0,7.06,Helinho,helinho,501,906837,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,12,0,0,0,0,7.06,Alan Franco,alan-franco,574,875402,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+13,4,4,0,2,9,1,2,4,1,0,0,2,7.06,Jandrei,jandrei,421,874979,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,10,0,0,0,22,0,0,2,0,7.06,Bruno Rodrigues,bruno-rodrigues,900,817650,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,15,0,0,1,0,7.06,Marcelo,marcelo,32275,17787,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,24,0,0,3,0,7.05,Guilherme Marques,guilherme-marques,339,109610,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,1,0,7.05,Gustavo Sauer,gustavo-sauer,280,904505,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,3,0,0,0,0,7.05,Richard Cândido,richard-candido,274,897617,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,12,0,0,0,0,7.05,Eduardo Santos,eduardo-santos,89,925189,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,14,0,0,0,25,0,0,4,0,7.05,Víctor Cuesta,victor-cuesta,718,587148,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,8,0,0,0,17,0,0,7,0,7.05,Lucas Beraldo,lucas-beraldo,1273,1108441,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+128,65,22,0,9,61,2,5,42,2,1,7,30,7.04,Léo Jardim,leo-jardim,762,595598,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+113,66,18,2,9,47,9,3,40,8,0,4,41,7.04,Tadeu,tadeu,341,552172,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,1,0,7.04,Rossi,rossi,424,243425,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+133,62,15,0,8,71,4,7,41,4,0,5,26,7.04,Cássio,cassio,2355,27756,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,40,0,0,2,0,7.03,Reinaldo,reinaldo,821,243109,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,22,0,0,1,0,7.03,Keno,keno,1051,787607,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,7.03,Pedrinho,pedrinho,1338,874030,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,20,0,0,3,0,7.03,Ganso,ganso,1728,116853,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,17,0,0,1,0,7.03,Renato Augusto,renato-augusto,3247,34152,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,1,0,0,0,0,7.03,Nathan Silva,nathan-silva,333,841129,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+124,69,16,0,8,54,7,6,40,6,1,6,22,7.02,João Paulo,joao-paulo,933,795177,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+44,28,10,3,0,16,4,1,19,4,0,3,9,7.02,Jory,jory,31,839762,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,9,0,0,3,0,7.02,Artur,artur,2210,841128,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,17,0,0,5,0,7.02,Rafinha,rafinha,1642,12634,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,27,0,0,5,0,7.02,Tinga,tinga,245,330057,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,11,0,0,0,26,0,0,4,0,7.02,Marlon Freitas,marlon-freitas,373,840202,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,5,0,0,2,0,7.02,Nikão,nikao,457,139300,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,14,0,0,1,0,7.02,David Luiz,david-luiz,5401,21300,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,9,0,0,0,14,0,0,4,0,7.02,Guilherme Arana,guilherme-arana,2113,1127439,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+106,66,17,0,12,40,6,4,34,6,0,1,33,7.02,Walter,walter,275,329055,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,8,0,0,0,0,7.02,Fernando,fernando,105,1017746,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,6,0,0,0,18,0,0,8,0,7.02,Erick,erick,311,874063,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,15,0,0,1,0,7.02,Denilson,denilson,157,1175760,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,8,0,0,0,21,0,0,0,0,7.01,Matheus Fernandes,matheus-fernandes,986,840150,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,20,0,0,1,0,7.01,Eduardo Sasha,eduardo-sasha,953,143846,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,11,0,0,1,0,7.01,Lucas Oliveira,lucas-oliveira,200,867907,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,32,0,0,4,0,7.01,Gonzalo Mastriani,gonzalo-mastriani,593,345847,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,30,0,0,1,0,7.0,Deyverson,deyverson,1811,270287,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,40,0,0,8,0,7.0,Marcos Leonardo,marcos-leonardo,5527,1047227,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,7.0,Ruan Assis,ruan-assis,15,1495892,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,13,0,0,2,0,7.0,Gabriel Xavier,gabriel-xavier,101,1117710,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,7.0,Moreira,moreira,326,1175765,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+4,3,0,0,0,1,0,0,1,0,0,0,0,7.0,Vitor Eudes,vitor-eudes,115,927666,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,7.0,Luis Fernando,luis-fernando,71,1585334,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,17,0,0,4,0,7.0,Biel,biel,540,1106140,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,20,0,0,2,0,6.99,Everton,everton,5930,386198,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+98,56,16,0,8,41,12,5,27,11,2,7,28,6.99,Bento,bento,929,1016104,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,21,0,0,0,0,6.99,Zé Ricardo,ze-ricardo,109,943044,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,13,0,0,8,0,6.99,Fernandinho,fernandinho,2703,13630,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,10,0,0,1,0,6.99,Pedro Henrique,pedro-henrique,340,551774,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,34,0,0,4,0,6.99,Lucas Lima,lucas-lima,972,244589,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,12,0,0,0,17,0,0,6,0,6.99,Pablo Maia,pablo-maia,932,1120721,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,8,0,0,0,32,0,0,4,0,6.99,Gil,gil,993,106402,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,20,0,0,6,0,6.99,Agustín Canobbio,agustin-canobbio,946,846413,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,18,0,0,7,0,6.98,Wanderson,wanderson,645,247483,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,17,0,0,5,0,6.98,Maurício,mauricio,750,986233,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,15,0,0,6,0,6.98,Tomás Cuello,tomas-cuello,356,871273,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,13,0,0,0,27,0,0,3,0,6.98,Luciano Castan,luciano-castan,171,845110,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,26,0,0,1,0,6.98,Sander,sander,133,795014,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,19,0,0,4,0,6.98,Yeferson Soteldo,yeferson-soteldo,2810,789960,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,28,0,0,7,0,6.98,Thiago Heleno,thiago-heleno,247,33106,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,10,0,0,4,0,6.98,Gabriel Menino,gabriel-menino,1891,974556,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,12,0,0,0,16,0,0,6,0,6.98,Joaquín Piquerez,joaquin-piquerez,1809,881110,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,8,0,0,0,23,0,0,2,0,6.98,Nino,nino,1286,870788,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,20,0,0,1,0,6.98,Jean Lucas,jean-lucas,907,927975,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,38,0,0,3,0,6.97,Mathias Villasanti,mathias-villasanti,891,1139775,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,22,0,0,9,0,6.97,Alan Patrick,alan-patrick,1098,124997,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,11,0,0,3,0,6.97,Vítor Jacaré,vitor-jacare,442,1019652,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+84,41,15,1,12,41,6,7,25,6,0,7,15,6.96,Rafael,rafael,661,33132,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,18,0,0,1,0,6.96,Matheus Bidú,matheus-bidu,658,981703,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,4,0,0,1,0,6.96,Kaique Rocha,kaique-rocha,147,963990,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,7,0,0,0,0,6.96,Matheus Pereira,matheus-pereira,1927,377238,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,21,0,0,2,0,6.96,Vitor Roque,vitor-roque,16971,1150391,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,7,0,0,0,0,6.96,Paulo Henrique,paulo-henrique,217,1021721,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,10,0,0,0,0,6.96,Allyson,allyson,54,809194,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,3,0,0,0,0,6.96,Dudu,dudu,152,859083,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,17,0,0,3,0,6.95,Hugo,hugo,116,1017827,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,0,0,0,0,0,6.95,Vitor Mendes,vitor-mendes,160,988873,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,14,0,0,4,0,6.95,Calebe,calebe,312,1046796,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,7,0,0,1,0,6.95,Rubens,rubens,411,1093196,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,8,0,0,0,0,6.95,Khellven,khellven,452,984896,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,35,0,0,3,0,6.95,Rezende,rezende,203,868030,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,8,0,0,0,21,0,0,7,0,6.94,Fabricio Bustos,fabricio-bustos,483,850023,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,4,0,0,0,0,6.94,Filipe Luís,filipe-luis,2908,26029,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,9,0,0,0,21,0,0,7,0,6.94,Gustavo Gómez,gustavo-gomez,2650,220833,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,6,0,0,0,28,0,0,1,0,6.94,Raniele,raniele,216,866392,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,30,0,0,4,0,6.94,Lucas Halter,lucas-halter,263,905450,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,17,0,0,2,0,6.94,Tomás Rincón,tomas-rincon,1175,46798,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,15,0,0,4,0,6.93,Pablo,pablo,663,374486,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,12,0,0,0,0,6.93,Clayson,clayson,210,811308,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,25,0,0,3,0,6.93,Tomás Pochettino,tomas-pochettino,414,824626,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,0,0,6.93,James Rodríguez,james-rodriguez,28887,107414,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,23,0,0,3,0,6.93,Germán Cano,german-cano,6493,33238,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,13,0,0,5,0,6.93,Johnny,johnny,795,990169,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,9,0,0,0,13,0,0,3,0,6.93,Otávio,otavio,392,552686,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,25,0,0,3,0,6.93,Lima,lima,525,807850,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,10,0,0,0,0,6.93,Luan Cândido,luan-candido,400,905459,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,19,0,0,6,0,6.93,Diego Costa,diego-costa,809,995293,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,8,0,0,0,28,0,0,5,0,6.92,Bruno Pacheco,bruno-pacheco,259,870691,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,11,0,0,0,17,0,0,3,0,6.92,William,william,316,604274,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,34,0,0,8,0,6.92,Marcelino Moreno,marcelino-moreno,297,848472,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,26,0,0,1,0,6.92,Everaldo,everaldo,519,386212,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,19,0,0,1,0,6.92,Fernando Sobral,fernando-sobral,361,931479,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,13,0,0,0,0,6.91,Pablo Ceppelini,pablo-ceppelini,150,146599,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,17,0,0,4,0,6.91,Zé Welison,ze-welison,233,551422,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,16,0,0,3,0,6.91,Victor Sá,victor-sa,600,799634,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,20,0,0,1,0,6.91,Filipe Machado,filipe-machado,243,844601,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,14,0,0,5,0,6.9,Endrick,endrick,33529,1174937,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,30,0,0,5,0,6.9,Gabriel Pec,gabriel-pec,1383,995072,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,31,0,0,5,0,6.9,Yuri Alberto,yuri-alberto,6039,905463,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,29,0,0,5,0,6.9,Stiven Mendoza,stiven-mendoza,846,354510,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,16,0,0,6,0,6.9,Zé Rafael,ze-rafael,1303,329069,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,16,0,0,1,0,6.9,Matheus Peixoto,matheus-peixoto,268,880169,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.9,Alan,alan,285,36684,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.9,Estêvão,estevao,116,1116660,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+3,2,0,0,0,1,1,0,1,1,0,0,1,6.9,Gatito Fernández,gatito-fernandez,440,840027,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.9,Arthur Wenderroscky,arthur-wenderroscky,176,1382913,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+111,60,28,0,5,49,6,4,48,6,0,3,29,6.9,Gabriel Grando,gabriel-grando,538,1111770,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,18,0,0,5,0,6.9,Luciano,luciano,2627,282557,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,11,0,0,1,0,6.9,Igor Gomes,igor-gomes,644,913598,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,16,0,0,2,0,6.89,Caetano,caetano,479,959006,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,13,0,0,1,0,6.89,Allano,allano,92,796925,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,33,0,0,3,0,6.89,Julián Palacios,julian-palacios,168,1005177,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,26,0,0,5,0,6.89,Caio Alexandre,caio-alexandre,323,1008832,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,1,0,6.89,Dimitri Payet,dimitri-payet,7302,14216,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,7,0,0,2,0,6.89,Bruno Fuchs,bruno-fuchs,427,973737,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,10,0,0,0,25,0,0,2,0,6.88,Ayrton Lucas,ayrton-lucas,2496,818473,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,13,0,0,1,0,6.88,Christian,christian,297,981733,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,15,0,0,3,0,6.88,Neris,neris,109,840247,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,12,0,0,2,0,6.88,Bruno Henrique,bruno-henrique,359,345113,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,11,0,0,6,0,6.88,Cacá,caca,174,929200,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.88,Ramiro,ramiro,298,330693,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,1,0,6.88,Adyson,adyson,75,1175259,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,5,0,0,0,0,6.88,Pablo,pablo,818,243735,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,20,0,0,1,0,6.88,Pepê,pepe,549,946945,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,6,0,0,0,10,0,0,1,0,6.88,Hugo,hugo,203,1018915,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+41,17,11,1,1,22,6,2,19,6,0,1,14,6.88,Mateus Pasinato,mateus-pasinato,104,914169,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,12,0,0,0,33,0,0,1,0,6.88,Marllon,marllon,92,221206,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,33,0,0,3,0,6.88,Thaciano,thaciano,408,872039,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,0,0,6.88,Gabriel Pires,gabriel-pires,493,178407,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,16,0,0,3,0,6.88,Cristian Pavón,cristian-pavon,1638,358956,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+112,68,19,1,6,43,13,8,48,13,1,12,40,6.88,Gabriel Vasconcelos,gabriel-vasconcelos,188,147467,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,1,0,6.88,Hyoran,hyoran,425,551348,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,16,0,0,4,0,6.87,Wellington Rato,wellington-rato,735,865356,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+53,29,11,0,5,24,7,5,19,6,0,4,17,6.87,Sergio Rochet,sergio-rochet,1042,581060,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,27,0,0,4,0,6.87,Martín Benítez,martin-benitez,613,155715,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,14,0,0,5,0,6.87,Alisson,alisson,732,291723,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,23,0,0,3,0,6.87,Samuel Xavier,xavier-samuel,386,795773,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,25,0,0,1,0,6.87,Ademir,ademir,546,922546,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,9,0,0,1,0,6.87,Ruan Oliveira,ruan-oliveira,290,1047656,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+90,54,15,1,7,34,1,6,31,1,2,7,27,6.87,João Ricardo,joao-ricardo,204,839761,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,20,0,0,2,0,6.87,Pedro,pedro,14019,840219,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,16,0,0,3,0,6.86,Islam Slimani,islam-slimani,8838,238708,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,0,0,6.86,Danielzinho,danielzinho,263,840218,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,9,0,0,4,0,6.86,Breno Lopes,breno-lopes,685,937552,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,27,0,0,5,0,6.86,Fagner,fagner,1645,25554,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,1,0,6.86,Imanol Machuca,imanol-machuca,379,974698,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,1,0,0,1,0,6.86,Patryck,patryck,454,1002528,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,22,0,0,3,0,6.86,Jair,jair,549,268419,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,13,0,0,2,0,6.86,Aloísio,aloisio,270,243497,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,10,0,0,0,0,6.86,Luan Patrick,luan-patrick,151,1002565,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,54,0,0,8,0,6.86,Emmanuel Martínez,emmanuel-martinez,247,794312,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,6,0,0,0,27,0,0,4,0,6.86,Willian Oliveira,willian-oliveira,89,295167,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,6,0,0,0,18,0,0,3,0,6.85,Eduardo,eduardo,920,76507,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,18,0,0,3,0,6.85,Thiago Galhardo,thiago-galhardo,1276,165677,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.85,Leonardo Fernández,leonardo-fernandez,773,846411,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.85,Matheus Nascimento,matheus-nascimento,1245,1047683,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.85,Kayque,kayque,74,1101437,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,11,0,0,3,0,6.85,Mariano,mariano,337,40076,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.85,Paulinho,paulinho,2675,115183,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,22,0,0,2,0,6.85,Matheus Martinelli,martinelli-matheus,694,1067671,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,0,0,6.85,Hércules,hercules,244,1104068,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,31,0,0,2,0,6.84,Vitor Hugo,vitor-hugo,318,794838,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,8,0,0,0,14,0,0,1,0,6.84,Erick Pulgar,erick-pulgar,3187,590262,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,27,0,0,7,0,6.84,Emanuel Brítez,emanuel-britez,200,789395,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,28,0,0,6,0,6.84,Messias,messias,240,839765,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,19,0,0,4,0,6.84,Gary Medel,gary-medel,2006,22975,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,12,0,0,1,0,6.84,Everton Ribeiro,everton-ribeiro,5453,145063,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,14,0,0,1,0,6.84,Ferreira,ferreira,845,998499,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,0,0,6.84,Mateusinho,mateusinho,57,1107069,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,8,0,0,0,0,6.84,Luiz Araújo,luiz-araujo,1928,840451,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,8,0,0,0,38,0,0,2,0,6.84,Kanu,kanu,253,871705,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,19,0,0,1,0,6.84,Wellington Silva,wellington-silva,106,121264,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,5,0,0,0,0,6.84,Deivid Washington,deivid-washington,2495,1485371,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,10,0,0,0,33,0,0,1,0,6.84,Alan Empereur,alan-empereur,206,373740,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,0,0,6.84,José López,jose-lopez,1183,1094179,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,11,0,0,0,0,6.83,Gustavo Martins,gustavo-martins,182,1105796,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,13,0,0,5,0,6.83,Lucas Esquivel,lucas-esquivel,486,1087079,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,6,0,0,0,19,0,0,1,0,6.83,Rikelme,rikelme,160,1102383,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,23,0,0,5,0,6.83,Tchê Tchê,tche-tche,726,840398,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,2,0,6.82,Erick Marcus,erick-marcus,281,1403439,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,7,0,0,2,0,6.82,Luís Henrique,luis-henrique,1194,977679,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,8,0,0,0,13,0,0,1,0,6.82,Leonardo Realpe,leonardo-realpe,291,977676,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,4,0,0,0,0,6.82,Kaiky Naves,kaiky-naves,427,1167068,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,4,0,0,1,0,6.82,Matheuzinho,matheuzinho,1492,931540,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,12,0,0,2,0,6.82,Gabriel Moscardo,gabriel-moscardo,2123,1485309,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,12,0,0,4,0,6.82,Lucas Sasha,lucas-sasha,164,123225,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,36,0,0,9,0,6.82,Robson,robson,272,850987,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,16,0,0,3,0,6.81,Madson,madson,240,243439,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,26,0,0,4,0,6.81,Juan Martín Lucero,juan-martin-lucero,781,359024,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,34,0,0,11,0,6.81,Benjamin Kuscevic,benjamin-kuscevic,934,590324,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,12,0,0,1,0,6.81,Rodrigo Battaglia,rodrigo-battaglia,456,158257,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,21,0,0,5,0,6.81,Caio Paulista,caio-paulista,699,931591,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.81,Alexandre Pato,alexandre-pato,2731,32164,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,8,0,0,3,0,6.81,David Duarte,david-duarte,108,810715,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,8,0,0,3,0,6.81,Rony,rony,3752,835260,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,14,0,0,1,0,6.81,Thiago Borbas,thiago-borbas,661,1018547,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,16,0,0,2,0,6.81,Júnior Santos,junior-santos,520,922559,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,21,0,0,4,0,6.81,Yago Pikachu,yago-pikachu,905,363688,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,10,0,0,1,0,6.81,Gilberto,gilberto,817,158561,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,16,0,0,2,0,6.8,Victor Hugo,victor-hugo,1518,1170954,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,9,0,0,0,19,0,0,3,0,6.8,Jemerson,jemerson,457,328519,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,34,0,0,4,0,6.8,Léo,leo,552,360940,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,10,0,0,0,0,6.8,Rodrigo Varanda,rodrigo-varanda,163,1105305,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,0,0,6.8,Ronald,ronald,186,1587711,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,1,0,6.8,Luciano Juba,luciano-juba,596,1017264,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,0,0,6.8,Gabriel Carabajal,gabriel-carabajal,127,830742,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,1,0,6.8,Bastos,bastos,756,215956,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,2,0,0,0,0,6.8,Rafael,rafael,538,39623,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,4,0,0,2,0,6.8,Rodrigo Moledo,rodrigo-moledo,260,72080,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,2,0,0,0,0,6.8,Lucão,lucao,16,1410337,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.8,Miguel Terceros,miguel-terceros,338,1159656,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+1,1,1,0,0,0,0,0,0,0,0,0,0,6.8,Carlos Miguel,carlos-miguel,777,973738,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.8,Gabriel Dias,gabriel-dias,128,870697,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,1,0,6.8,Fellipe Bastos,fellipe-bastos,92,42109,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.8,Rafael Gava,rafael-gava,76,870920,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.8,Nathan Camargo,nathan-camargo,27,1199453,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.8,André Dhominique,andre-dhominique,217,1177384,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,26,0,0,4,0,6.8,Leonel Di Plácido,leonel-di-placido,285,546338,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,16,0,0,2,0,6.8,Guga,guga,560,928134,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,15,0,0,1,0,6.79,Vitinho,vitinho,388,982405,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,3,0,0,0,0,6.79,Matheus Gonçalves,matheus-goncalves,1129,1175553,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,15,0,0,3,0,6.79,Ángel Romero,angel-romero,1509,1197041,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,18,0,0,3,0,6.79,Paulinho Paula,paulinho-paula,417,879902,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,9,0,0,0,42,0,0,6,0,6.79,Lucas Piton,lucas-piton,810,982174,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,15,0,0,6,0,6.79,Andrey,andrey,274,822513,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,30,0,0,4,0,6.79,Maycon,maycon,927,831778,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,34,0,0,1,0,6.79,Everton Morelli,everton-morelli,86,928137,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,0,0,6.79,Marcos Paulo,marcos-paulo,913,962027,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,2,0,6.79,Serginho,serginho,232,849301,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,1,0,6.79,Júlio César,julio-cesar,20,1185832,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,10,0,0,2,0,6.78,Jhon Jhon,jhon-jhon,492,1167069,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,14,0,0,2,0,6.78,Luca Orellano,luca-orellano,749,965764,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,1,0,6.78,Nonato,nonato,420,922566,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,32,0,0,12,0,6.78,Bruno Gomes,bruno-gomes,260,995071,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,18,0,0,3,0,6.78,Wesley,wesley,684,985766,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,35,0,0,1,0,6.78,Bruno Alves,bruno-alves,424,551810,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,12,0,0,1,0,6.78,Zé Ivaldo,ze-ivaldo,145,844602,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,2,0,0,1,0,6.78,Igor Rabello,igor-rabello,313,753662,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,29,0,0,6,0,6.78,Puma Rodríguez,puma-rodriguez,553,877591,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,17,0,0,0,0,6.77,John Kennedy,john-kennedy,1638,1087399,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,20,0,0,5,0,6.77,Matheus Bianqui,matheus-bianqui,97,981746,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,1,0,6.77,Diego Costa,diego-costa,5828,21212,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,14,0,0,5,0,6.77,Rodrigo Nestor,rodrigo-nestor,1015,905461,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,19,0,0,4,0,6.77,Michel Araújo,michel-araujo,588,924857,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,16,0,0,2,0,6.77,Bruno Henrique,bruno-henrique,8530,795291,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,8,0,0,0,26,0,0,5,0,6.77,Titi,titi,236,243435,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,44,0,0,4,0,6.77,Bruno Melo,bruno-melo,156,870851,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,8,0,0,0,0,6.77,Sorriso,sorriso,268,1105595,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,1,0,6.77,João Neto,joao-neto,59,1110033,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.77,Eduardo Vargas,eduardo-vargas,1560,37006,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,6,0,0,0,32,0,0,3,0,6.77,Walter Kannemann,walter-kannemann,844,249647,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,5,0,0,1,0,6.77,Welington,welington,523,1009920,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.77,Léo Mana,leo-mana,193,1170769,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,12,0,0,2,0,6.77,Danilo Barbosa,danilo-barbosa,326,330063,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,9,0,0,5,0,6.76,Bruno Zapelli,bruno-zapelli,922,1092354,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,12,0,0,3,0,6.76,Matheus Jussa,matheus-jussa,150,794849,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,1,0,6.76,Allan,allan,1226,828839,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,56,0,0,9,0,6.76,Juninho,juninho,250,330691,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,9,0,0,2,0,6.76,Felipe Melo,felipe-melo,1209,4811,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,2,0,6.76,Julio Furch,julio-furch,339,787551,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,24,0,0,3,0,6.76,Everaldo,everaldo,172,923951,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,13,0,0,3,0,6.76,Bruno Praxedes,bruno-praxedes,521,1018093,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,32,0,0,6,0,6.76,Marlon Lopes,marlon-lopes,124,870933,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,14,0,0,2,0,6.76,Pedro Raul,pedro-raul,1742,866911,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,25,0,0,2,0,6.76,Bruno Uvini,bruno-uvini,196,158267,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,7,0,0,1,0,6.76,Thiago Santos,thiago-santos,251,378590,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,20,0,0,0,0,6.76,Sidimar,sidimar,44,312072,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,2,0,6.76,Lucas Barbosa,lucas-barbosa,157,1067641,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,6,0,0,0,16,0,0,4,0,6.75,Marçal,marcal,523,143593,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,29,0,0,5,0,6.75,Ricardo Silva,ricardo-silva,59,599700,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,22,0,0,4,0,6.75,Fábio Santos,fabio-santos,876,35519,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,13,0,0,0,0,6.75,Rafael Ratão,rafael-ratao,508,352838,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,10,0,0,3,0,6.75,Rômulo,romulo,155,989384,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.75,Rayan,rayan,881,1464966,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,1,0,6.75,Matías Galarza,matias-galarza,462,1105836,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,9,0,0,1,0,6.75,Vanderlan,vanderlan,636,1067640,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,4,0,0,1,0,6.75,Pedrinho,pedrinho,154,1100817,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,11,0,0,1,0,6.75,Henry Mosquera,henry-mosquera,249,1170680,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,1,0,6.75,Luis Guilherme,luis-guilherme,1100,1464248,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,6,0,0,0,31,0,0,11,0,6.75,Natanael,natanael,206,1046805,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,15,0,0,4,0,6.75,Enner Valencia,enner-valencia,7568,106456,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.75,André Henrique,andre-henrique,173,1463912,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,18,0,0,3,0,6.74,Giuliano,giuliano,1235,90862,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,14,0,0,1,0,6.74,Marinho,marinho,2481,798127,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,17,0,0,2,0,6.74,Nicolás Hernández,nicolas-hernandez,276,887155,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,10,0,0,0,0,6.74,Edenilson,edenilson,680,221636,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,2,0,6.74,Gabriel Baralhas,gabriel-baralhas,190,922575,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,16,0,0,0,0,6.74,Matheus Babi,matheus-babi,369,1007431,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,16,0,0,3,0,6.74,Guilherme Augusto,guilherme-augusto,286,844605,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,0,0,6.74,Derik Lacerda,derik-lacerda,99,994190,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,15,0,0,0,0,6.73,Vinícius,vinicius,145,124807,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,3,0,6.73,Gabriel Boschilia,gabriel-boschilia,253,358540,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,0,0,6.73,Alex Nascimento,alex-nascimento,143,931556,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.73,Yani Quintero,yani-quintero,44,1000298,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,33,0,0,11,0,6.73,Jamerson,jamerson,101,972373,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,16,0,0,2,0,6.73,Alex Teixeira,alex-teixeira,917,39649,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,8,0,0,1,0,6.73,Lucas Moura,lucas-moura,7123,149710,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,2,0,6.73,Lucas Crispim,lucas-crispim,275,795178,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,8,0,0,0,29,0,0,3,0,6.73,Wesley França,wesley-franca,1074,1134200,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,12,0,0,0,0,6.73,Natan,natan,1721,1015287,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.73,Talisson,talisson,36,1463902,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,15,0,0,1,0,6.73,Marlon Gomes,marlon-gomes,1129,1105833,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,17,0,0,4,0,6.73,Zé Gabriel,ze-gabriel,286,988852,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,12,0,0,0,27,0,0,1,0,6.73,Matheus Alexandre,matheus-alexandre,119,953736,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,15,0,0,4,0,6.73,Matías Zaracho,matias-zaracho,1274,859970,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,10,0,0,0,0,6.73,Bruninho,bruninho,317,1124246,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,3,0,6.73,João Magno,joao-magno,79,945307,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,6,0,0,0,15,0,0,2,0,6.73,Diogo Barbosa,diogo-barbosa,310,243107,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,12,0,0,2,0,6.73,Alex Santana,alex-santana,219,358166,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,10,0,0,3,0,6.73,Charles Aránguiz,charles-aranguiz,2187,18304,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.73,Ignacio Laquintana,ignacio-laquintana,207,948004,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,3,0,6.73,Philipe Sampaio,philipe-sampaio,169,588996,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,11,0,0,2,0,6.73,Gabriel,gabriel,401,242052,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,19,0,0,0,0,6.72,Dieguinho,dieguinho,72,1016930,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,6,0,0,0,23,0,0,2,0,6.72,Nicolás Acevedo,nicolas-acevedo,296,959620,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,13,0,0,4,0,6.72,Mateus Vital,mateus-vital,659,823653,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,1,0,6.72,Léo Cittadini,leo-cittadini,197,332171,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,0,0,6.72,Maximiliano Silvera,maximiliano-silvera,152,1121489,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,9,0,0,1,0,6.72,Nathan,nathan,347,358538,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,16,0,0,0,0,6.71,Fábio,fabio,379,40677,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,9,0,0,7,0,6.71,Diogo Oliveira,diogo-oliveira,113,1018176,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,3,0,0,2,0,6.71,Alan Franco,alan-franco,599,822729,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,1,0,6.71,Daniel Ruiz,daniel-ruiz,818,1098305,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,19,0,0,2,0,6.71,Yago Felipe,yago-felipe,168,552164,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,8,0,0,3,0,6.71,Anderson Oliveira,anderson-oliveira,82,931538,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,21,0,0,6,0,6.71,Victor Luis,victor-luis,254,252781,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.71,Ângelo,angelo,6542,1086455,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,8,0,0,0,17,0,0,6,0,6.71,Gabriel Mercado,gabriel-mercado,480,128376,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,39,0,0,5,0,6.71,Danilo Avelar,danilo-avelar,206,121221,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,11,0,0,2,0,6.71,Vina,vina,1261,1101714,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.71,Silvio Romero,silvio-romero,287,174937,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,16,0,0,2,0,6.71,Richard Ríos,richard-rios,1956,1015292,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,23,0,0,1,0,6.71,Gilberto,gilberto,928,261687,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,19,0,0,2,0,6.7,Felipe Carballo,felipe-carballo,555,805038,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,0,0,6.7,Matías Segovia,matias-segovia,1190,988622,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,13,0,0,0,0,6.7,Aderlan,aderlan,164,584432,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,6,0,0,0,13,0,0,1,0,6.7,Renzo Saravia,renzo-saravia,573,315916,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,7,0,0,1,0,6.7,Juan,juan,411,1009928,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,1,0,6.7,Rafael Elias,rafael-elias,277,928527,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.7,Henrique Dourado,henrique-dourado,371,329219,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.7,Robert,robert,76,1500254,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,9,0,0,1,0,6.7,David Braz,david-braz,294,46942,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.7,Rafael Bilú,rafael-bilu,108,959005,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,1,0,6.7,Matheus Carvalho,matheus-carvalho,104,1391962,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,15,0,0,5,0,6.7,Bruno Viana,bruno-viana,279,804703,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.7,Breno Herculano,breno-herculano,17,1018671,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,18,0,0,1,0,6.7,Marlon,marlon,536,331853,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.7,Daniel Jr,daniel-jr,130,1172052,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.7,Alexandre Jesus,alexandre-jesus,53,1016865,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+28,20,7,0,1,8,1,2,10,1,1,5,6,6.7,Keiller,keiller,185,840082,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,23,0,0,1,0,6.7,Jadsom,jadsom,195,964127,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,0,0,6.7,Isidro Pitta,isidro-pitta,448,979861,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,30,0,0,8,0,6.7,Henrique,henrique,125,37288,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,11,0,0,3,0,6.7,Fausto Vera,fausto-vera,1664,930690,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,15,0,0,1,0,6.69,Jonathan Cafú,jonathan-cafu,210,790103,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,1,0,6.69,Carlos Alberto,carlos-alberto,164,1008700,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,0,0,6.69,Alan Kardec,alan-kardec,410,39656,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,0,0,6.69,Kayky,kayky,2093,1106151,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.69,Jean Dias,jean-dias,65,1047201,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,0,0,6.69,Matheus França,matheus-franca,2506,1116593,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.69,Alemão,alemao,515,981604,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,9,0,0,1,0,6.69,Ryan,ryan,63,1086990,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,16,0,0,3,0,6.69,Pedro Henrique,pedro-henrique,453,219190,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,0,0,6.69,David Terans,david-terans,945,586662,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,26,0,0,3,0,6.69,João Pedro,joao-pedro,351,605528,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,1,0,6.69,Pedro Geromel,pedro-geromel,578,13338,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,1,0,6.68,Talles Costa,talles-costa,407,1002360,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,14,0,0,1,0,6.68,Robson Bambu,robson-bambu,347,923186,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,15,0,0,0,0,6.68,Eric Ramires,eric-ramires,312,950545,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,5,0,0,1,0,6.68,David,david,559,840291,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,3,0,6.68,Mateus Henrique,mateus-henrique,42,1175493,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,17,0,0,3,0,6.68,Luiz Adriano,luiz-adriano,748,39438,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,0,0,6.68,Yony González,yony-gonzalez,356,351432,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,28,0,0,4,0,6.68,Alê,ale,107,869564,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,1,0,6.68,Isaac,isaac,92,1464519,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,15,0,0,0,0,6.68,Filipe Augusto,filipe-augusto,97,254561,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,0,0,6.68,Victor Cantillo,victor-cantillo,865,355802,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.68,Luan,luan,1352,386210,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,0,0,6.68,Matheus Araújo,matheus-araujo,461,1002617,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,8,0,0,1,0,6.68,Cuiabano,cuiabano,230,1160554,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,31,0,0,6,0,6.68,Felipe Azevedo,felipe-azevedo,142,166471,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,9,0,0,1,0,6.68,Gonzalo Escobar,gonzalo-escobar,91,840500,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,1,0,6.68,Figueiredo,figueiredo,482,1105790,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,0,0,6.68,Henrique Almeida,henrique-almeida,96,39402,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,24,0,0,4,0,6.68,Thiago Maia,thiago-maia,1502,358550,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,19,0,0,1,0,6.67,Andrés Hurtado,andres-hurtado,304,987589,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,10,0,0,1,0,6.67,Roni,roni,526,1046440,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,5,0,6.67,Maurício Garcez,mauricio-garcez,109,1050353,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,12,0,0,1,0,6.67,Pedro,pedro,767,1199285,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,4,0,0,1,0,6.67,Jhegson Méndez,jhegson-mendez,687,590150,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,2,0,6.67,Rodrigo Pinho,rodrigo-pinho,305,801339,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,2,0,6.67,Willian,willian,568,146308,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,10,0,0,0,0,6.67,Vinicius Mingotti,vinicius-mingotti,107,989407,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,28,0,0,1,0,6.67,Everton Galdino,everton-galdino,188,871162,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,3,0,0,1,0,6.67,Romarinho,romarinho,139,870578,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.67,Chrystian Barletta,chrystian-barletta,590,1035765,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+16,6,1,0,2,10,1,1,8,1,0,0,7,6.67,Santos,santos,1414,166491,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,17,0,0,3,0,6.67,Carlos De Pena,carlos-de-pena,416,311394,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,18,0,0,2,0,6.67,Gabriel Inocêncio,gabriel-inocencio,78,1047680,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,13,0,0,3,0,6.66,Nicolas,nicolas,118,841336,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,10,0,0,0,0,6.66,Ronald,ronald,102,931521,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,1,0,6.66,Jesé Rodríguez,jese-rodriguez,1178,110781,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,1,0,6.66,Diego Rosa,diego-rosa,345,1002415,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,7,0,0,0,34,0,0,2,0,6.66,Maguinho,maguinho,114,871209,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,0,0,6.66,Juan Cazares,juan-cazares,534,158411,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,8,0,0,0,0,6.66,Lucas Pires,lucas-pires,333,1136896,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,1,0,6.65,Lucas Fernandes,lucas-fernandes,330,837871,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,7,0,0,3,0,6.65,Matías Rojas,matias-rojas,2638,846280,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.65,Iury Castilho,iury-castilho,102,795020,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,3,0,0,0,0,6.65,Hugo Mallo,hugo-mallo,354,83506,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,3,0,0,1,0,6.65,Raí Ramos,rai-ramos,171,879591,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.65,Rwan Cruz,rwan-cruz,244,1180918,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.65,Guilherme Lopes,guilherme-lopes,37,1097858,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,2,0,6.65,Jhon Chancellor,jhon-chancellor,371,249251,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,4,0,6.65,Liziero,liziero,343,822510,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,1,0,6.65,Fabinho,fabinho,439,1117513,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,22,0,0,2,0,6.65,Gabriel Barbosa,gabriel-barbosa,17246,358554,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,11,0,0,0,0,6.65,Apodi,apodi,140,33119,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,14,0,0,1,0,6.64,Alexsander,alexsander,646,1185617,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,15,0,0,1,0,6.64,Hugo Moura,hugo-moura,333,973293,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,16,0,0,4,0,6.64,Kevyson,kevyson,155,1389980,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.64,Bruno Tabata,bruno-tabata,800,845433,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.64,Alison,alison,191,329201,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,25,0,0,5,0,6.64,Sebastian Gomez,sebastian-gomez,210,925142,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,22,0,0,7,0,6.64,Vitão,vitao,500,876625,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,7,0,0,1,0,6.64,Campanharo,campanharo,188,220094,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,1,0,6.64,Matheus Bahia,matheus-bahia,147,1047204,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,3,0,6.64,Bruno Santos,bruno-santos,49,592568,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,3,0,0,0,10,0,0,1,0,6.64,Nathan,nathan,292,1116955,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,2,0,6.64,Guilherme Camacho,guilherme-camacho,228,76444,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.63,Rafael Navarro,rafael-navarro,882,985427,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,0,0,6.63,Nathan Fernandes,fernandes-nathan,150,1494695,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.63,Giovane,giovane,528,1170773,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.63,Raul,raul,161,870760,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.63,Paulinho Bóia,paulinho-boia,156,912781,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.63,Alisson Santana,alisson-santana,68,1471221,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,1,0,6.63,João Marcelo,joao-marcelo,172,978638,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,8,0,0,5,0,6.63,Thalisson Gabriel,thalisson-gabriel,32,1109577,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,19,0,0,3,0,6.63,Igor Gomes,igor-gomes,260,997023,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,1,0,6.63,Sebastián Ferreira,sebastian-ferreira,382,822783,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,2,0,6.63,Zé Roberto,ze-roberto,205,842076,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,5,0,0,0,0,6.63,Raul Gustavo,raul-gustavo,414,1047422,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,3,0,6.63,Arthur Gomes,arthur-gomes,645,822524,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,1,0,6.63,Wallisson Luiz,wallisson-luiz,163,922601,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,14,0,0,2,0,6.63,Marcelo Benevenuto,marcelo-benevenuto,179,841808,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,5,0,0,0,15,0,0,1,0,6.63,Bruno Méndez,bruno-mendez,1036,923000,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,11,0,0,3,0,6.63,Fransérgio,fransergio,136,84847,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,0,0,6.63,Rômulo,romulo,111,1133743,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,10,0,0,1,0,6.63,Pedrinho,pedrinho,309,896248,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,11,0,0,0,0,6.63,Cicinho,cicinho,105,243271,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,2,0,6.63,Nino Paraíba,nino-paraiba,151,77375,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.62,Dodô,dodo,38,1018871,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,9,0,0,1,0,6.62,Wesley,wesley,738,1211632,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,28,0,0,5,0,6.62,Dodi,dodi,228,870804,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.62,Janderson,janderson,161,1462989,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,11,0,0,1,0,6.62,Renato Marques,marques-renato,47,1194689,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,2,0,6.62,Mikael,mikael,520,994017,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,11,0,0,0,0,6.62,Lucas Besozzi,lucas-besozzi,319,1086339,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,1,0,6.62,Andrey Santos,santos-andrey,7338,1105779,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,18,0,0,0,0,6.62,Daniel Borges,daniel-borges,90,794874,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,19,0,0,2,0,6.61,Lelê,lele,437,1173457,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,1,0,6.61,Matheusinho,matheusinho,150,822523,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.61,Kaiki,kaiki,293,1112484,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,0,0,6.61,Nicolás Quagliata,nicolas-quagliata,202,1009556,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,10,0,0,0,0,6.61,Emerson Ramon,emerson-ramon,53,1130178,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,1,0,6.61,Luan,luan,583,942426,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,1,0,6.6,Edu,edu,390,868864,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,12,0,0,2,0,6.6,João Lucas,joao-lucas,266,981019,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.6,Marcelo Cirino,marcelo-cirino,109,329027,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.6,Philippe Costa,philippe-costa,24,931508,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,1,0,6.6,Thiago Andrade,thiago-andrade,189,1106509,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,0,0,6.6,Thomas Luciano,thomas-luciano,40,1117180,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,11,0,0,0,0,6.6,Patric Calmon,patric-calmon,34,987168,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.6,Giovani,giovani,1243,1066717,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.6,Eguinaldo,eguinaldo,542,1390545,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.6,Reinaldo,reinaldo,41,981635,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.6,Ed Carlos,ed-carlos,88,1066714,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.6,Alfredo Morelos,alfredo-morelos,2267,831085,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.6,Kauan Santos,kauan-santos,93,1411222,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.6,Paulo Vitor,paulo-vitor,118,881153,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+1,1,1,0,0,0,0,0,1,0,0,0,0,6.6,Brenno,brenno,273,914481,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.6,Jair Paula,jair-paula,90,1170722,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.6,Marcos Victor,marcos-victor,88,1174196,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.6,Isaac,isaac,64,1471239,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.6,Paulo Vitor,vitor-paulo,32,1488136,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.6,Araújo,araujo,22,1584796,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.6,Ricardo Cerqueira,ricardo-cerqueira,18,1412633,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.6,Ighor Gabryel,ighor-gabryel,2,1106530,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.6,André Luiz,andre-luiz,310,1133282,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.6,Juan Iturbe,juan-iturbe,497,146415,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,3,0,6.6,Sandry,sandry,382,973847,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,0,0,6.6,Manoel,manoel,282,84845,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,16,0,0,5,0,6.6,Kaio César,kaio-cesar,96,1396009,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,10,0,0,1,0,6.6,Gabriel Neves,gabriel-neves,931,875294,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,2,0,6.59,Lucca,lucca,204,1199435,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,19,0,0,2,0,6.59,Rodriguinho,rodriguinho,63,1174770,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,0,0,6.59,Lucas Mineiro,lucas-mineiro,74,840077,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,16,0,0,2,0,6.59,Willian Farias,willian-farias,87,243239,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,0,0,6.59,Matheus Dias,dias-matheus,157,1020610,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,9,0,0,0,0,6.59,João Pedro Galvão,joao-pedro-galvao,1499,123208,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,0,0,6.59,Arturo Vidal,arturo-vidal,9366,18342,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,1,0,6.59,Guilherme Biro,guilherme-biro,879,1106667,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,11,0,0,4,0,6.59,Manuel Capasso,manuel-capasso,273,940611,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,0,0,6.59,Luís Oyama,luis-oyama,176,922570,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,9,0,0,0,0,6.59,Rodrigo Ely,rodrigo-ely,418,168745,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,2,0,6.58,Pedro Augusto,pedro-augusto,107,922556,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,0,0,6.58,Gustavinho,gustavinho,106,1463904,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,0,0,6.58,Gustavo Silva,gustavo-silva,658,863283,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,0,0,6.58,Ian Luccas,ian-luccas,108,1046496,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.58,Fernando Henrique,fernando-henrique,122,1067634,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,1,0,6.58,Giovanni,giovanni,297,1036002,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,3,0,6.58,Bruno Mezenga,bruno-mezenga,165,60472,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,2,0,6.58,Raphael Guzzo,raphael-guzzo,97,190151,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.58,Josué,josue,36,1584795,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,9,0,0,2,0,6.58,Hayner,hayner,90,807767,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,13,0,0,1,0,6.57,Alesson,alesson,64,871015,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,0,0,6.57,Cauan Barros,barros-cauan,131,1444694,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,9,0,0,0,0,6.57,Wanderson,wanderson,44,368846,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,4,0,0,1,0,6.57,Nathan,nathan,198,1016912,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,48,0,0,6,0,6.57,Iago Maidana,iago-maidana,233,599686,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,7,0,0,0,0,6.57,Patrick,patrick,594,594428,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,0,0,6.57,Edu,edu,41,989715,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.57,Vinicius Zanocelo,vinicius-zanocelo,291,973841,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,0,0,6.56,Lucas Milla,lucas-milla,90,1176212,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,2,0,6.56,Dalbert,dalbert,395,385386,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.56,Luciano Arriagada,luciano-arriagada,473,1014798,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,24,0,0,3,0,6.56,Lucas Kal,lucas-kal,124,840118,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,0,0,6.55,Neto Moura,neto-moura,213,559034,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,4,0,0,0,29,0,0,6,0,6.55,Rodrigo Fernández,rodrigo-fernandez,303,877599,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,0,0,6.55,Wellington Paulista,wellington-paulista,245,29106,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,1,0,6.55,Júnior Urso,junior-urso,175,243251,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.55,Jhonny Lucas,jhonny-lucas,74,893524,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.55,Gabriel Silva,gabriel-silva,68,1176796,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.55,Pablinho,pablinho,13,1465710,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,1,0,6.55,Rodrigo Caio,rodrigo-caio,1625,166273,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,1,0,6.55,Luan Dias,luan-dias,85,1016887,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,0,0,6.55,Felipe Augusto,felipe-augusto,431,1106681,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,1,0,6.54,Diogo Batista,batista-diogo,28,1120958,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,1,0,6.54,Kevin,kevin,680,1112879,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,1,0,6.54,Matheus Felipe,matheus-felipe,65,1110173,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.54,Erison,erison,703,1089111,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.53,Renato Kayzer,renato-kayzer,253,814723,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,11,0,0,1,0,6.53,Jhoanner Chávez,jhoanner-chavez,245,1002458,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,1,0,6.53,Felipe Andrade,felipe-andrade,36,1502619,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,1,0,6.53,JP Galvão,jp-galvao,66,1105815,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.53,Réver,rever,328,39421,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,19,0,0,0,0,6.53,Camilo Cándido,camilo-candido,213,924073,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,9,0,0,3,0,6.53,Miranda,miranda,167,926868,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,2,0,6.53,Thauan Lara,thauan-lara,166,1116956,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+47,27,10,1,1,20,6,4,27,5,2,4,23,6.53,Matheus Cavichioli,matheus-cavichioli,230,243097,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.53,Igor Formiga,igor-formiga,61,1009030,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.53,Stênio,stenio,253,1046740,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,1,0,6.53,Igor,igor,180,1128846,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,40,0,0,4,0,6.52,Éder Ferreira,eder-ferreira,106,842072,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,2,0,6.52,Arthur Sales,arthur-sales,204,1105780,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,24,0,0,0,0,6.51,Breno Cascardo,breno-cascardo,71,1469514,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.51,Jailson,jailson,418,794861,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,1,0,6.51,Weslley Patati,weslley-patati,243,1148468,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.51,Alerrandro,alerrandro,305,923948,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,2,0,0,0,29,0,0,6,0,6.5,Lucas Braga,lucas-braga,352,934801,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,0,0,6.5,Javier Méndez,javier-mendez,44,924858,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.5,Carlos Eduardo,eduardo-carlos,54,1199473,Atlético Mineiro,atletico-mineiro,Atlético Mineiro,0,0,1977,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.5,Lucas Piazón,lucas-piazon,447,156025,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.5,Mateo Ponte,mateo-ponte,308,1099163,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.5,Darlan,darlan,137,973924,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.5,Lian,lian,29,1495875,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.5,Matheus Belém,matheus-belem,119,1466551,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.5,Natã,nata,71,1175603,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.5,Pedro Junqueira,pedro-junqueira,40,1217904,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.5,Lucas Emmanuel,emmanuel-lucas,14,1106773,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,0,0,6.49,Higor Meritão,higor-meritao,70,973845,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,31,0,0,4,0,6.48,Dodô,dodo,381,108481,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,19,0,0,2,0,6.48,Marcinho,marcinho,145,840148,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,1,0,6.48,Gabriel Barros,barros-gabriel,159,1020259,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,0,0,6.48,Tobias Figueiredo,tobias-figueiredo,150,96999,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,9,0,0,0,0,6.48,Rodrigo,rodrigo,119,1105849,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,8,0,0,0,0,6.47,Diego Gonçalves,diego-goncalves,67,344077,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.47,Rodriguinho,rodriguinho,385,1200730,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,0,0,6.47,Gabriel Pirani,gabriel-pirani,517,1065962,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,1,0,6.47,Mateus Gonçalves,mateus-goncalves,65,787480,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,24,0,0,3,0,6.46,João Basso,joao-basso,197,850955,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,10,0,0,0,0,6.46,Lucas Mugni,lucas-mugni,102,249881,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,1,0,6.46,Marcos Vinícius,marcos-vinicius,18,942054,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.46,Uendel,uendel,94,123357,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,1,0,6.45,William Pottker,william-pottker,198,243501,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,9,0,0,1,0,6.45,Andreas Samaris,andreas-samaris,519,108398,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.44,Zinho Hoffmann,zinho-hoffmann,137,1385003,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.44,Japa,japa,64,1466777,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+6,4,1,0,1,2,3,1,8,3,0,0,1,6.44,Lucão,lucao,163,981586,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+21,13,2,0,0,8,3,1,5,3,0,4,3,6.44,Luan Polli,luan-polli,86,880117,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,1,0,0,0,9,0,0,3,0,6.41,Jean Pedroso,jean-pedroso,285,1462756,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.4,William,william,188,1604944,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,0,0,6.4,Gustavo Garcia,gustavo-garcia,425,1002443,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.4,Fabián Balbuena,fabian-balbuena,910,339447,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,10,0,0,1,0,6.4,Thiago Dombroski,thiago-dombroski,27,1134106,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.4,Nahuel Ferraresi,nahuel-ferraresi,930,881215,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.4,Ivonei,ivonei,188,988780,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.4,Paulo Victor,paulo-victor,128,1108505,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.4,Lucas Cunha,lucas-cunha,78,794139,Red Bull Bragantino,red-bull-bragantino,Red Bull Bragantino,0,0,1999,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.4,Fredy Noguera,fredy-noguera,68,1382425,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,2,0,6.4,Cadu,cadu,38,989462,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.4,Wesley Pombo,wesley-pombo,37,1106143,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.4,Vitão,vitao,18,1467772,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.4,Denzel Damasceno,denzel-damasceno,4,1382233,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+3,1,1,0,0,2,0,0,4,0,0,0,4,6.4,Washington Aguerre,washington-aguerre,82,311402,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+5,2,1,0,0,3,0,0,4,0,0,1,1,6.4,Pedro Rangel,pedro-rangel,71,1092614,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.4,Guillermo Varela,guillermo-varela,1194,311456,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,1,0,6.38,Junior Caiçara,junior-caicara,140,128440,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,4,0,0,0,0,6.38,Zé Vitor,ze-vitor,87,1174625,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,5,0,0,1,0,6.37,Reynaldo,reynaldo,110,877470,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,2,0,6.37,Bruno Peres,bruno-peres,328,243175,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.35,Gustavinho,gustavinho,102,1047852,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.35,Diego Hernández,diego-hernandez,319,1086482,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.35,Luis Segovia,luis-segovia,229,827141,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.35,Pedro Rocha,pedro-rocha,321,794930,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.35,Vinicius Balieiro,vinicius-balieiro,139,1065976,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.34,Matheusinho,matheusinho,19,923853,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.33,Gabriel Novaes,gabriel-novaes,98,882854,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,7,0,0,1,0,6.31,Helibelton Palacios,helibelton-palacios,394,329597,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.3,Pedro Vilhena,pedro-vilhena,181,1009937,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.3,Felipe Negrucci,felipe-negrucci,71,1485598,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,6.3,Ian Custódio,ian-custodio,57,1174943,Palmeiras,palmeiras,Palmeiras,0,0,1963,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.3,Breno,breno,52,992610,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,6.3,Vilar,vilar,41,1177012,Coritiba,coritiba,Coritiba,0,0,1982,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.3,Chiqueti,chiqueti,33,1485199,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,1,0,6.28,Esteban Burgos,esteban-burgos,79,594426,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+1,1,1,0,0,0,0,0,2,0,0,0,0,6.2,João Carlos,joao-carlos,63,795227,Cuiabá,cuiaba,Cuiabá,0,0,49202,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,6.2,Pedrinho,pedrinho,57,1412577,Flamengo,flamengo,Flamengo,0,0,5981,#52b030,#52b030,#ffffff
+7,4,2,0,0,3,0,2,8,0,0,0,2,6.17,Marcelo Rangel,marcelo-rangel,44,870902,Goiás,goias,Goiás,0,0,1960,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,2,0,0,0,0,6.1,Paulinho,paulinho,54,1464309,Vasco da Gama,vasco-da-gama,Vasco da Gama,0,0,1974,#52b030,#52b030,#ffffff
+1,1,0,0,0,0,0,0,2,0,0,0,0,6.1,Mateus Claus,mateus-claus,54,974334,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,1,0,6.08,Vinicius Kauê,vinicius-kaue,39,1116334,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,6,0,0,0,0,5.9,Du Queiroz,du-queiroz,665,1128129,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+10,6,1,0,0,4,1,0,10,1,0,3,0,5.8,Vladimir,vladimir,101,124996,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,5.7,Arthur,arthur,768,1174761,América Mineiro,america-mineiro,América Mineiro,0,0,1973,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,3,0,0,0,0,5.7,Wesley Costa,wesley-costa,27,1500368,Grêmio,gremio,Grêmio,0,0,5926,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,5.7,Kauan,kauan,14,1469769,Fortaleza,fortaleza,Fortaleza,0,0,2020,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,5.6,João Dalla Corte,joao-dalla-corte,45,1482362,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,Gabriel Mesquita,gabriel-mesquita,71,984887,Cruzeiro,cruzeiro,Cruzeiro,0,0,1954,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,Júnior Moraes,junior-moraes,522,108426,Corinthians,corinthians,Corinthians,0,0,1957,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,Lucas Ramos,lucas-ramos,111,990170,Internacional,internacional,Internacional,0,0,1966,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,Luiz Felipe,luiz-felipe,110,831993,Santos,santos,Santos,0,0,1968,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,Raí,rai,103,1175321,Botafogo,botafogo,Botafogo,0,0,1958,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,Bryan García,bryan-garcia,75,1065584,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,Talles Wander,talles-wander,75,1485604,São Paulo,sao-paulo,São Paulo,0,0,1981,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,Patrick Verhon,patrick-verhon,35,1392679,Bahia,bahia,Bahia,0,0,1955,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,Rafael Monteiro Reis,reis-rafael-monteiro,27,1485293,Fluminense,fluminense,Fluminense,0,0,1961,#52b030,#52b030,#ffffff
+0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,Daniel Martins,daniel-martins,12,1046433,Athletico,athletico,Athletico,0,0,1967,#52b030,#52b030,#ffffff
